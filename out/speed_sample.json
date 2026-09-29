@@ -1,0 +1,10209 @@
+{
+ "agentbodega.store": {
+  "latency_ms": 1427.6,
+  "status": 405,
+  "ok": true
+ },
+ "web-access-gateway.mattskowronis.workers.dev": {
+  "latency_ms": 1435.0,
+  "status": 404,
+  "ok": true
+ },
+ "signal-engine-production-d88d.up.railway.app": {
+  "latency_ms": 1517.3,
+  "status": 402,
+  "ok": true
+ },
+ "api.deepnets.ai": {
+  "latency_ms": 1547.9,
+  "status": 402,
+  "ok": true
+ },
+ "plaintext.fizzl.eu": {
+  "latency_ms": 1585.0,
+  "status": 404,
+  "ok": true
+ },
+ "digital-myto.onrender.com": {
+  "latency_ms": 1607.8,
+  "status": 402,
+  "ok": true
+ },
+ "crier.vimabrosta.com": {
+  "latency_ms": 1628.0,
+  "status": 402,
+  "ok": true
+ },
+ "pay.snowsignals.io": {
+  "latency_ms": 1703.4,
+  "status": 402,
+  "ok": true
+ },
+ "decipherranker.com": {
+  "latency_ms": 1845.5,
+  "status": 405,
+  "ok": true
+ },
+ "insider-radar-agent.insider-radar-agent.workers.dev": {
+  "latency_ms": 1878.0,
+  "status": 402,
+  "ok": true
+ },
+ "x402-datashop-production.up.railway.app": {
+  "latency_ms": 525.7,
+  "status": 402,
+  "ok": true
+ },
+ "urltrust.openverbs.com": {
+  "latency_ms": 1963.4,
+  "status": 402,
+  "ok": true
+ },
+ "music.openverbs.com": {
+  "latency_ms": 1976.0,
+  "status": 402,
+  "ok": true
+ },
+ "api.blockchainmoneymap.com": {
+  "latency_ms": 2028.2,
+  "status": 402,
+  "ok": true
+ },
+ "sendcheck-x402.pennyforgeorg.workers.dev": {
+  "latency_ms": 494.4,
+  "status": 405,
+  "ok": true
+ },
+ "foundry-csv-pipeline-integrity-mainnet.inference-chip-index.workers.dev": {
+  "latency_ms": 460.1,
+  "status": 405,
+  "ok": true
+ },
+ "brokenkey-api-link-tau.vercel.app": {
+  "latency_ms": 587.9,
+  "status": 402,
+  "ok": true
+ },
+ "pay.botonomy.ai": {
+  "latency_ms": 2140.2,
+  "status": 402,
+  "ok": true
+ },
+ "stable-media-git-ben-test-agentcash-router-pr-227-merit-systems.vercel.app": {
+  "latency_ms": 613.1,
+  "status": 405,
+  "ok": true
+ },
+ "convrgent.ai": {
+  "latency_ms": 736.6,
+  "status": 200,
+  "ok": true
+ },
+ "aeml-x402.zeabur.app": {
+  "latency_ms": 2559.1,
+  "status": 402,
+  "ok": true
+ },
+ "http--forest-gas-station--lcjl27p8lmjs.code.run": {
+  "latency_ms": 2584.0,
+  "status": 405,
+  "ok": true
+ },
+ "tools.bip-rep.com": {
+  "latency_ms": 1159.5,
+  "status": 402,
+  "ok": true
+ },
+ "stablesocial.dev": {
+  "latency_ms": 1159.4,
+  "status": 405,
+  "ok": true
+ },
+ "ident.halowerk.com": {
+  "latency_ms": 1605.4,
+  "status": 402,
+  "ok": true
+ },
+ "horizonpulse.dev": {
+  "latency_ms": 1087.7,
+  "status": 402,
+  "ok": true
+ },
+ "prediction-bot-iggf.onrender.com": {
+  "latency_ms": 1168.7,
+  "status": 402,
+  "ok": true
+ },
+ "wallet.lonestaroracle.xyz": {
+  "latency_ms": 1377.0,
+  "status": 402,
+  "ok": true
+ },
+ "agentum.lat": {
+  "latency_ms": 1381.6,
+  "status": 402,
+  "ok": true
+ },
+ "headers.use.x402atlas.com": {
+  "latency_ms": 1371.1,
+  "status": 402,
+  "ok": true
+ },
+ "x402engine.app": {
+  "latency_ms": 1661.5,
+  "status": 402,
+  "ok": true
+ },
+ "livecheck.fly.dev": {
+  "latency_ms": 1455.3,
+  "status": 404,
+  "ok": true
+ },
+ "edgar.apitoll.cloud": {
+  "latency_ms": 2115.2,
+  "status": 402,
+  "ok": true
+ },
+ "pack.api.williamrobinson.dev": {
+  "latency_ms": 2470.8,
+  "status": 402,
+  "ok": true
+ },
+ "screenshots.underscoredone.com": {
+  "latency_ms": 2440.6,
+  "status": 402,
+  "ok": true
+ },
+ "kette.halowerk.com": {
+  "latency_ms": 2205.7,
+  "status": 402,
+  "ok": true
+ },
+ "aura-revenue.helionixlabs.com": {
+  "latency_ms": 2091.6,
+  "status": 403,
+  "ok": true
+ },
+ "x402-trends-server.onrender.com": {
+  "latency_ms": 1430.2,
+  "status": 402,
+  "ok": true
+ },
+ "agentforge-taupe.vercel.app": {
+  "latency_ms": 2667.2,
+  "status": 402,
+  "ok": true
+ },
+ "x402-tollbooth.onrender.com": {
+  "latency_ms": 2007.9,
+  "status": 404,
+  "ok": true
+ },
+ "api.koreafilings.com": {
+  "latency_ms": 1811.3,
+  "status": 402,
+  "ok": true
+ },
+ "api.qist.info": {
+  "latency_ms": 842.8,
+  "status": 402,
+  "ok": true
+ },
+ "space.halowerk.com": {
+  "latency_ms": 1992.3,
+  "status": 402,
+  "ok": true
+ },
+ "chain-analyzer.com": {
+  "latency_ms": 548.3,
+  "status": 402,
+  "ok": true
+ },
+ "api.verigrace.com:4450": {
+  "latency_ms": 2051.6,
+  "status": 402,
+  "ok": true
+ },
+ "burn-once-secret-vault.jannioura.workers.dev": {
+  "latency_ms": 833.4,
+  "status": 200,
+  "ok": true
+ },
+ "defi-ops-402.vercel.app": {
+  "latency_ms": 1211.5,
+  "status": 402,
+  "ok": true
+ },
+ "shopperpulse.theaslangroupllc.com": {
+  "latency_ms": 664.8,
+  "status": 402,
+  "ok": true
+ },
+ "api.losbeto.xyz": {
+  "latency_ms": 1027.1,
+  "status": 402,
+  "ok": true
+ },
+ "vmi1759441.contaboserver.net": {
+  "latency_ms": 3603.5,
+  "status": 200,
+  "ok": true
+ },
+ "money.openverbs.com": {
+  "latency_ms": 1028.3,
+  "status": 402,
+  "ok": true
+ },
+ "x402.browserbase.com": {
+  "latency_ms": 1004.0,
+  "status": 404,
+  "ok": true
+ },
+ "solar.halowerk.com": {
+  "latency_ms": 1659.0,
+  "status": 402,
+  "ok": true
+ },
+ "miorail.xyz": {
+  "latency_ms": 2779.2,
+  "status": 402,
+  "ok": true
+ },
+ "api.itsgloria.ai": {
+  "latency_ms": 841.7,
+  "status": 402,
+  "ok": true
+ },
+ "x402-paid-mcp.vercel.app": {
+  "latency_ms": 1864.3,
+  "status": 405,
+  "ok": true
+ },
+ "iposignal.xyz": {
+  "latency_ms": 1671.4,
+  "status": 402,
+  "ok": true
+ },
+ "x402tap.com": {
+  "latency_ms": 654.1,
+  "status": 402,
+  "ok": true
+ },
+ "agentworld.me": {
+  "latency_ms": 1460.7,
+  "status": 402,
+  "ok": true
+ },
+ "scrooge-x402-tool-mill.vercel.app": {
+  "latency_ms": 1144.1,
+  "status": 402,
+  "ok": true
+ },
+ "sanctions.nsgoods.org": {
+  "latency_ms": 1157.9,
+  "status": 402,
+  "ok": true
+ },
+ "presign-guard.onrender.com": {
+  "latency_ms": 643.6,
+  "status": 402,
+  "ok": true
+ },
+ "numberintel.dev": {
+  "latency_ms": 830.2,
+  "status": 402,
+  "ok": true
+ },
+ "api.relayshield.net": {
+  "latency_ms": 1273.1,
+  "status": 405,
+  "ok": true
+ },
+ "mcp.deep3.ai": {
+  "latency_ms": 1274.7,
+  "status": 400,
+  "ok": true
+ },
+ "options.lonestaroracle.xyz": {
+  "latency_ms": 1032.3,
+  "status": 402,
+  "ok": true
+ },
+ "api.socialfetch.dev": {
+  "latency_ms": 666.8,
+  "status": 402,
+  "ok": true
+ },
+ "agents.withzero.xyz": {
+  "latency_ms": 769.1,
+  "status": 404,
+  "ok": true
+ },
+ "places.openverbs.com": {
+  "latency_ms": 855.6,
+  "status": 402,
+  "ok": true
+ },
+ "app.distro.media": {
+  "latency_ms": 774.9,
+  "status": 404,
+  "ok": true
+ },
+ "nostrpulse.xyz": {
+  "latency_ms": 1526.1,
+  "status": 402,
+  "ok": true
+ },
+ "api.queryspigot.com": {
+  "latency_ms": 1500.8,
+  "status": 400,
+  "ok": true
+ },
+ "app.wellnizz.com": {
+  "latency_ms": 780.5,
+  "status": 402,
+  "ok": true
+ },
+ "agent-trust-layer.agent-trust-layer.workers.dev": {
+  "latency_ms": 3099.9,
+  "status": 402,
+  "ok": true
+ },
+ "x402-retire-git-feat-paid-indexing-gate-and-openapi-carbonmark.vercel.app": {
+  "latency_ms": 829.8,
+  "status": 402,
+  "ok": true
+ },
+ "sports-predictor-api.fly.dev": {
+  "latency_ms": 784.3,
+  "status": 402,
+  "ok": true
+ },
+ "gblin-sentinel.vercel.app": {
+  "latency_ms": 722.0,
+  "status": 402,
+  "ok": true
+ },
+ "www.stratalize.com": {
+  "latency_ms": 1245.7,
+  "status": 402,
+  "ok": true
+ },
+ "aicomglobal.com": {
+  "latency_ms": 836.3,
+  "status": 200,
+  "ok": true
+ },
+ "tripadvisor.x402.paysponge.com": {
+  "latency_ms": 837.3,
+  "status": 402,
+  "ok": true
+ },
+ "api.strale.io": {
+  "latency_ms": 1206.9,
+  "status": 402,
+  "ok": true
+ },
+ "overhang.ochinimus.app": {
+  "latency_ms": 1275.0,
+  "status": 402,
+  "ok": true
+ },
+ "api.rafidsystem.com": {
+  "latency_ms": null,
+  "status": null,
+  "ok": false,
+  "error": "HTTPSConnectionPool(host='api.rafidsystem.com', port=443): Read timed out. (read timeout=6)"
+ },
+ "randomfactsx402.vercel.app": {
+  "latency_ms": 1611.7,
+  "status": 402,
+  "ok": true
+ },
+ "spawnxchange-api-485602182462.europe-west4.run.app": {
+  "latency_ms": 996.7,
+  "status": 405,
+  "ok": true
+ },
+ "btcnode.uk": {
+  "latency_ms": 1178.0,
+  "status": 402,
+  "ok": true
+ },
+ "memegeneratorx402.vercel.app": {
+  "latency_ms": 584.7,
+  "status": 402,
+  "ok": true
+ },
+ "app.x402receipts.com": {
+  "latency_ms": 1375.5,
+  "status": 402,
+  "ok": true
+ },
+ "peoplescourt.ai": {
+  "latency_ms": 1001.9,
+  "status": 405,
+  "ok": true
+ },
+ "api.dekist42.com": {
+  "latency_ms": 1406.0,
+  "status": 405,
+  "ok": true
+ },
+ "ip402.xyz": {
+  "latency_ms": 1353.0,
+  "status": 402,
+  "ok": true
+ },
+ "x402-integration-risk.vercel.app": {
+  "latency_ms": 1037.3,
+  "status": 404,
+  "ok": true
+ },
+ "toolrail.dev": {
+  "latency_ms": 822.3,
+  "status": 402,
+  "ok": true
+ },
+ "ai.stable-jack.com": {
+  "latency_ms": 850.2,
+  "status": 404,
+  "ok": true
+ },
+ "x402stock.vercel.app": {
+  "latency_ms": 1697.3,
+  "status": 402,
+  "ok": true
+ },
+ "braille.openverbs.com": {
+  "latency_ms": 1250.4,
+  "status": 402,
+  "ok": true
+ },
+ "testnet.queryspigot.com": {
+  "latency_ms": 1997.4,
+  "status": 400,
+  "ok": true
+ },
+ "jsonrecon.com": {
+  "latency_ms": 1451.6,
+  "status": 402,
+  "ok": true
+ },
+ "cryptoops.friczero.com": {
+  "latency_ms": 1128.2,
+  "status": 402,
+  "ok": true
+ },
+ "trace.sociologic.ai": {
+  "latency_ms": 1126.4,
+  "status": 404,
+  "ok": true
+ },
+ "enrichx402.com": {
+  "latency_ms": 1186.2,
+  "status": 405,
+  "ok": true
+ },
+ "asiaref.dev": {
+  "latency_ms": 2144.7,
+  "status": 402,
+  "ok": true
+ },
+ "x402-ofac-api.vercel.app": {
+  "latency_ms": 1481.3,
+  "status": 405,
+  "ok": true
+ },
+ "gateway.sanfoundation.com": {
+  "latency_ms": 1322.2,
+  "status": 402,
+  "ok": true
+ },
+ "router.mudko.com": {
+  "latency_ms": 1313.4,
+  "status": 402,
+  "ok": true
+ },
+ "markdown-extractor.jannioura.workers.dev": {
+  "latency_ms": 668.7,
+  "status": 402,
+  "ok": true
+ },
+ "cors-header-checker.underscoredone.com": {
+  "latency_ms": 1216.5,
+  "status": 402,
+  "ok": true
+ },
+ "funding.lonestaroracle.xyz": {
+  "latency_ms": 1417.4,
+  "status": 402,
+  "ok": true
+ },
+ "greenhouse-jobs-snapshot-sepolia.boshfred.workers.dev": {
+  "latency_ms": 452.2,
+  "status": 405,
+  "ok": true
+ },
+ "protocol.useagentbank.com": {
+  "latency_ms": 621.9,
+  "status": 404,
+  "ok": true
+ },
+ "datastand.dev": {
+  "latency_ms": 487.8,
+  "status": 402,
+  "ok": true
+ },
+ "clink-lithium-vault.fly.dev": {
+  "latency_ms": 771.6,
+  "status": 402,
+  "ok": true
+ },
+ "rugsense.xyz": {
+  "latency_ms": 2149.3,
+  "status": 402,
+  "ok": true
+ },
+ "api.grip.fyi": {
+  "latency_ms": 1311.5,
+  "status": 404,
+  "ok": true
+ },
+ "lionx402.com": {
+  "latency_ms": 842.5,
+  "status": 402,
+  "ok": true
+ },
+ "www.ax1.vc": {
+  "latency_ms": 1075.8,
+  "status": 405,
+  "ok": true
+ },
+ "hunter.x402.paywithlocus.com": {
+  "latency_ms": 1118.8,
+  "status": 404,
+  "ok": true
+ },
+ "memory.fluidrack.com": {
+  "latency_ms": 1311.1,
+  "status": 405,
+  "ok": true
+ },
+ "402signal.com": {
+  "latency_ms": 774.3,
+  "status": 402,
+  "ok": true
+ },
+ "cloud.trycorpus.ai": {
+  "latency_ms": 709.6,
+  "status": 402,
+  "ok": true
+ },
+ "snowsignals-x402.snowsignals.workers.dev": {
+  "latency_ms": 725.8,
+  "status": 402,
+  "ok": true
+ },
+ "api.clawfetch.ai": {
+  "latency_ms": 1620.8,
+  "status": 404,
+  "ok": true
+ },
+ "api-dev.agents.skillfulai.io": {
+  "latency_ms": 1274.1,
+  "status": 402,
+  "ok": true
+ },
+ "evidence.api.williamrobinson.dev": {
+  "latency_ms": 909.6,
+  "status": 402,
+  "ok": true
+ },
+ "mail.cusethejuice.com": {
+  "latency_ms": null,
+  "status": null,
+  "ok": false,
+  "error": "HTTPSConnectionPool(host='mail.cusethejuice.com', port=443): Read timed out. (read timeout=6)"
+ },
+ "appstore.use.x402atlas.com": {
+  "latency_ms": 1535.8,
+  "status": 402,
+  "ok": true
+ },
+ "sftunes.com": {
+  "latency_ms": 1463.0,
+  "status": 402,
+  "ok": true
+ },
+ "elevenlabs.x402.paywithlocus.com": {
+  "latency_ms": 1191.0,
+  "status": 404,
+  "ok": true
+ },
+ "staging.402utils.com": {
+  "latency_ms": null,
+  "status": null,
+  "ok": false,
+  "error": "HTTPSConnectionPool(host='staging.402utils.com', port=443): Read timed out. (read timeout=6)"
+ },
+ "ssl.use.x402atlas.com": {
+  "latency_ms": 2067.3,
+  "status": 402,
+  "ok": true
+ },
+ "api.agentstools.dev": {
+  "latency_ms": 2036.2,
+  "status": 402,
+  "ok": true
+ },
+ "x402.aispace.bot": {
+  "latency_ms": 2016.5,
+  "status": 405,
+  "ok": true
+ },
+ "experiment-001-production-90c3.up.railway.app": {
+  "latency_ms": 2360.9,
+  "status": 405,
+  "ok": true
+ },
+ "x402-solvers.onrender.com": {
+  "latency_ms": 1621.8,
+  "status": 404,
+  "ok": true
+ },
+ "x402.aubr.ai": {
+  "latency_ms": 2185.1,
+  "status": 402,
+  "ok": true
+ },
+ "api.newsgurus.ai": {
+  "latency_ms": 2085.3,
+  "status": 402,
+  "ok": true
+ },
+ "testnet-registry.wickedapi.com": {
+  "latency_ms": 2279.0,
+  "status": 402,
+  "ok": true
+ },
+ "postcode-api-production.up.railway.app": {
+  "latency_ms": 1897.9,
+  "status": 402,
+  "ok": true
+ },
+ "farouter.tech": {
+  "latency_ms": 1458.3,
+  "status": 405,
+  "ok": true
+ },
+ "melssa.com": {
+  "latency_ms": 2667.0,
+  "status": 402,
+  "ok": true
+ },
+ "x402.dellbot.win": {
+  "latency_ms": 2423.1,
+  "status": 200,
+  "ok": true
+ },
+ "agent-treats-production.up.railway.app": {
+  "latency_ms": 1899.4,
+  "status": 402,
+  "ok": true
+ },
+ "torii-gateway-staging.ichis-lab.workers.dev": {
+  "latency_ms": 2123.5,
+  "status": 402,
+  "ok": true
+ },
+ "onchainrouter.dev": {
+  "latency_ms": 2663.5,
+  "status": 404,
+  "ok": true
+ },
+ "hyperliquid.use.x402atlas.com": {
+  "latency_ms": 3442.7,
+  "status": 402,
+  "ok": true
+ },
+ "witness.bnbot.ai": {
+  "latency_ms": 1295.8,
+  "status": 402,
+  "ok": true
+ },
+ "blockrun-web-vbsbhh7lea-uc.a.run.app": {
+  "latency_ms": 3064.5,
+  "status": 402,
+  "ok": true
+ },
+ "x402stock.pay.zeroclick.io": {
+  "latency_ms": 1604.4,
+  "status": 402,
+  "ok": true
+ },
+ "linklens-sand.vercel.app": {
+  "latency_ms": 1986.8,
+  "status": 402,
+  "ok": true
+ },
+ "x402.jmthomasofficial.com": {
+  "latency_ms": 1939.6,
+  "status": 402,
+  "ok": true
+ },
+ "twitter.surf.cascade.fyi": {
+  "latency_ms": 3549.7,
+  "status": 402,
+  "ok": true
+ },
+ "www.api-xpay.com": {
+  "latency_ms": 2048.1,
+  "status": 402,
+  "ok": true
+ },
+ "human.twin3.ai": {
+  "latency_ms": 1659.5,
+  "status": 402,
+  "ok": true
+ },
+ "glim.sh": {
+  "latency_ms": 5149.1,
+  "status": 404,
+  "ok": true
+ },
+ "shelf.thirdmade.net": {
+  "latency_ms": 1861.0,
+  "status": 402,
+  "ok": true
+ },
+ "api.x402intel.uk": {
+  "latency_ms": 2505.8,
+  "status": 402,
+  "ok": true
+ },
+ "fx.openverbs.com": {
+  "latency_ms": 2145.9,
+  "status": 402,
+  "ok": true
+ },
+ "sec.use.x402atlas.com": {
+  "latency_ms": 2518.2,
+  "status": 402,
+  "ok": true
+ },
+ "signals.edge.report": {
+  "latency_ms": 2377.0,
+  "status": 402,
+  "ok": true
+ },
+ "x402.qsig.net": {
+  "latency_ms": 2327.8,
+  "status": 402,
+  "ok": true
+ },
+ "mcpfax-markets.bowling-anthony.workers.dev": {
+  "latency_ms": 1573.1,
+  "status": 402,
+  "ok": true
+ },
+ "pathmint.edge.report": {
+  "latency_ms": 2920.8,
+  "status": 402,
+  "ok": true
+ },
+ "play.0000402.xyz": {
+  "latency_ms": 2501.1,
+  "status": 405,
+  "ok": true
+ },
+ "kronossignals.com": {
+  "latency_ms": 2339.5,
+  "status": 402,
+  "ok": true
+ },
+ "x402-production-0f93.up.railway.app": {
+  "latency_ms": 2199.4,
+  "status": 404,
+  "ok": true
+ },
+ "x402-demo-discovery-endpoint.vercel.app": {
+  "latency_ms": 2749.0,
+  "status": 402,
+  "ok": true
+ },
+ "stackbill.app": {
+  "latency_ms": 1803.1,
+  "status": 405,
+  "ok": true
+ },
+ "seo.openverbs.com": {
+  "latency_ms": 1952.7,
+  "status": 402,
+  "ok": true
+ },
+ "deepai.pay.zeroclick.io": {
+  "latency_ms": 1548.3,
+  "status": 401,
+  "ok": true
+ },
+ "address.agentic-jp.com": {
+  "latency_ms": 1638.3,
+  "status": 400,
+  "ok": true
+ },
+ "ostland.halowerk.com": {
+  "latency_ms": 2192.0,
+  "status": 404,
+  "ok": true
+ },
+ "useragent.openverbs.com": {
+  "latency_ms": 2037.8,
+  "status": 402,
+  "ok": true
+ },
+ "fracht.halowerk.com": {
+  "latency_ms": 2449.5,
+  "status": 402,
+  "ok": true
+ },
+ "mcp.courtdelta.com": {
+  "latency_ms": 1769.1,
+  "status": 402,
+  "ok": true
+ },
+ "x402-vault-service.vercel.app": {
+  "latency_ms": 2765.4,
+  "status": 405,
+  "ok": true
+ },
+ "checksum.openverbs.com": {
+  "latency_ms": 1966.9,
+  "status": 402,
+  "ok": true
+ },
+ "source-claim-proof.mattskowronis.workers.dev": {
+  "latency_ms": 1424.0,
+  "status": 404,
+  "ok": true
+ },
+ "agentresolver.vercel.app": {
+  "latency_ms": 2426.4,
+  "status": 402,
+  "ok": true
+ },
+ "allowance.schemasure.com": {
+  "latency_ms": 1818.0,
+  "status": 404,
+  "ok": true
+ },
+ "devpkg-intel.bowling-anthony.workers.dev": {
+  "latency_ms": 1374.4,
+  "status": 402,
+  "ok": true
+ },
+ "cyberpulse.theaslangroupllc.com": {
+  "latency_ms": 1205.4,
+  "status": 402,
+  "ok": true
+ },
+ "stableproduct.dev": {
+  "latency_ms": 1712.6,
+  "status": 402,
+  "ok": true
+ },
+ "api.3route.io": {
+  "latency_ms": 2624.2,
+  "status": 404,
+  "ok": true
+ },
+ "api.proxyllm.ai": {
+  "latency_ms": 1332.1,
+  "status": 402,
+  "ok": true
+ },
+ "agente.revenuerecoveryai.app": {
+  "latency_ms": 1676.4,
+  "status": 402,
+  "ok": true
+ },
+ "api.sirenic.eu": {
+  "latency_ms": 3158.7,
+  "status": 402,
+  "ok": true
+ },
+ "engine.beehivewebstudio.com": {
+  "latency_ms": 3757.7,
+  "status": 402,
+  "ok": true
+ },
+ "horrorstoryapi.vercel.app": {
+  "latency_ms": 1469.8,
+  "status": 402,
+  "ok": true
+ },
+ "x402-market-intel-mcp.mtree.workers.dev": {
+  "latency_ms": 1138.9,
+  "status": 402,
+  "ok": true
+ },
+ "whodeployed.wtf": {
+  "latency_ms": 1056.8,
+  "status": 402,
+  "ok": true
+ },
+ "api.getsly.ai": {
+  "latency_ms": 2349.8,
+  "status": 402,
+  "ok": true
+ },
+ "www.robbiegeorgephotography.com": {
+  "latency_ms": null,
+  "status": null,
+  "ok": false,
+  "error": "HTTPSConnectionPool(host='www.robbiegeorgephotography.com', port=443): Max retries exceeded with url: /v1/query/atomic/r"
+ },
+ "agent-ready.dev": {
+  "latency_ms": 2359.0,
+  "status": 402,
+  "ok": true
+ },
+ "hlrisk.paidapis.net": {
+  "latency_ms": 1651.4,
+  "status": 402,
+  "ok": true
+ },
+ "news.netzhandwerker.de": {
+  "latency_ms": 2454.6,
+  "status": 402,
+  "ok": true
+ },
+ "website2vat.com": {
+  "latency_ms": 1653.8,
+  "status": 404,
+  "ok": true
+ },
+ "briefing-service.wholemind.workers.dev": {
+  "latency_ms": 2279.7,
+  "status": 404,
+  "ok": true
+ },
+ "x402-gateway-production.up.railway.app": {
+  "latency_ms": 1613.7,
+  "status": 200,
+  "ok": true
+ },
+ "dappgrade.vercel.app": {
+  "latency_ms": 1582.4,
+  "status": 402,
+  "ok": true
+ },
+ "x402.agentindex.world": {
+  "latency_ms": 2945.1,
+  "status": 405,
+  "ok": true
+ },
+ "minia2a.uk": {
+  "latency_ms": 1327.8,
+  "status": 402,
+  "ok": true
+ },
+ "web-production-220a3.up.railway.app": {
+  "latency_ms": 1288.7,
+  "status": 405,
+  "ok": true
+ },
+ "ical.openverbs.com": {
+  "latency_ms": 1316.7,
+  "status": 402,
+  "ok": true
+ },
+ "dt0ur.online": {
+  "latency_ms": 1502.3,
+  "status": 402,
+  "ok": true
+ },
+ "gate.brix-bee.workers.dev": {
+  "latency_ms": 727.7,
+  "status": 402,
+  "ok": true
+ },
+ "orchard-data.letom1176.workers.dev": {
+  "latency_ms": 1323.6,
+  "status": 402,
+  "ok": true
+ },
+ "jobs.use.x402atlas.com": {
+  "latency_ms": 1892.4,
+  "status": 402,
+  "ok": true
+ },
+ "machine-commerce-lab.machinecommercelab.workers.dev": {
+  "latency_ms": 1112.3,
+  "status": 402,
+  "ok": true
+ },
+ "ens-resolver.underscoredone.com": {
+  "latency_ms": 674.2,
+  "status": 402,
+  "ok": true
+ },
+ "arbipulse.theaslangroupllc.com": {
+  "latency_ms": 999.7,
+  "status": 402,
+  "ok": true
+ },
+ "geodns.iwsolutions.ca": {
+  "latency_ms": 1913.1,
+  "status": 404,
+  "ok": true
+ },
+ "gleif.openverbs.com": {
+  "latency_ms": 1177.3,
+  "status": 402,
+  "ok": true
+ },
+ "agent-api-production.tim1712.workers.dev": {
+  "latency_ms": 535.9,
+  "status": 404,
+  "ok": true
+ },
+ "proofpulse-api.rvernick05.workers.dev": {
+  "latency_ms": 497.8,
+  "status": 404,
+  "ok": true
+ },
+ "rwa.lonestaroracle.xyz": {
+  "latency_ms": 1383.0,
+  "status": 402,
+  "ok": true
+ },
+ "api.blockchain.info": {
+  "latency_ms": 1079.5,
+  "status": 402,
+  "ok": true
+ },
+ "pay.retraced.site": {
+  "latency_ms": 1110.9,
+  "status": 402,
+  "ok": true
+ },
+ "lookups.alienprobe.ai": {
+  "latency_ms": 594.5,
+  "status": 400,
+  "ok": true
+ },
+ "api.x402dataapi.com": {
+  "latency_ms": 2332.1,
+  "status": 404,
+  "ok": true
+ },
+ "www.x402financialdata.com": {
+  "latency_ms": 721.2,
+  "status": 402,
+  "ok": true
+ },
+ "x402.tabiji.ai": {
+  "latency_ms": 436.5,
+  "status": 404,
+  "ok": true
+ },
+ "agentpaystore.com": {
+  "latency_ms": 1509.2,
+  "status": 402,
+  "ok": true
+ },
+ "sentiment.openverbs.com": {
+  "latency_ms": 898.2,
+  "status": 402,
+  "ok": true
+ },
+ "pack.openverbs.com": {
+  "latency_ms": 874.0,
+  "status": 402,
+  "ok": true
+ },
+ "anime-intelligence.goodmy0312.workers.dev": {
+  "latency_ms": 1055.1,
+  "status": 402,
+  "ok": true
+ },
+ "analyst.lonestaroracle.xyz": {
+  "latency_ms": 1067.2,
+  "status": 402,
+  "ok": true
+ },
+ "polynews.news": {
+  "latency_ms": 1064.0,
+  "status": 402,
+  "ok": true
+ },
+ "endpoint-intelligence-edge.ldbertoldi.workers.dev": {
+  "latency_ms": 431.2,
+  "status": 404,
+  "ok": true
+ },
+ "signal.keelbase.io": {
+  "latency_ms": 1031.3,
+  "status": 402,
+  "ok": true
+ },
+ "alphapulse.theaslangroupllc.com": {
+  "latency_ms": 579.6,
+  "status": 402,
+  "ok": true
+ },
+ "taskfleet.net": {
+  "latency_ms": 1191.8,
+  "status": 200,
+  "ok": true
+ },
+ "poketpoker.com": {
+  "latency_ms": 2060.2,
+  "status": 402,
+  "ok": true
+ },
+ "know.fast": {
+  "latency_ms": 1670.0,
+  "status": 401,
+  "ok": true
+ },
+ "api.tradebot.devs.surf": {
+  "latency_ms": 1909.6,
+  "status": 405,
+  "ok": true
+ },
+ "vendsdk.com": {
+  "latency_ms": 621.7,
+  "status": 402,
+  "ok": true
+ },
+ "rtt.phoenix-ai.work": {
+  "latency_ms": 633.0,
+  "status": 200,
+  "ok": true
+ },
+ "api.demandex.dev": {
+  "latency_ms": 919.8,
+  "status": 402,
+  "ok": true
+ },
+ "readx.sh": {
+  "latency_ms": 1876.7,
+  "status": 402,
+  "ok": true
+ },
+ "signals.gitdealflow.com": {
+  "latency_ms": 1554.2,
+  "status": 405,
+  "ok": true
+ },
+ "api.robotsshop.io": {
+  "latency_ms": 1490.0,
+  "status": 200,
+  "ok": true
+ },
+ "parquetharmonize-v01-x402-262046248169.northamerica-northeast2.run.app": {
+  "latency_ms": 1008.4,
+  "status": 405,
+  "ok": true
+ },
+ "pulse.theaslangroupllc.com": {
+  "latency_ms": 549.4,
+  "status": 402,
+  "ok": true
+ },
+ "api.locus.report": {
+  "latency_ms": 1475.1,
+  "status": 402,
+  "ok": true
+ },
+ "presign-guard.fizzl.eu": {
+  "latency_ms": 1346.3,
+  "status": 402,
+  "ok": true
+ },
+ "xx402.vercel.app": {
+  "latency_ms": 728.0,
+  "status": 402,
+  "ok": true
+ },
+ "toolcall.click": {
+  "latency_ms": 1095.7,
+  "status": 402,
+  "ok": true
+ },
+ "cc0.company": {
+  "latency_ms": 1038.9,
+  "status": 405,
+  "ok": true
+ },
+ "www.xplace.dev": {
+  "latency_ms": 1441.9,
+  "status": 402,
+  "ok": true
+ },
+ "x402.telnyx.com": {
+  "latency_ms": 874.4,
+  "status": 404,
+  "ok": true
+ },
+ "agentforge-production-0893.up.railway.app": {
+  "latency_ms": 943.0,
+  "status": 401,
+  "ok": true
+ },
+ "query-gap-radar-mainnet-production.up.railway.app": {
+  "latency_ms": 836.7,
+  "status": 404,
+  "ok": true
+ },
+ "api.maxwellinternational.ai": {
+  "latency_ms": 1290.3,
+  "status": 402,
+  "ok": true
+ },
+ "search.openverbs.com": {
+  "latency_ms": 798.0,
+  "status": 402,
+  "ok": true
+ },
+ "api.sumvid.app": {
+  "latency_ms": 1019.7,
+  "status": 405,
+  "ok": true
+ },
+ "crawlspur.halowerk.com": {
+  "latency_ms": 1330.8,
+  "status": 404,
+  "ok": true
+ },
+ "x402.dailyelo.com": {
+  "latency_ms": 626.4,
+  "status": 402,
+  "ok": true
+ },
+ "api.getanyapi.com": {
+  "latency_ms": 905.0,
+  "status": 401,
+  "ok": true
+ },
+ "agenticfinancegraph.com": {
+  "latency_ms": 870.7,
+  "status": 402,
+  "ok": true
+ },
+ "api.edifiedlab.com": {
+  "latency_ms": 1112.2,
+  "status": 402,
+  "ok": true
+ },
+ "canary.countersignpay.com": {
+  "latency_ms": 812.6,
+  "status": 402,
+  "ok": true
+ },
+ "pcb.api.williamrobinson.dev": {
+  "latency_ms": 848.0,
+  "status": 402,
+  "ok": true
+ },
+ "api.govparse.io": {
+  "latency_ms": 715.8,
+  "status": 402,
+  "ok": true
+ },
+ "x402-production-d123.up.railway.app": {
+  "latency_ms": 722.5,
+  "status": 404,
+  "ok": true
+ },
+ "airscout.scalpstream.com": {
+  "latency_ms": 1092.1,
+  "status": 402,
+  "ok": true
+ },
+ "api.monpham.work": {
+  "latency_ms": 690.8,
+  "status": 402,
+  "ok": true
+ },
+ "signal-foundry.replit.app": {
+  "latency_ms": 927.8,
+  "status": 402,
+  "ok": true
+ },
+ "verifier.quantumshieldlabs.dev": {
+  "latency_ms": 1292.8,
+  "status": 405,
+  "ok": true
+ },
+ "agent-contract-proof.mattskowronis.workers.dev": {
+  "latency_ms": 502.1,
+  "status": 404,
+  "ok": true
+ },
+ "api.infiniterb.com": {
+  "latency_ms": null,
+  "status": null,
+  "ok": false,
+  "error": "HTTPSConnectionPool(host='api.infiniterb.com', port=443): Max retries exceeded with url: /api/bazaar/markets (Caused by "
+ },
+ "api.stackgoai.com": {
+  "latency_ms": 848.1,
+  "status": 405,
+  "ok": true
+ },
+ "agent.memoryapi.org": {
+  "latency_ms": 937.3,
+  "status": 402,
+  "ok": true
+ },
+ "domain-availability-checker.underscoredone.com": {
+  "latency_ms": 686.2,
+  "status": 402,
+  "ok": true
+ },
+ "mcp.dropenginehq.com": {
+  "latency_ms": 814.9,
+  "status": 402,
+  "ok": true
+ },
+ "api.hivemindos.app": {
+  "latency_ms": 741.5,
+  "status": 405,
+  "ok": true
+ },
+ "wallet-sanctions.use.x402atlas.com": {
+  "latency_ms": 1200.7,
+  "status": 402,
+  "ok": true
+ },
+ "87-106-119-237.sslip.io": {
+  "latency_ms": 1901.7,
+  "status": 402,
+  "ok": true
+ },
+ "paket.halowerk.com": {
+  "latency_ms": 1394.4,
+  "status": 402,
+  "ok": true
+ },
+ "alest-x402.alest.workers.dev": {
+  "latency_ms": 595.1,
+  "status": 402,
+  "ok": true
+ },
+ "www.bitcoind.app": {
+  "latency_ms": 1148.4,
+  "status": 402,
+  "ok": true
+ },
+ "grant-search.46-224-157-88.sslip.io": {
+  "latency_ms": 1908.9,
+  "status": 402,
+  "ok": true
+ },
+ "weather.agentic-jp.com": {
+  "latency_ms": 432.5,
+  "status": 402,
+  "ok": true
+ },
+ "r3l4y58.bithash.cc": {
+  "latency_ms": 1352.0,
+  "status": 402,
+  "ok": true
+ },
+ "ai-agent-payment-safety-stack.onrender.com": {
+  "latency_ms": 667.9,
+  "status": 405,
+  "ok": true
+ },
+ "formwerk.halowerk.com": {
+  "latency_ms": 1372.5,
+  "status": 404,
+  "ok": true
+ },
+ "qr.openverbs.com": {
+  "latency_ms": 852.1,
+  "status": 402,
+  "ok": true
+ },
+ "www.pennypress.org": {
+  "latency_ms": 1247.7,
+  "status": 402,
+  "ok": true
+ },
+ "whaletape.xyz": {
+  "latency_ms": 1214.8,
+  "status": 402,
+  "ok": true
+ },
+ "pay.edge-agents.ai": {
+  "latency_ms": 774.0,
+  "status": 402,
+  "ok": true
+ },
+ "x402payswap.vercel.app": {
+  "latency_ms": 1484.4,
+  "status": 402,
+  "ok": true
+ },
+ "ai-agents-make-money-here.com": {
+  "latency_ms": 706.8,
+  "status": 402,
+  "ok": true
+ },
+ "saylorinnovations.com": {
+  "latency_ms": 1503.4,
+  "status": 400,
+  "ok": true
+ },
+ "simfuse.app": {
+  "latency_ms": 976.0,
+  "status": 405,
+  "ok": true
+ },
+ "chem.openverbs.com": {
+  "latency_ms": 997.7,
+  "status": 402,
+  "ok": true
+ },
+ "stable.lonestaroracle.xyz": {
+  "latency_ms": 1093.7,
+  "status": 402,
+  "ok": true
+ },
+ "launches.lonestaroracle.xyz": {
+  "latency_ms": 1104.3,
+  "status": 402,
+  "ok": true
+ },
+ "mcp.agenteconomy.cloud": {
+  "latency_ms": 694.5,
+  "status": 402,
+  "ok": true
+ },
+ "trade.chainverdict.xyz": {
+  "latency_ms": 1166.0,
+  "status": 402,
+  "ok": true
+ },
+ "x402.isthisarug.trade": {
+  "latency_ms": 996.0,
+  "status": 402,
+  "ok": true
+ },
+ "horizon-pulse.vercel.app": {
+  "latency_ms": 1008.4,
+  "status": 402,
+  "ok": true
+ },
+ "schedule-tools.use.x402atlas.com": {
+  "latency_ms": 1131.9,
+  "status": 405,
+  "ok": true
+ },
+ "agentic-x402.ai": {
+  "latency_ms": 682.7,
+  "status": 402,
+  "ok": true
+ },
+ "pro-api.coinmarketcap.com": {
+  "latency_ms": 1266.3,
+  "status": 402,
+  "ok": true
+ },
+ "spreadsheet.openverbs.com": {
+  "latency_ms": 968.4,
+  "status": 402,
+  "ok": true
+ },
+ "timecapsule.0000402.xyz": {
+  "latency_ms": 1007.3,
+  "status": 405,
+  "ok": true
+ },
+ "x402uselessfacts.vercel.app": {
+  "latency_ms": 571.4,
+  "status": 402,
+  "ok": true
+ },
+ "www.getbags.app": {
+  "latency_ms": 792.2,
+  "status": 402,
+  "ok": true
+ },
+ "stable-supabase-git-ben-test-agentcash-rou-586785-merit-systems.vercel.app": {
+  "latency_ms": 832.2,
+  "status": 405,
+  "ok": true
+ },
+ "genesis.palsus2023.workers.dev": {
+  "latency_ms": 1020.5,
+  "status": 200,
+  "ok": true
+ },
+ "agent-deals.gm-tools.workers.dev": {
+  "latency_ms": 2045.4,
+  "status": 402,
+  "ok": true
+ },
+ "api.callmeter.dev": {
+  "latency_ms": 2114.1,
+  "status": 404,
+  "ok": true
+ },
+ "tokens.openverbs.com": {
+  "latency_ms": 1244.7,
+  "status": 402,
+  "ok": true
+ },
+ "agent.massive.com": {
+  "latency_ms": 1311.3,
+  "status": 402,
+  "ok": true
+ },
+ "dripstack.com": {
+  "latency_ms": 1234.5,
+  "status": 404,
+  "ok": true
+ },
+ "xcatcher.top": {
+  "latency_ms": 1337.6,
+  "status": 405,
+  "ok": true
+ },
+ "api.tokenplans.dev": {
+  "latency_ms": 1489.4,
+  "status": 402,
+  "ok": true
+ },
+ "uptime.cyberwarex.com": {
+  "latency_ms": 1516.8,
+  "status": 402,
+  "ok": true
+ },
+ "metals.lonestaroracle.xyz": {
+  "latency_ms": 1452.5,
+  "status": 402,
+  "ok": true
+ },
+ "quokkapix.com": {
+  "latency_ms": 2809.0,
+  "status": 402,
+  "ok": true
+ },
+ "artifact-inspector.use.x402atlas.com": {
+  "latency_ms": 1594.8,
+  "status": 405,
+  "ok": true
+ },
+ "xmedia.use.x402atlas.com": {
+  "latency_ms": 1733.0,
+  "status": 402,
+  "ok": true
+ },
+ "api.aitrailblazer.net": {
+  "latency_ms": 645.4,
+  "status": 402,
+  "ok": true
+ },
+ "api.bakhour.ca": {
+  "latency_ms": 1224.9,
+  "status": 402,
+  "ok": true
+ },
+ "experiment-008-production.up.railway.app": {
+  "latency_ms": 1050.9,
+  "status": 405,
+  "ok": true
+ },
+ "cron.memoryapi.org": {
+  "latency_ms": 1265.8,
+  "status": 402,
+  "ok": true
+ },
+ "agenttrust.uk": {
+  "latency_ms": 1273.2,
+  "status": 402,
+  "ok": true
+ },
+ "agents.alphaquantlabs.ai": {
+  "latency_ms": 946.0,
+  "status": 402,
+  "ok": true
+ },
+ "miningincidents.org": {
+  "latency_ms": 625.2,
+  "status": 402,
+  "ok": true
+ },
+ "desanatization-production.up.railway.app": {
+  "latency_ms": 865.5,
+  "status": 402,
+  "ok": true
+ },
+ "api.regressionincoming.fyi": {
+  "latency_ms": 1247.5,
+  "status": 402,
+  "ok": true
+ },
+ "api.m2mmarket.ai": {
+  "latency_ms": 1273.0,
+  "status": 404,
+  "ok": true
+ },
+ "alphapipeline-eu.onrender.com": {
+  "latency_ms": 767.7,
+  "status": 402,
+  "ok": true
+ },
+ "hubvibe-io.com": {
+  "latency_ms": 1076.3,
+  "status": 402,
+  "ok": true
+ },
+ "scopeapi.dev": {
+  "latency_ms": 598.4,
+  "status": 402,
+  "ok": true
+ },
+ "cryptyx-ai.vercel.app": {
+  "latency_ms": 658.6,
+  "status": 402,
+  "ok": true
+ },
+ "tavily.x402.paywithlocus.com": {
+  "latency_ms": 753.5,
+  "status": 404,
+  "ok": true
+ },
+ "automaton.outlier.money": {
+  "latency_ms": 1136.5,
+  "status": 405,
+  "ok": true
+ },
+ "api.cn402.com": {
+  "latency_ms": 897.5,
+  "status": 402,
+  "ok": true
+ },
+ "aspern.org": {
+  "latency_ms": 1439.0,
+  "status": 400,
+  "ok": true
+ },
+ "web.cyberwarex.com": {
+  "latency_ms": 1313.7,
+  "status": 402,
+  "ok": true
+ },
+ "regimeshift.xyz": {
+  "latency_ms": 1612.9,
+  "status": 402,
+  "ok": true
+ },
+ "risk-graph-gx7v4.ondigitalocean.app": {
+  "latency_ms": 869.0,
+  "status": 402,
+  "ok": true
+ },
+ "bazaar.fronesislabs.com": {
+  "latency_ms": 1644.5,
+  "status": 402,
+  "ok": true
+ },
+ "stableflare.dev": {
+  "latency_ms": 905.3,
+  "status": 405,
+  "ok": true
+ },
+ "slidingbox.ai": {
+  "latency_ms": 659.8,
+  "status": 410,
+  "ok": true
+ },
+ "functions.miniup.app": {
+  "latency_ms": 1665.1,
+  "status": 402,
+  "ok": true
+ },
+ "gsc-x402.ai": {
+  "latency_ms": 1198.4,
+  "status": 402,
+  "ok": true
+ },
+ "api.blockscout.com": {
+  "latency_ms": 1086.7,
+  "status": 402,
+  "ok": true
+ },
+ "bazaar-demand-forecaster-mainnet-production.up.railway.app": {
+  "latency_ms": 1129.3,
+  "status": 404,
+  "ok": true
+ },
+ "api.quantoracle.dev": {
+  "latency_ms": 1478.9,
+  "status": 422,
+  "ok": true
+ },
+ "landdossier.halowerk.com": {
+  "latency_ms": 1263.0,
+  "status": 404,
+  "ok": true
+ },
+ "cron402-api.user-defaults.workers.dev": {
+  "latency_ms": 895.5,
+  "status": 404,
+  "ok": true
+ },
+ "filingdelta.xyz": {
+  "latency_ms": 1529.2,
+  "status": 402,
+  "ok": true
+ },
+ "gas-price-comparator.pdfextractapi.workers.dev": {
+  "latency_ms": 737.8,
+  "status": 204,
+  "ok": true
+ },
+ "gateway.stride20k.com": {
+  "latency_ms": 1017.9,
+  "status": 402,
+  "ok": true
+ },
+ "x402-stablecoin-data-demo.ryan-ee4.workers.dev": {
+  "latency_ms": 802.7,
+  "status": 402,
+  "ok": true
+ },
+ "trustscore.dev": {
+  "latency_ms": 1487.7,
+  "status": 405,
+  "ok": true
+ },
+ "dealpulse.theaslangroupllc.com": {
+  "latency_ms": 930.7,
+  "status": 402,
+  "ok": true
+ },
+ "agent-sign-guard-main-production.up.railway.app": {
+  "latency_ms": 1017.0,
+  "status": 404,
+  "ok": true
+ },
+ "agent-memory-api-production-f2c4.up.railway.app": {
+  "latency_ms": 1107.7,
+  "status": 404,
+  "ok": true
+ },
+ "readability.openverbs.com": {
+  "latency_ms": 1065.3,
+  "status": 402,
+  "ok": true
+ },
+ "email-verify-api-production-d262.up.railway.app": {
+  "latency_ms": 918.0,
+  "status": 402,
+  "ok": true
+ },
+ "workers.miodiollc.com": {
+  "latency_ms": 840.8,
+  "status": 400,
+  "ok": true
+ },
+ "library.forgemesh.io": {
+  "latency_ms": 1269.3,
+  "status": 402,
+  "ok": true
+ },
+ "dev-agent402.throuzlabs.com": {
+  "latency_ms": 702.8,
+  "status": 402,
+  "ok": true
+ },
+ "gamepulse.theaslangroupllc.com": {
+  "latency_ms": 705.0,
+  "status": 402,
+  "ok": true
+ },
+ "witnessd.vip": {
+  "latency_ms": 1591.4,
+  "status": 404,
+  "ok": true
+ },
+ "jsonschema.openverbs.com": {
+  "latency_ms": 906.3,
+  "status": 402,
+  "ok": true
+ },
+ "api.jagent.dev": {
+  "latency_ms": 742.0,
+  "status": 405,
+  "ok": true
+ },
+ "latam.lonestaroracle.xyz": {
+  "latency_ms": 1153.3,
+  "status": 402,
+  "ok": true
+ },
+ "x402-data-api.sigrunner.workers.dev": {
+  "latency_ms": 1475.4,
+  "status": 402,
+  "ok": true
+ },
+ "reduce.api.williamrobinson.dev": {
+  "latency_ms": 887.5,
+  "status": 402,
+  "ok": true
+ },
+ "settled.justinedwardvolmer.workers.dev": {
+  "latency_ms": 2004.5,
+  "status": 402,
+  "ok": true
+ },
+ "x402-staging.pigsignal.io": {
+  "latency_ms": 480.8,
+  "status": 402,
+  "ok": true
+ },
+ "exclusions.cfsoft.us": {
+  "latency_ms": 1166.8,
+  "status": 402,
+  "ok": true
+ },
+ "api-v2.ixs.finance": {
+  "latency_ms": 619.5,
+  "status": 402,
+  "ok": true
+ },
+ "verify.code402.dev": {
+  "latency_ms": 596.9,
+  "status": 402,
+  "ok": true
+ },
+ "x402.fiasignals.com": {
+  "latency_ms": 1069.1,
+  "status": 402,
+  "ok": true
+ },
+ "ichimoku-signal.fizzl.eu": {
+  "latency_ms": 770.9,
+  "status": 402,
+  "ok": true
+ },
+ "contextiq.trango-compute.com": {
+  "latency_ms": 1114.1,
+  "status": 405,
+  "ok": true
+ },
+ "inflect.openverbs.com": {
+  "latency_ms": 886.9,
+  "status": 402,
+  "ok": true
+ },
+ "dictionary.openverbs.com": {
+  "latency_ms": 779.0,
+  "status": 402,
+  "ok": true
+ },
+ "api.safe4.ai": {
+  "latency_ms": 622.9,
+  "status": 405,
+  "ok": true
+ },
+ "edge.innovalyxx.com": {
+  "latency_ms": 1287.8,
+  "status": 402,
+  "ok": true
+ },
+ "squeezeos-api.onrender.com": {
+  "latency_ms": 671.7,
+  "status": 402,
+  "ok": true
+ },
+ "api.forum-labs.com": {
+  "latency_ms": 1362.6,
+  "status": 402,
+  "ok": true
+ },
+ "museum-production-b773.up.railway.app": {
+  "latency_ms": 871.0,
+  "status": 402,
+  "ok": true
+ },
+ "x402.chainquery.com": {
+  "latency_ms": 573.5,
+  "status": 402,
+  "ok": true
+ },
+ "21millionpixels.art": {
+  "latency_ms": 1205.5,
+  "status": 402,
+  "ok": true
+ },
+ "agent-artifact-eta.vercel.app": {
+  "latency_ms": 1256.9,
+  "status": 405,
+  "ok": true
+ },
+ "almanac.locomot.io": {
+  "latency_ms": 818.6,
+  "status": 402,
+  "ok": true
+ },
+ "preflight402.com": {
+  "latency_ms": 801.0,
+  "status": 404,
+  "ok": true
+ },
+ "intent-api-matchmaker-mainnet-production.up.railway.app": {
+  "latency_ms": 1033.2,
+  "status": 404,
+  "ok": true
+ },
+ "43-135-4-66.sslip.io": {
+  "latency_ms": 2104.4,
+  "status": 404,
+  "ok": true
+ },
+ "lab.paidapis.net": {
+  "latency_ms": 1276.4,
+  "status": 402,
+  "ok": true
+ },
+ "stable-jobs-git-ben-test-agentcash-router-pr-241-merit-systems.vercel.app": {
+  "latency_ms": 1061.5,
+  "status": 405,
+  "ok": true
+ },
+ "x402-extract-wg5z.onrender.com": {
+  "latency_ms": 865.8,
+  "status": 200,
+  "ok": true
+ },
+ "vps.phoneagent.xyz": {
+  "latency_ms": 1044.0,
+  "status": 402,
+  "ok": true
+ },
+ "smx.space": {
+  "latency_ms": 530.9,
+  "status": 402,
+  "ok": true
+ },
+ "fanfare.run": {
+  "latency_ms": 1271.2,
+  "status": 402,
+  "ok": true
+ },
+ "stable-people-data-git-pdl-signoz-usage-alarms-merit-systems.vercel.app": {
+  "latency_ms": 653.5,
+  "status": 405,
+  "ok": true
+ },
+ "hcad-api.canvas-cart.workers.dev": {
+  "latency_ms": 1372.7,
+  "status": 402,
+  "ok": true
+ },
+ "x402-factory.com": {
+  "latency_ms": 1297.1,
+  "status": 402,
+  "ok": true
+ },
+ "chappy-japan-address-preflight.pre23964wb.workers.dev": {
+  "latency_ms": 400.7,
+  "status": 404,
+  "ok": true
+ },
+ "www.rwakernel.com": {
+  "latency_ms": 917.7,
+  "status": 400,
+  "ok": true
+ },
+ "stats.openverbs.com": {
+  "latency_ms": 776.5,
+  "status": 402,
+  "ok": true
+ },
+ "preflight.openverbs.com": {
+  "latency_ms": 794.0,
+  "status": 402,
+  "ok": true
+ },
+ "email-auth.use.x402atlas.com": {
+  "latency_ms": 1135.2,
+  "status": 402,
+  "ok": true
+ },
+ "www.thelatentlounge.com": {
+  "latency_ms": 886.3,
+  "status": 402,
+  "ok": true
+ },
+ "dev.gavedu.com": {
+  "latency_ms": 938.4,
+  "status": 402,
+  "ok": true
+ },
+ "app.ravn.exchange": {
+  "latency_ms": 1993.5,
+  "status": 405,
+  "ok": true
+ },
+ "emoji.openverbs.com": {
+  "latency_ms": 1090.7,
+  "status": 402,
+  "ok": true
+ },
+ "deploy.acu.run": {
+  "latency_ms": 1391.5,
+  "status": 404,
+  "ok": true
+ },
+ "mcp.barker.money": {
+  "latency_ms": 1063.3,
+  "status": 402,
+  "ok": true
+ },
+ "payee.schemasure.com": {
+  "latency_ms": 689.8,
+  "status": 404,
+  "ok": true
+ },
+ "jev.agents.bakingbad.dev": {
+  "latency_ms": 1584.5,
+  "status": 404,
+  "ok": true
+ },
+ "agents.getardaro.com": {
+  "latency_ms": 1129.6,
+  "status": 405,
+  "ok": true
+ },
+ "ppu43fkyhimq5fiqpmo42eh5ri0yypid.lambda-url.us-east-1.on.aws": {
+  "latency_ms": 1216.7,
+  "status": 405,
+  "ok": true
+ },
+ "www.moltbillboard.com": {
+  "latency_ms": 2746.0,
+  "status": 402,
+  "ok": true
+ },
+ "seller-b-production.up.railway.app": {
+  "latency_ms": 903.3,
+  "status": 404,
+  "ok": true
+ },
+ "stash.fluidrack.com": {
+  "latency_ms": 1207.4,
+  "status": 405,
+  "ok": true
+ },
+ "api.hyperd.ai": {
+  "latency_ms": 2018.4,
+  "status": 402,
+  "ok": true
+ },
+ "forwardlane.pay.zeroclick.io": {
+  "latency_ms": 848.3,
+  "status": 402,
+  "ok": true
+ },
+ "api.verdixapi.com": {
+  "latency_ms": 1534.6,
+  "status": 402,
+  "ok": true
+ },
+ "voidfeed.ai": {
+  "latency_ms": 1613.5,
+  "status": 402,
+  "ok": true
+ },
+ "x402.openwebninja.com": {
+  "latency_ms": 2105.3,
+  "status": 402,
+  "ok": true
+ },
+ "creator.halowerk.com": {
+  "latency_ms": 1547.0,
+  "status": 402,
+  "ok": true
+ },
+ "x402.billionaireorder.com": {
+  "latency_ms": 1790.8,
+  "status": 402,
+  "ok": true
+ },
+ "hmo.payapi.market": {
+  "latency_ms": 798.8,
+  "status": 402,
+  "ok": true
+ },
+ "zeroworker-web-action-api.zeroworker-lab.workers.dev": {
+  "latency_ms": 399.5,
+  "status": 415,
+  "ok": true
+ },
+ "api.loopholetape.com": {
+  "latency_ms": 2384.0,
+  "status": 402,
+  "ok": true
+ },
+ "polymarket-signal-api.pwnker-polymarket-signals.workers.dev": {
+  "latency_ms": 562.0,
+  "status": 402,
+  "ok": true
+ },
+ "x402-api.aubr.ai": {
+  "latency_ms": 549.7,
+  "status": 402,
+  "ok": true
+ },
+ "url.openverbs.com": {
+  "latency_ms": 863.8,
+  "status": 402,
+  "ok": true
+ },
+ "x402.tradesnack.com": {
+  "latency_ms": 1545.1,
+  "status": 402,
+  "ok": true
+ },
+ "x402-trust.com": {
+  "latency_ms": 1084.1,
+  "status": 402,
+  "ok": true
+ },
+ "api.northeastdealintel.com": {
+  "latency_ms": 883.6,
+  "status": 402,
+  "ok": true
+ },
+ "agent402.tools": {
+  "latency_ms": 739.1,
+  "status": 402,
+  "ok": true
+ },
+ "rdap.openverbs.com": {
+  "latency_ms": 779.6,
+  "status": 402,
+  "ok": true
+ },
+ "i3p3mgbsn54dvlivnk6wbumal40eqtsn.lambda-url.us-east-1.on.aws": {
+  "latency_ms": 1252.7,
+  "status": 500,
+  "ok": true
+ },
+ "mcpfax-intel.bowling-anthony.workers.dev": {
+  "latency_ms": 366.6,
+  "status": 402,
+  "ok": true
+ },
+ "x402.fablerlabs.com": {
+  "latency_ms": 705.7,
+  "status": 402,
+  "ok": true
+ },
+ "mcp-snowy-dew-9447.fly.dev": {
+  "latency_ms": 872.4,
+  "status": 404,
+  "ok": true
+ },
+ "a402test.pages.dev": {
+  "latency_ms": null,
+  "status": null,
+  "ok": false,
+  "error": "HTTPSConnectionPool(host='a402test.pages.dev', port=443): Read timed out. (read timeout=6)"
+ },
+ "api.24klabs.ai": {
+  "latency_ms": 707.1,
+  "status": 405,
+  "ok": true
+ },
+ "agent.kihustle.tech": {
+  "latency_ms": 1107.7,
+  "status": 405,
+  "ok": true
+ },
+ "tokensafe-production.up.railway.app": {
+  "latency_ms": 823.8,
+  "status": 402,
+  "ok": true
+ },
+ "travel.forgemesh.io": {
+  "latency_ms": 906.2,
+  "status": 402,
+  "ok": true
+ },
+ "pulse-api-production-7aae.up.railway.app": {
+  "latency_ms": 714.7,
+  "status": 400,
+  "ok": true
+ },
+ "api.boonprotocol.com": {
+  "latency_ms": 1101.9,
+  "status": 402,
+  "ok": true
+ },
+ "promptqualityscore.com": {
+  "latency_ms": 1515.9,
+  "status": 402,
+  "ok": true
+ },
+ "d1zz2d7coymbr5.cloudfront.net": {
+  "latency_ms": 1335.5,
+  "status": 404,
+  "ok": true
+ },
+ "cpi-report-us.underscoredone.com": {
+  "latency_ms": 739.7,
+  "status": 402,
+  "ok": true
+ },
+ "wetter.halowerk.com": {
+  "latency_ms": 1414.4,
+  "status": 402,
+  "ok": true
+ },
+ "anywaypossible.com": {
+  "latency_ms": 2863.7,
+  "status": 200,
+  "ok": true
+ },
+ "grov.fun": {
+  "latency_ms": 1201.6,
+  "status": 400,
+  "ok": true
+ },
+ "api.getplexa.com": {
+  "latency_ms": 1158.5,
+  "status": 405,
+  "ok": true
+ },
+ "x402.fairseal.io": {
+  "latency_ms": 1643.6,
+  "status": 402,
+  "ok": true
+ },
+ "api.magentlab.com": {
+  "latency_ms": 865.1,
+  "status": 402,
+  "ok": true
+ },
+ "video.cyberwarex.com": {
+  "latency_ms": 1069.4,
+  "status": 402,
+  "ok": true
+ },
+ "simulate.cyberwarex.com": {
+  "latency_ms": 1238.9,
+  "status": 402,
+  "ok": true
+ },
+ "zeroworker-mcp-preflight-api.zeroworker-lab.workers.dev": {
+  "latency_ms": 646.0,
+  "status": 415,
+  "ok": true
+ },
+ "agentreader.dev": {
+  "latency_ms": 651.4,
+  "status": 405,
+  "ok": true
+ },
+ "fetchharbor.benlab.download": {
+  "latency_ms": 1078.8,
+  "status": 402,
+  "ok": true
+ },
+ "api.remix.live": {
+  "latency_ms": 1554.8,
+  "status": 404,
+  "ok": true
+ },
+ "gate402.app": {
+  "latency_ms": 916.8,
+  "status": 402,
+  "ok": true
+ },
+ "apify-dlfd68ww7-merit-systems.vercel.app": {
+  "latency_ms": 932.7,
+  "status": 405,
+  "ok": true
+ },
+ "rook-x402-service.onrender.com": {
+  "latency_ms": 586.1,
+  "status": 404,
+  "ok": true
+ },
+ "www.paylog.dev": {
+  "latency_ms": 1005.3,
+  "status": 402,
+  "ok": true
+ },
+ "sanctions.lonestaroracle.xyz": {
+  "latency_ms": 1099.2,
+  "status": 402,
+  "ok": true
+ },
+ "agents.datamancer.io": {
+  "latency_ms": 1633.5,
+  "status": 402,
+  "ok": true
+ },
+ "buero.halowerk.com": {
+  "latency_ms": 1694.2,
+  "status": 402,
+  "ok": true
+ },
+ "groq.x402.stage.paywithlocus.com": {
+  "latency_ms": 743.7,
+  "status": 404,
+  "ok": true
+ },
+ "sheets.api.williamrobinson.dev": {
+  "latency_ms": 820.6,
+  "status": 402,
+  "ok": true
+ },
+ "api.sandbox.brickken.com": {
+  "latency_ms": 1442.9,
+  "status": 403,
+  "ok": true
+ },
+ "prospect-intelligence.prospectintel.workers.dev": {
+  "latency_ms": 369.0,
+  "status": 402,
+  "ok": true
+ },
+ "stumble.vimabrosta.com": {
+  "latency_ms": 513.3,
+  "status": 402,
+  "ok": true
+ },
+ "agents.dubbleblack.com": {
+  "latency_ms": 788.3,
+  "status": 405,
+  "ok": true
+ },
+ "dependency-risk.use.x402atlas.com": {
+  "latency_ms": 1119.8,
+  "status": 405,
+  "ok": true
+ },
+ "api.cra-agent.tech": {
+  "latency_ms": 1602.0,
+  "status": 402,
+  "ok": true
+ },
+ "x402.donnyautomation.com": {
+  "latency_ms": 958.2,
+  "status": 402,
+  "ok": true
+ },
+ "news.lonestaroracle.xyz": {
+  "latency_ms": 1039.3,
+  "status": 402,
+  "ok": true
+ },
+ "api.ftso-yggdrassil.com": {
+  "latency_ms": 1580.0,
+  "status": 402,
+  "ok": true
+ },
+ "readiness.pay.zeroclick.io": {
+  "latency_ms": 559.6,
+  "status": 404,
+  "ok": true
+ },
+ "tools.speccy.cloud": {
+  "latency_ms": 1374.0,
+  "status": 404,
+  "ok": true
+ },
+ "video.api.williamrobinson.dev": {
+  "latency_ms": 831.6,
+  "status": 402,
+  "ok": true
+ },
+ "health.memoryapi.org": {
+  "latency_ms": 1116.4,
+  "status": 402,
+  "ok": true
+ },
+ "compliancecheck-x402.fly.dev": {
+  "latency_ms": 594.0,
+  "status": 405,
+  "ok": true
+ },
+ "fetchdelta.com": {
+  "latency_ms": 866.6,
+  "status": 402,
+  "ok": true
+ },
+ "shopify-ai-rank-checker.underscoredone.com": {
+  "latency_ms": 848.0,
+  "status": 402,
+  "ok": true
+ },
+ "gas.apitoll.cloud": {
+  "latency_ms": 1530.5,
+  "status": 402,
+  "ok": true
+ },
+ "email-validator.pdfextractapi.workers.dev": {
+  "latency_ms": 700.2,
+  "status": 204,
+  "ok": true
+ },
+ "store.cryptotradecalc.com": {
+  "latency_ms": 873.5,
+  "status": 402,
+  "ok": true
+ },
+ "memorial.rjhst.workers.dev": {
+  "latency_ms": 410.6,
+  "status": 405,
+  "ok": true
+ },
+ "base-gas-x402-production.up.railway.app": {
+  "latency_ms": 819.1,
+  "status": 402,
+  "ok": true
+ },
+ "kalender.halowerk.com": {
+  "latency_ms": 1312.2,
+  "status": 402,
+  "ok": true
+ },
+ "relaybox-phcqcexu4a-uc.a.run.app": {
+  "latency_ms": 695.2,
+  "status": 405,
+  "ok": true
+ },
+ "iot.halowerk.com": {
+  "latency_ms": 1373.3,
+  "status": 402,
+  "ok": true
+ },
+ "agents.daedalusdevelopmentgroup.com": {
+  "latency_ms": 1356.0,
+  "status": 402,
+  "ok": true
+ },
+ "api.melvea.com": {
+  "latency_ms": 3144.6,
+  "status": 402,
+  "ok": true
+ },
+ "launchcheck-x402.fly.dev": {
+  "latency_ms": 650.8,
+  "status": 402,
+  "ok": true
+ },
+ "tls.openverbs.com": {
+  "latency_ms": 855.1,
+  "status": 402,
+  "ok": true
+ },
+ "holdsup.app": {
+  "latency_ms": 1382.5,
+  "status": 402,
+  "ok": true
+ },
+ "signalpulse.theaslangroupllc.com": {
+  "latency_ms": 575.0,
+  "status": 402,
+  "ok": true
+ },
+ "base.mapleai.shop": {
+  "latency_ms": 1265.0,
+  "status": 404,
+  "ok": true
+ },
+ "alphavantage.x402.paywithlocus.com": {
+  "latency_ms": 898.0,
+  "status": 404,
+  "ok": true
+ },
+ "api.kakerapetit.dev": {
+  "latency_ms": 740.3,
+  "status": 402,
+  "ok": true
+ },
+ "focxle.com": {
+  "latency_ms": 1634.5,
+  "status": 402,
+  "ok": true
+ },
+ "supply.lonestaroracle.xyz": {
+  "latency_ms": 1163.4,
+  "status": 402,
+  "ok": true
+ },
+ "api.jpverify.com": {
+  "latency_ms": 710.1,
+  "status": 405,
+  "ok": true
+ },
+ "api.agentsouk.dev": {
+  "latency_ms": 894.9,
+  "status": 404,
+  "ok": true
+ },
+ "solar.nsgoods.org": {
+  "latency_ms": 1339.6,
+  "status": 402,
+  "ok": true
+ },
+ "irb-precedent-api.canvas-cart.workers.dev": {
+  "latency_ms": 921.8,
+  "status": 402,
+  "ok": true
+ },
+ "token-api.x402hub.xyz": {
+  "latency_ms": 974.4,
+  "status": 402,
+  "ok": true
+ },
+ "sharvora.com": {
+  "latency_ms": 3699.1,
+  "status": 500,
+  "ok": true
+ },
+ "obol.danieldutoit.net": {
+  "latency_ms": 2325.8,
+  "status": 402,
+  "ok": true
+ },
+ "api.xynaptic.io": {
+  "latency_ms": 387.3,
+  "status": 402,
+  "ok": true
+ },
+ "holidays.openverbs.com": {
+  "latency_ms": 1073.6,
+  "status": 402,
+  "ok": true
+ },
+ "trade.lonestaroracle.xyz": {
+  "latency_ms": 1262.9,
+  "status": 402,
+  "ok": true
+ },
+ "skim402.com": {
+  "latency_ms": 826.9,
+  "status": 402,
+  "ok": true
+ },
+ "gibai.app": {
+  "latency_ms": 838.6,
+  "status": 402,
+  "ok": true
+ },
+ "api.solsentry.app": {
+  "latency_ms": 1332.9,
+  "status": 402,
+  "ok": true
+ },
+ "ot-intel-api.onrender.com": {
+  "latency_ms": 570.6,
+  "status": 402,
+  "ok": true
+ },
+ "mcp.toolstem.com": {
+  "latency_ms": 523.9,
+  "status": 200,
+  "ok": true
+ },
+ "agentwholesale.vercel.app": {
+  "latency_ms": 2010.0,
+  "status": 405,
+  "ok": true
+ },
+ "odds.rjhsignaltech.workers.dev": {
+  "latency_ms": 746.1,
+  "status": 402,
+  "ok": true
+ },
+ "wallet-intelligence-three.vercel.app": {
+  "latency_ms": 987.5,
+  "status": 402,
+  "ok": true
+ },
+ "geospatial.openverbs.com": {
+  "latency_ms": 859.2,
+  "status": 402,
+  "ok": true
+ },
+ "rpc.nodeflare.app": {
+  "latency_ms": 1169.2,
+  "status": 405,
+  "ok": true
+ },
+ "jokes-endpoint.vercel.app": {
+  "latency_ms": 703.3,
+  "status": 402,
+  "ok": true
+ },
+ "midax402.com": {
+  "latency_ms": 534.7,
+  "status": 402,
+  "ok": true
+ },
+ "darrylbots.com": {
+  "latency_ms": 643.4,
+  "status": 402,
+  "ok": true
+ },
+ "topic-scorer.pixelcove.co": {
+  "latency_ms": 879.0,
+  "status": 405,
+  "ok": true
+ },
+ "api.cryptoetfsentinel.com": {
+  "latency_ms": 1556.8,
+  "status": 402,
+  "ok": true
+ },
+ "tenjin.sh": {
+  "latency_ms": 1257.5,
+  "status": 402,
+  "ok": true
+ },
+ "x402.crackthe.work": {
+  "latency_ms": 714.9,
+  "status": 404,
+  "ok": true
+ },
+ "test.x402labs.sh": {
+  "latency_ms": 1422.6,
+  "status": 404,
+  "ok": true
+ },
+ "audio.halowerk.com": {
+  "latency_ms": 1301.1,
+  "status": 402,
+  "ok": true
+ },
+ "kronos.forgemesh.io": {
+  "latency_ms": 972.1,
+  "status": 402,
+  "ok": true
+ },
+ "x402.blackswan.wtf": {
+  "latency_ms": 916.8,
+  "status": 200,
+  "ok": true
+ },
+ "doc.lonestaroracle.xyz": {
+  "latency_ms": 1386.3,
+  "status": 402,
+  "ok": true
+ },
+ "mcp.newstex.com": {
+  "latency_ms": 3964.0,
+  "status": 402,
+  "ok": true
+ },
+ "www.agentfive.ai": {
+  "latency_ms": 953.0,
+  "status": 402,
+  "ok": true
+ },
+ "reel24-web-792007954609.us-central1.run.app": {
+  "latency_ms": 1534.1,
+  "status": 402,
+  "ok": true
+ },
+ "grant-search.krimskrams.xyz": {
+  "latency_ms": 1435.7,
+  "status": 402,
+  "ok": true
+ },
+ "qr-generator.pdfextractapi.workers.dev": {
+  "latency_ms": 1021.0,
+  "status": 204,
+  "ok": true
+ },
+ "reusefulshop.com": {
+  "latency_ms": 910.5,
+  "status": 402,
+  "ok": true
+ },
+ "agent-paycheck.onrender.com": {
+  "latency_ms": 667.1,
+  "status": 404,
+  "ok": true
+ },
+ "computeindex.lonestaroracle.xyz": {
+  "latency_ms": 1213.1,
+  "status": 402,
+  "ok": true
+ },
+ "tensorfeed.ai": {
+  "latency_ms": 1022.0,
+  "status": 402,
+  "ok": true
+ },
+ "x402scan-git-router-117-merit-systems.vercel.app": {
+  "latency_ms": 1468.3,
+  "status": 402,
+  "ok": true
+ },
+ "stabletravel.dev": {
+  "latency_ms": 1638.5,
+  "status": 402,
+  "ok": true
+ },
+ "api.myceliasignal.com": {
+  "latency_ms": 830.4,
+  "status": 402,
+  "ok": true
+ },
+ "format-validator.pdfextractapi.workers.dev": {
+  "latency_ms": 1612.2,
+  "status": 204,
+  "ok": true
+ },
+ "x402.fullstack.cash": {
+  "latency_ms": 929.6,
+  "status": 402,
+  "ok": true
+ },
+ "osha-search.46-224-157-88.sslip.io": {
+  "latency_ms": 2163.0,
+  "status": 402,
+  "ok": true
+ },
+ "x402-url-extractor-production.up.railway.app": {
+  "latency_ms": 838.2,
+  "status": 402,
+  "ok": true
+ },
+ "medien.halowerk.com": {
+  "latency_ms": 1372.0,
+  "status": 400,
+  "ok": true
+ },
+ "dokimo.augaster.com": {
+  "latency_ms": 703.3,
+  "status": 402,
+  "ok": true
+ },
+ "enforcement.cfsoft.us": {
+  "latency_ms": 1928.1,
+  "status": 402,
+  "ok": true
+ },
+ "scribe.vimabrosta.com": {
+  "latency_ms": 2032.7,
+  "status": 402,
+  "ok": true
+ },
+ "api.exende.dev": {
+  "latency_ms": 515.2,
+  "status": 200,
+  "ok": true
+ },
+ "x402-paid-service.iholt.workers.dev": {
+  "latency_ms": 365.8,
+  "status": 402,
+  "ok": true
+ },
+ "wake402.agentwake.workers.dev": {
+  "latency_ms": 517.5,
+  "status": 404,
+  "ok": true
+ },
+ "api.verigrace.com:4445": {
+  "latency_ms": 718.2,
+  "status": 402,
+  "ok": true
+ },
+ "draconic21-x402-api.onrender.com": {
+  "latency_ms": 754.9,
+  "status": 404,
+  "ok": true
+ },
+ "zk.quickai.build": {
+  "latency_ms": 1167.9,
+  "status": 404,
+  "ok": true
+ },
+ "zayguard.onrender.com": {
+  "latency_ms": 493.2,
+  "status": 405,
+  "ok": true
+ },
+ "x402-dataviz-poc.theliminalguy.workers.dev": {
+  "latency_ms": 1031.2,
+  "status": 402,
+  "ok": true
+ },
+ "uk-company-check.fly.dev": {
+  "latency_ms": 947.7,
+  "status": 402,
+  "ok": true
+ },
+ "kleros-ipfs-gateway.fly.dev": {
+  "latency_ms": 801.1,
+  "status": 404,
+  "ok": true
+ },
+ "47620.xyz": {
+  "latency_ms": 2734.7,
+  "status": 402,
+  "ok": true
+ },
+ "nickeljoke.vercel.app": {
+  "latency_ms": 1796.6,
+  "status": 402,
+  "ok": true
+ },
+ "cf-exclusion-check.cf-exclusion-check.workers.dev": {
+  "latency_ms": 1354.5,
+  "status": 402,
+  "ok": true
+ },
+ "veridictum.legal": {
+  "latency_ms": 1114.9,
+  "status": 405,
+  "ok": true
+ },
+ "filedge.io": {
+  "latency_ms": 1529.6,
+  "status": 405,
+  "ok": true
+ },
+ "diffbot.x402.paywithlocus.com": {
+  "latency_ms": 761.2,
+  "status": 404,
+  "ok": true
+ },
+ "data.finery.cc": {
+  "latency_ms": 922.0,
+  "status": 402,
+  "ok": true
+ },
+ "api.linkedpanda.com": {
+  "latency_ms": 1448.6,
+  "status": 402,
+  "ok": true
+ },
+ "ausrine-who.onrender.com": {
+  "latency_ms": 1213.9,
+  "status": 400,
+  "ok": true
+ },
+ "agent.prh.news": {
+  "latency_ms": 999.0,
+  "status": 404,
+  "ok": true
+ },
+ "api.xona-agent.com": {
+  "latency_ms": 704.0,
+  "status": 404,
+  "ok": true
+ },
+ "x402.tbs-digital.com": {
+  "latency_ms": 1080.6,
+  "status": 402,
+  "ok": true
+ },
+ "enclave402.com": {
+  "latency_ms": 1700.5,
+  "status": 402,
+  "ok": true
+ },
+ "sigma-api-oracle.tailae0cf3.ts.net:8443": {
+  "latency_ms": null,
+  "status": null,
+  "ok": false,
+  "error": "HTTPSConnectionPool(host='sigma-api-oracle.tailae0cf3.ts.net', port=8443): Max retries exceeded with url: /v1/market/:sy"
+ },
+ "agenttools-api.agenttools-8189332e.workers.dev": {
+  "latency_ms": 461.4,
+  "status": 404,
+  "ok": true
+ },
+ "x402.professorsausages.com": {
+  "latency_ms": 847.6,
+  "status": 402,
+  "ok": true
+ },
+ "crypto-currency-network.net": {
+  "latency_ms": 1265.6,
+  "status": 402,
+  "ok": true
+ },
+ "x402.coinopai.com": {
+  "latency_ms": 871.1,
+  "status": 402,
+  "ok": true
+ },
+ "text.openverbs.com": {
+  "latency_ms": 769.8,
+  "status": 402,
+  "ok": true
+ },
+ "agent-kg.ai": {
+  "latency_ms": 391.1,
+  "status": 402,
+  "ok": true
+ },
+ "x402.freeq.one": {
+  "latency_ms": 787.9,
+  "status": 402,
+  "ok": true
+ },
+ "minerals.lonestaroracle.xyz": {
+  "latency_ms": 989.9,
+  "status": 402,
+  "ok": true
+ },
+ "deposit.now": {
+  "latency_ms": 2669.9,
+  "status": 402,
+  "ok": true
+ },
+ "token-safety-oracle-production-ffad.up.railway.app": {
+  "latency_ms": 822.9,
+  "status": 402,
+  "ok": true
+ },
+ "insider.lonestaroracle.xyz": {
+  "latency_ms": 1052.1,
+  "status": 402,
+  "ok": true
+ },
+ "402utils.com": {
+  "latency_ms": null,
+  "status": null,
+  "ok": false,
+  "error": "HTTPSConnectionPool(host='402utils.com', port=443): Read timed out. (read timeout=6)"
+ },
+ "api.gitbeacon.dev": {
+  "latency_ms": 1006.9,
+  "status": 402,
+  "ok": true
+ },
+ "sat.ipintel.ai": {
+  "latency_ms": 755.9,
+  "status": 404,
+  "ok": true
+ },
+ "dns-email-hygiene.relayhop.workers.dev": {
+  "latency_ms": 396.6,
+  "status": 402,
+  "ok": true
+ },
+ "ichimoku-signal.onrender.com": {
+  "latency_ms": 609.9,
+  "status": 402,
+  "ok": true
+ },
+ "api.hergertsynthora.com": {
+  "latency_ms": 1656.7,
+  "status": 402,
+  "ok": true
+ },
+ "flat-rate-llm.kikoribera03.workers.dev": {
+  "latency_ms": 727.5,
+  "status": 402,
+  "ok": true
+ },
+ "api.apify.com": {
+  "latency_ms": 1319.0,
+  "status": 401,
+  "ok": true
+ },
+ "fittings.sh": {
+  "latency_ms": 4773.2,
+  "status": 402,
+  "ok": true
+ },
+ "foundry-open-scholarly-evidence-mainnet.inference-chip-index.workers.dev": {
+  "latency_ms": 460.2,
+  "status": 405,
+  "ok": true
+ },
+ "hazard.lonestaroracle.xyz": {
+  "latency_ms": 1028.8,
+  "status": 402,
+  "ok": true
+ },
+ "api.botpay.network": {
+  "latency_ms": 570.1,
+  "status": 404,
+  "ok": true
+ },
+ "search.cyberwarex.com": {
+  "latency_ms": 1172.7,
+  "status": 402,
+  "ok": true
+ },
+ "stockwaves.net": {
+  "latency_ms": 758.7,
+  "status": 402,
+  "ok": true
+ },
+ "seller-a-production.up.railway.app": {
+  "latency_ms": 884.9,
+  "status": 404,
+  "ok": true
+ },
+ "wallet-services-poc-clean-mainnet.3hz-services.workers.dev": {
+  "latency_ms": 510.3,
+  "status": 402,
+  "ok": true
+ },
+ "umpire.vimabrosta.com": {
+  "latency_ms": 618.1,
+  "status": 402,
+  "ok": true
+ },
+ "geld-machen-x402.fly.dev": {
+  "latency_ms": 851.1,
+  "status": 402,
+  "ok": true
+ },
+ "dev.intel.rallylive.ca": {
+  "latency_ms": 1376.6,
+  "status": 402,
+  "ok": true
+ },
+ "api.loyalspark.online": {
+  "latency_ms": 714.3,
+  "status": 402,
+  "ok": true
+ },
+ "cantu-radar-flow.base44.app": {
+  "latency_ms": 978.3,
+  "status": 405,
+  "ok": true
+ },
+ "lauf.halowerk.com": {
+  "latency_ms": 1427.2,
+  "status": 402,
+  "ok": true
+ },
+ "api.thetrustlayer.xyz": {
+  "latency_ms": 1078.6,
+  "status": 402,
+  "ok": true
+ },
+ "api.fairseal.io": {
+  "latency_ms": 1432.4,
+  "status": 200,
+  "ok": true
+ },
+ "rest.coincap.io": {
+  "latency_ms": 1371.4,
+  "status": 402,
+  "ok": true
+ },
+ "api-dev-v2.ixs.finance": {
+  "latency_ms": 733.2,
+  "status": 402,
+  "ok": true
+ },
+ "x402dir.com": {
+  "latency_ms": 1645.0,
+  "status": 402,
+  "ok": true
+ },
+ "x402toll.com": {
+  "latency_ms": 538.0,
+  "status": 404,
+  "ok": true
+ },
+ "numtheory.openverbs.com": {
+  "latency_ms": 914.9,
+  "status": 402,
+  "ok": true
+ },
+ "chemeq.openverbs.com": {
+  "latency_ms": 888.9,
+  "status": 402,
+  "ok": true
+ },
+ "vulnfeed-api.novadyne.ai": {
+  "latency_ms": 445.2,
+  "status": 402,
+  "ok": true
+ },
+ "joyful-charm-production-bf6d.up.railway.app": {
+  "latency_ms": 831.2,
+  "status": 402,
+  "ok": true
+ },
+ "api.tcgapi.dev": {
+  "latency_ms": 446.0,
+  "status": 402,
+  "ok": true
+ },
+ "live-listing-proof.mattskowronis.workers.dev": {
+  "latency_ms": 418.3,
+  "status": 404,
+  "ok": true
+ },
+ "liq.lonestaroracle.xyz": {
+  "latency_ms": 1004.3,
+  "status": 402,
+  "ok": true
+ },
+ "api.geoprimitives.dev": {
+  "latency_ms": 849.7,
+  "status": 402,
+  "ok": true
+ },
+ "genworks.com": {
+  "latency_ms": 1219.7,
+  "status": 402,
+  "ok": true
+ },
+ "business.agentum.lat": {
+  "latency_ms": 1132.4,
+  "status": 402,
+  "ok": true
+ },
+ "www.cultos.dev": {
+  "latency_ms": 1101.1,
+  "status": 404,
+  "ok": true
+ },
+ "anansidata.xyz": {
+  "latency_ms": 1235.4,
+  "status": 402,
+  "ok": true
+ },
+ "uxus.finance": {
+  "latency_ms": 1756.6,
+  "status": 402,
+  "ok": true
+ },
+ "unit.openverbs.com": {
+  "latency_ms": 933.6,
+  "status": 402,
+  "ok": true
+ },
+ "email.intel.rallylive.ca": {
+  "latency_ms": 1355.2,
+  "status": 402,
+  "ok": true
+ },
+ "auto411-x402-prod.simonwakelin.workers.dev": {
+  "latency_ms": 804.0,
+  "status": 404,
+  "ok": true
+ },
+ "zini-x402.wouldzini.workers.dev": {
+  "latency_ms": 1060.4,
+  "status": 402,
+  "ok": true
+ },
+ "api.truthbear.co": {
+  "latency_ms": 1562.8,
+  "status": 402,
+  "ok": true
+ },
+ "www.x402joker.com": {
+  "latency_ms": 1422.5,
+  "status": 200,
+  "ok": true
+ },
+ "api.webacy.com": {
+  "latency_ms": 1678.1,
+  "status": 402,
+  "ok": true
+ },
+ "free-api-resell.relayhop.workers.dev": {
+  "latency_ms": 1393.1,
+  "status": 402,
+  "ok": true
+ },
+ "voice.forgemesh.io": {
+  "latency_ms": 1019.4,
+  "status": 402,
+  "ok": true
+ },
+ "helprentdanang.com": {
+  "latency_ms": 1569.3,
+  "status": 402,
+  "ok": true
+ },
+ "api.zfinia.com": {
+  "latency_ms": 5799.0,
+  "status": 402,
+  "ok": true
+ },
+ "schemasure.com": {
+  "latency_ms": 1767.0,
+  "status": 404,
+  "ok": true
+ },
+ "verdoc-x402.verdoc-x402-worker.workers.dev": {
+  "latency_ms": 777.7,
+  "status": 402,
+  "ok": true
+ },
+ "hyperliquid-accounts.use.x402atlas.com": {
+  "latency_ms": 1060.0,
+  "status": 402,
+  "ok": true
+ },
+ "x402.problocks.io": {
+  "latency_ms": 1479.3,
+  "status": 402,
+  "ok": true
+ },
+ "packages.cfsoft.us": {
+  "latency_ms": 789.9,
+  "status": 402,
+  "ok": true
+ },
+ "api.nimatron.com": {
+  "latency_ms": 997.1,
+  "status": 402,
+  "ok": true
+ },
+ "toolshed.lemon-agent.dev": {
+  "latency_ms": 564.1,
+  "status": 405,
+  "ok": true
+ },
+ "api.particle.pro": {
+  "latency_ms": 535.6,
+  "status": 402,
+  "ok": true
+ },
+ "instagram.use.x402atlas.com": {
+  "latency_ms": 1438.3,
+  "status": 402,
+  "ok": true
+ },
+ "youtube.use.x402atlas.com": {
+  "latency_ms": 1428.0,
+  "status": 402,
+  "ok": true
+ },
+ "wintel.canopy.finance": {
+  "latency_ms": 1656.6,
+  "status": 402,
+  "ok": true
+ },
+ "mistral.x402.paywithlocus.com": {
+  "latency_ms": 722.6,
+  "status": 404,
+  "ok": true
+ },
+ "stablebase.dev": {
+  "latency_ms": 1067.4,
+  "status": 405,
+  "ok": true
+ },
+ "ai-data-marketplace-1042299154756.us-central1.run.app": {
+  "latency_ms": 655.5,
+  "status": 402,
+  "ok": true
+ },
+ "x402swag.com": {
+  "latency_ms": 1933.9,
+  "status": 402,
+  "ok": true
+ },
+ "consumer.lonestaroracle.xyz": {
+  "latency_ms": 991.0,
+  "status": 402,
+  "ok": true
+ },
+ "mapbox.x402.paywithlocus.com": {
+  "latency_ms": 697.1,
+  "status": 404,
+  "ok": true
+ },
+ "wiki.use.x402atlas.com": {
+  "latency_ms": 1212.6,
+  "status": 402,
+  "ok": true
+ },
+ "files.camelai.io": {
+  "latency_ms": 600.1,
+  "status": 200,
+  "ok": true
+ },
+ "agentproof-murex.vercel.app": {
+  "latency_ms": 786.5,
+  "status": 405,
+  "ok": true
+ },
+ "agentkit-x402-buy.netlify.app": {
+  "latency_ms": 1413.5,
+  "status": 402,
+  "ok": true
+ },
+ "url2md-testnet.url2md.workers.dev": {
+  "latency_ms": 923.1,
+  "status": 402,
+  "ok": true
+ },
+ "404humans.xyz": {
+  "latency_ms": 1043.9,
+  "status": 402,
+  "ok": true
+ },
+ "deepseek.x402.stage.paywithlocus.com": {
+  "latency_ms": 770.2,
+  "status": 404,
+  "ok": true
+ },
+ "api.gocreativeai.com": {
+  "latency_ms": 843.9,
+  "status": 502,
+  "ok": true
+ },
+ "api.oblique.markets": {
+  "latency_ms": 598.3,
+  "status": 402,
+  "ok": true
+ },
+ "fraction.openverbs.com": {
+  "latency_ms": 796.9,
+  "status": 402,
+  "ok": true
+ },
+ "doctor.promoclube.online": {
+  "latency_ms": 1020.9,
+  "status": 405,
+  "ok": true
+ },
+ "supplier-risk-api-production.up.railway.app": {
+  "latency_ms": 808.7,
+  "status": 402,
+  "ok": true
+ },
+ "api.immuta.app": {
+  "latency_ms": 1084.9,
+  "status": 402,
+  "ok": true
+ },
+ "stablemesh.dev": {
+  "latency_ms": 907.5,
+  "status": 405,
+  "ok": true
+ },
+ "lotusnetworkapi.com": {
+  "latency_ms": 764.4,
+  "status": 402,
+  "ok": true
+ },
+ "otp.openverbs.com": {
+  "latency_ms": 899.6,
+  "status": 402,
+  "ok": true
+ },
+ "ip.openverbs.com": {
+  "latency_ms": 877.3,
+  "status": 402,
+  "ok": true
+ },
+ "language-detector.pdfextractapi.workers.dev": {
+  "latency_ms": 631.9,
+  "status": 204,
+  "ok": true
+ },
+ "x402-coin-api.vercel.app": {
+  "latency_ms": 1566.4,
+  "status": 402,
+  "ok": true
+ },
+ "api.carbon-cashmere.de": {
+  "latency_ms": 1799.0,
+  "status": 402,
+  "ok": true
+ },
+ "aiact-api.com": {
+  "latency_ms": 612.3,
+  "status": 402,
+  "ok": true
+ },
+ "quotient-api-gateway.onrender.com": {
+  "latency_ms": 865.5,
+  "status": 402,
+  "ok": true
+ },
+ "evm-gas.apitoll.cloud": {
+  "latency_ms": 1594.0,
+  "status": 402,
+  "ok": true
+ },
+ "keyring-agent.blockchhub.link": {
+  "latency_ms": 456.4,
+  "status": 402,
+  "ok": true
+ },
+ "netintel.dev": {
+  "latency_ms": 781.1,
+  "status": 402,
+  "ok": true
+ },
+ "label.api.williamrobinson.dev": {
+  "latency_ms": 814.7,
+  "status": 402,
+  "ok": true
+ },
+ "api.stocktrends.com": {
+  "latency_ms": 1468.9,
+  "status": 402,
+  "ok": true
+ },
+ "x402.whisperbox.my.id": {
+  "latency_ms": 1032.2,
+  "status": 402,
+  "ok": true
+ },
+ "natur.halowerk.com": {
+  "latency_ms": 1408.8,
+  "status": 402,
+  "ok": true
+ },
+ "fda-iom-api.canvas-cart.workers.dev": {
+  "latency_ms": 720.3,
+  "status": 402,
+  "ok": true
+ },
+ "dripstack.xyz": {
+  "latency_ms": 938.3,
+  "status": 404,
+  "ok": true
+ },
+ "signals.nsgoods.org": {
+  "latency_ms": 1188.7,
+  "status": 402,
+  "ok": true
+ },
+ "x402-kyb-api.vercel.app": {
+  "latency_ms": 1222.0,
+  "status": 405,
+  "ok": true
+ },
+ "api.stacktr.ee": {
+  "latency_ms": 561.2,
+  "status": 402,
+  "ok": true
+ },
+ "www.productclank.com": {
+  "latency_ms": 1987.0,
+  "status": 402,
+  "ok": true
+ },
+ "astatelypleasuredome.com": {
+  "latency_ms": 1553.1,
+  "status": 402,
+  "ok": true
+ },
+ "business-verification-machine.onrender.com": {
+  "latency_ms": 415.9,
+  "status": 402,
+  "ok": true
+ },
+ "toolbelt402.tpoborne.workers.dev": {
+  "latency_ms": 733.3,
+  "status": 402,
+  "ok": true
+ },
+ "penny402.fun": {
+  "latency_ms": 644.9,
+  "status": 402,
+  "ok": true
+ },
+ "cars2026.vercel.app": {
+  "latency_ms": 857.9,
+  "status": 402,
+  "ok": true
+ },
+ "www.stable-shovels.dev": {
+  "latency_ms": 884.6,
+  "status": 405,
+  "ok": true
+ },
+ "agi.apify.com": {
+  "latency_ms": 1306.3,
+  "status": 402,
+  "ok": true
+ },
+ "api.jarvisclaw.ai": {
+  "latency_ms": 1086.3,
+  "status": 402,
+  "ok": true
+ },
+ "combinatorics.openverbs.com": {
+  "latency_ms": 816.3,
+  "status": 402,
+  "ok": true
+ },
+ "port-scanner.underscoredone.com": {
+  "latency_ms": 584.4,
+  "status": 402,
+  "ok": true
+ },
+ "garment.api.williamrobinson.dev": {
+  "latency_ms": 1003.2,
+  "status": 402,
+  "ok": true
+ },
+ "gifu-server.onrender.com": {
+  "latency_ms": 690.3,
+  "status": 402,
+  "ok": true
+ },
+ "furigana.agentic-jp.com": {
+  "latency_ms": 384.7,
+  "status": 405,
+  "ok": true
+ },
+ "dns.intel.rallylive.ca": {
+  "latency_ms": 1197.9,
+  "status": 402,
+  "ok": true
+ },
+ "api.mach.gallery": {
+  "latency_ms": 1322.7,
+  "status": 402,
+  "ok": true
+ },
+ "receipt.schemasure.com": {
+  "latency_ms": 612.9,
+  "status": 404,
+  "ok": true
+ },
+ "random.openverbs.com": {
+  "latency_ms": 818.1,
+  "status": 402,
+  "ok": true
+ },
+ "anomaly.forgemesh.io": {
+  "latency_ms": 888.8,
+  "status": 402,
+  "ok": true
+ },
+ "shopscout.forgemesh.io": {
+  "latency_ms": 857.4,
+  "status": 402,
+  "ok": true
+ },
+ "agents.forwardlane.com": {
+  "latency_ms": 754.0,
+  "status": 402,
+  "ok": true
+ },
+ "sendquotenow.com": {
+  "latency_ms": 1887.3,
+  "status": 405,
+  "ok": true
+ },
+ "www.balticdryindex.com": {
+  "latency_ms": 773.1,
+  "status": 402,
+  "ok": true
+ },
+ "mime.openverbs.com": {
+  "latency_ms": 863.4,
+  "status": 402,
+  "ok": true
+ },
+ "driftflight.pay.zeroclick.io": {
+  "latency_ms": 556.0,
+  "status": 404,
+  "ok": true
+ },
+ "x402-stall-l3bb.onrender.com": {
+  "latency_ms": 556.1,
+  "status": 402,
+  "ok": true
+ },
+ "test.agent.pocket.network": {
+  "latency_ms": 1473.3,
+  "status": 402,
+  "ok": true
+ },
+ "preppers-paradise.com": {
+  "latency_ms": 1032.0,
+  "status": 402,
+  "ok": true
+ },
+ "api.aurelianflo.com": {
+  "latency_ms": 1243.9,
+  "status": 402,
+  "ok": true
+ },
+ "capitol.lonestaroracle.xyz": {
+  "latency_ms": 1352.9,
+  "status": 402,
+  "ok": true
+ },
+ "api.bitrefill.com": {
+  "latency_ms": 1015.3,
+  "status": 402,
+  "ok": true
+ },
+ "globalrules-api.onrender.com": {
+  "latency_ms": 888.7,
+  "status": 402,
+  "ok": true
+ },
+ "pulsefeed.dev": {
+  "latency_ms": 2482.3,
+  "status": 402,
+  "ok": true
+ },
+ "agents.nibiashara.biz": {
+  "latency_ms": 1193.5,
+  "status": 402,
+  "ok": true
+ },
+ "jwt.openverbs.com": {
+  "latency_ms": 951.1,
+  "status": 402,
+  "ok": true
+ },
+ "zerostart-agent.jack-labs.workers.dev": {
+  "latency_ms": 983.4,
+  "status": 402,
+  "ok": true
+ },
+ "wealth.lonestaroracle.xyz": {
+  "latency_ms": 1208.9,
+  "status": 402,
+  "ok": true
+ },
+ "agent-reader.gm-tools.workers.dev": {
+  "latency_ms": 1854.0,
+  "status": 402,
+  "ok": true
+ },
+ "x402-mcp.onrender.com": {
+  "latency_ms": 984.7,
+  "status": 402,
+  "ok": true
+ },
+ "api.oasistokenless.trade": {
+  "latency_ms": null,
+  "status": null,
+  "ok": false,
+  "error": "HTTPSConnectionPool(host='api.oasistokenless.trade', port=443): Read timed out."
+ },
+ "products.openverbs.com": {
+  "latency_ms": 1132.3,
+  "status": 402,
+  "ok": true
+ },
+ "safefetch.schemasure.com": {
+  "latency_ms": 621.2,
+  "status": 404,
+  "ok": true
+ },
+ "cryptyx.ai": {
+  "latency_ms": 626.4,
+  "status": 402,
+  "ok": true
+ },
+ "prototype.api.williamrobinson.dev": {
+  "latency_ms": 545.0,
+  "status": 402,
+  "ok": true
+ },
+ "tollbooth-hello-testnet.sjwilliams8.workers.dev": {
+  "latency_ms": 641.0,
+  "status": 402,
+  "ok": true
+ },
+ "spotify.jojapi.net": {
+  "latency_ms": 1158.1,
+  "status": 402,
+  "ok": true
+ },
+ "staging.getbags.app": {
+  "latency_ms": 3957.5,
+  "status": 402,
+  "ok": true
+ },
+ "travelcheck-x402.fly.dev": {
+  "latency_ms": 613.0,
+  "status": 200,
+  "ok": true
+ },
+ "x402.cheetahsecurity.de": {
+  "latency_ms": 1816.0,
+  "status": 402,
+  "ok": true
+ },
+ "bykaranteli.com": {
+  "latency_ms": 1126.6,
+  "status": 402,
+  "ok": true
+ },
+ "paddock.finance": {
+  "latency_ms": 1419.0,
+  "status": 402,
+  "ok": true
+ },
+ "hash-hmac.underscoredone.com": {
+  "latency_ms": 717.1,
+  "status": 402,
+  "ok": true
+ },
+ "x402.onlybots.shop": {
+  "latency_ms": 1301.0,
+  "status": 402,
+  "ok": true
+ },
+ "tempo.halowerk.com": {
+  "latency_ms": 1343.0,
+  "status": 404,
+  "ok": true
+ },
+ "x402-mainnet.vercel.app": {
+  "latency_ms": 1282.2,
+  "status": 402,
+  "ok": true
+ },
+ "dnsdoctor.dev": {
+  "latency_ms": 1255.8,
+  "status": 402,
+  "ok": true
+ },
+ "sentedge.ai": {
+  "latency_ms": 1478.2,
+  "status": 404,
+  "ok": true
+ },
+ "api.svgsmith.dev": {
+  "latency_ms": 862.2,
+  "status": 405,
+  "ok": true
+ },
+ "relay.preflightstack.com": {
+  "latency_ms": 1022.5,
+  "status": 404,
+  "ok": true
+ },
+ "spark.lonestaroracle.xyz": {
+  "latency_ms": 1169.1,
+  "status": 402,
+  "ok": true
+ },
+ "nimbus.clawca.sh": {
+  "latency_ms": 820.4,
+  "status": 402,
+  "ok": true
+ },
+ "trustfetch.duckdns.org": {
+  "latency_ms": 2128.7,
+  "status": 405,
+  "ok": true
+ },
+ "txguard.schemasure.com": {
+  "latency_ms": 848.2,
+  "status": 404,
+  "ok": true
+ },
+ "agentpay.tools": {
+  "latency_ms": 1032.2,
+  "status": 402,
+  "ok": true
+ },
+ "wallets-demo-seller-server.calebgcarithers.workers.dev": {
+  "latency_ms": 1012.5,
+  "status": 402,
+  "ok": true
+ },
+ "onvexia.com": {
+  "latency_ms": 1108.5,
+  "status": 402,
+  "ok": true
+ },
+ "mini-tollbooth.onrender.com": {
+  "latency_ms": 602.1,
+  "status": 402,
+  "ok": true
+ },
+ "dep.halowerk.com": {
+  "latency_ms": 1551.6,
+  "status": 402,
+  "ok": true
+ },
+ "red-breeze-8b8c.keenanbooker83.workers.dev": {
+  "latency_ms": 1936.2,
+  "status": 404,
+  "ok": true
+ },
+ "x402-store.dgdb.workers.dev": {
+  "latency_ms": 683.5,
+  "status": 404,
+  "ok": true
+ },
+ "aurelius-node-02-socal.onrender.com": {
+  "latency_ms": 465.1,
+  "status": 402,
+  "ok": true
+ },
+ "aura.rohnelt.dev": {
+  "latency_ms": 1279.3,
+  "status": 404,
+  "ok": true
+ },
+ "inference.algono.co": {
+  "latency_ms": 1401.2,
+  "status": 502,
+  "ok": true
+ },
+ "chainverdict.xyz": {
+  "latency_ms": 1230.4,
+  "status": 402,
+  "ok": true
+ },
+ "omniguchi.0000402.xyz": {
+  "latency_ms": 1329.1,
+  "status": 405,
+  "ok": true
+ },
+ "vaunt-dispatch-production.up.railway.app": {
+  "latency_ms": 979.6,
+  "status": 402,
+  "ok": true
+ },
+ "x402.payperbyte.io": {
+  "latency_ms": 955.3,
+  "status": 402,
+  "ok": true
+ },
+ "moltmarket.store": {
+  "latency_ms": 727.0,
+  "status": 402,
+  "ok": true
+ },
+ "faultcode-diagnostic-mcp.bowling-anthony.workers.dev": {
+  "latency_ms": 407.5,
+  "status": 402,
+  "ok": true
+ },
+ "intel.twzrd.xyz": {
+  "latency_ms": 1196.3,
+  "status": 402,
+  "ok": true
+ },
+ "space-weather.use.x402atlas.com": {
+  "latency_ms": 1343.7,
+  "status": 402,
+  "ok": true
+ },
+ "api.gigsoul.com": {
+  "latency_ms": 511.3,
+  "status": 402,
+  "ok": true
+ },
+ "baltikum.halowerk.com": {
+  "latency_ms": 1192.9,
+  "status": 404,
+  "ok": true
+ },
+ "vektor.netzhandwerker.de": {
+  "latency_ms": 1451.3,
+  "status": 402,
+  "ok": true
+ },
+ "riddlex402.vercel.app": {
+  "latency_ms": 916.6,
+  "status": 402,
+  "ok": true
+ },
+ "racingpulse.theaslangroupllc.com": {
+  "latency_ms": 518.3,
+  "status": 402,
+  "ok": true
+ },
+ "scvd.store": {
+  "latency_ms": 1123.5,
+  "status": 402,
+  "ok": true
+ },
+ "api.invoket.com": {
+  "latency_ms": 2523.9,
+  "status": 402,
+  "ok": true
+ },
+ "b702.everygoodwork.io": {
+  "latency_ms": 828.4,
+  "status": 405,
+  "ok": true
+ },
+ "pathcoursehealth.com": {
+  "latency_ms": 1229.5,
+  "status": 404,
+  "ok": true
+ },
+ "2s-rjsw718bb-alleyford.vercel.app": {
+  "latency_ms": 941.4,
+  "status": 402,
+  "ok": true
+ },
+ "tollbooth-fdic-verify-testnet.sjwilliams8.workers.dev": {
+  "latency_ms": 961.1,
+  "status": 402,
+  "ok": true
+ },
+ "e-commerce-price-monitoring-production.up.railway.app": {
+  "latency_ms": 813.9,
+  "status": 404,
+  "ok": true
+ },
+ "reddit.apitoll.cloud": {
+  "latency_ms": 1628.2,
+  "status": 402,
+  "ok": true
+ },
+ "suedland.halowerk.com": {
+  "latency_ms": 1186.3,
+  "status": 404,
+  "ok": true
+ },
+ "x402.creative-tim.com": {
+  "latency_ms": 1416.4,
+  "status": 402,
+  "ok": true
+ },
+ "byfaro.ai": {
+  "latency_ms": 1268.2,
+  "status": 402,
+  "ok": true
+ },
+ "israel-counterparty-intelligence.vercel.app": {
+  "latency_ms": 1058.5,
+  "status": 405,
+  "ok": true
+ },
+ "random.preflightstack.com": {
+  "latency_ms": 1113.7,
+  "status": 405,
+  "ok": true
+ },
+ "edgar.openverbs.com": {
+  "latency_ms": 1334.8,
+  "status": 402,
+  "ok": true
+ },
+ "chain.openverbs.com": {
+  "latency_ms": 964.5,
+  "status": 402,
+  "ok": true
+ },
+ "wasm-geotiff-transcoder.jannioura.workers.dev": {
+  "latency_ms": 717.7,
+  "status": 200,
+  "ok": true
+ },
+ "calendars.stockql.ai": {
+  "latency_ms": 1053.2,
+  "status": 402,
+  "ok": true
+ },
+ "mart402.com": {
+  "latency_ms": 1137.6,
+  "status": 402,
+  "ok": true
+ },
+ "defi-signals.org": {
+  "latency_ms": 1542.5,
+  "status": 402,
+  "ok": true
+ },
+ "api.aislabs.ai": {
+  "latency_ms": 511.7,
+  "status": 402,
+  "ok": true
+ },
+ "402agent.ai": {
+  "latency_ms": 6059.3,
+  "status": 404,
+  "ok": true
+ },
+ "aep-api.fly.dev": {
+  "latency_ms": 780.2,
+  "status": 404,
+  "ok": true
+ },
+ "music.jamesbpollack.com": {
+  "latency_ms": 1472.2,
+  "status": 402,
+  "ok": true
+ },
+ "id.openverbs.com": {
+  "latency_ms": 1080.7,
+  "status": 402,
+  "ok": true
+ },
+ "coingecko.use.x402atlas.com": {
+  "latency_ms": 1609.7,
+  "status": 402,
+  "ok": true
+ },
+ "lion-x402.lionmaster-operations.workers.dev": {
+  "latency_ms": 1152.5,
+  "status": 402,
+  "ok": true
+ },
+ "seo-data-extractor.underscoredone.com": {
+  "latency_ms": 630.3,
+  "status": 402,
+  "ok": true
+ },
+ "us-agentic.com": {
+  "latency_ms": 728.3,
+  "status": 402,
+  "ok": true
+ },
+ "agent-research-api.onrender.com": {
+  "latency_ms": 876.2,
+  "status": 404,
+  "ok": true
+ },
+ "soldefi.thomenz.me": {
+  "latency_ms": 946.6,
+  "status": 405,
+  "ok": true
+ },
+ "api.relaystation.ai": {
+  "latency_ms": 1714.9,
+  "status": 401,
+  "ok": true
+ },
+ "hypernatt.com": {
+  "latency_ms": 1459.3,
+  "status": 402,
+  "ok": true
+ },
+ "cf-enforcement-check.cf-exclusion-check.workers.dev": {
+  "latency_ms": 1058.7,
+  "status": 402,
+  "ok": true
+ },
+ "www.liquidstate.tech": {
+  "latency_ms": 2565.0,
+  "status": 402,
+  "ok": true
+ },
+ "brasil-dados-api.onrender.com": {
+  "latency_ms": 927.7,
+  "status": 402,
+  "ok": true
+ },
+ "gotobi.hugen.tokyo": {
+  "latency_ms": 653.7,
+  "status": 402,
+  "ok": true
+ },
+ "ip.intel.rallylive.ca": {
+  "latency_ms": 936.8,
+  "status": 402,
+  "ok": true
+ },
+ "paulgraham.persona.energy": {
+  "latency_ms": 932.1,
+  "status": 401,
+  "ok": true
+ },
+ "mcp.whitemagic.dev": {
+  "latency_ms": 1228.7,
+  "status": 402,
+  "ok": true
+ },
+ "tollbooth-hello.sjwilliams8.workers.dev": {
+  "latency_ms": 861.3,
+  "status": 402,
+  "ok": true
+ },
+ "pay-per-demo.vercel.app": {
+  "latency_ms": 1270.2,
+  "status": 402,
+  "ok": true
+ },
+ "machina.pay.zeroclick.io": {
+  "latency_ms": 475.6,
+  "status": 405,
+  "ok": true
+ },
+ "api.verigrace.com:4451": {
+  "latency_ms": 687.7,
+  "status": 402,
+  "ok": true
+ },
+ "matrix.openverbs.com": {
+  "latency_ms": 782.8,
+  "status": 402,
+  "ok": true
+ },
+ "finance.openverbs.com": {
+  "latency_ms": 824.3,
+  "status": 402,
+  "ok": true
+ },
+ "aayatai.com": {
+  "latency_ms": 1927.4,
+  "status": 402,
+  "ok": true
+ },
+ "x402-stock-indicators.vercel.app": {
+  "latency_ms": 1606.1,
+  "status": 402,
+  "ok": true
+ },
+ "api.isocast.dev": {
+  "latency_ms": 888.1,
+  "status": 402,
+  "ok": true
+ },
+ "google-trends.use.x402atlas.com": {
+  "latency_ms": 951.7,
+  "status": 402,
+  "ok": true
+ },
+ "x402.charliemorrison.dev": {
+  "latency_ms": 961.8,
+  "status": 402,
+  "ok": true
+ },
+ "api.cookin.fun": {
+  "latency_ms": 712.4,
+  "status": 402,
+  "ok": true
+ },
+ "http-status-checker.underscoredone.com": {
+  "latency_ms": 609.0,
+  "status": 402,
+  "ok": true
+ },
+ "fastapi-service-5ag4.onrender.com": {
+  "latency_ms": 466.8,
+  "status": 405,
+  "ok": true
+ },
+ "img402.dev": {
+  "latency_ms": 572.5,
+  "status": 404,
+  "ok": true
+ },
+ "api.influship.com": {
+  "latency_ms": 861.0,
+  "status": 402,
+  "ok": true
+ },
+ "citepulse.theaslangroupllc.com": {
+  "latency_ms": 480.9,
+  "status": 402,
+  "ok": true
+ },
+ "walcert.globalscoreagent.com": {
+  "latency_ms": 937.7,
+  "status": 405,
+  "ok": true
+ },
+ "app.maginary.ai": {
+  "latency_ms": 845.2,
+  "status": 401,
+  "ok": true
+ },
+ "crawler-toll-gateway.danightshift.workers.dev": {
+  "latency_ms": 1007.8,
+  "status": 402,
+  "ok": true
+ },
+ "agents.smarterway.tech": {
+  "latency_ms": 1074.8,
+  "status": 405,
+  "ok": true
+ },
+ "grok.x402.paywithlocus.com": {
+  "latency_ms": 780.7,
+  "status": 404,
+  "ok": true
+ },
+ "ip-geo-api-production.up.railway.app": {
+  "latency_ms": 861.4,
+  "status": 402,
+  "ok": true
+ },
+ "surf.cascade.fyi": {
+  "latency_ms": 1734.8,
+  "status": 404,
+  "ok": true
+ },
+ "straits.live": {
+  "latency_ms": 656.5,
+  "status": 402,
+  "ok": true
+ },
+ "api.surplusintelligence.ai": {
+  "latency_ms": 1177.3,
+  "status": 404,
+  "ok": true
+ },
+ "domain.hugen.tokyo": {
+  "latency_ms": 396.3,
+  "status": 402,
+  "ok": true
+ },
+ "oraclepost.higgsfield.app": {
+  "latency_ms": 2549.1,
+  "status": 402,
+  "ok": true
+ },
+ "api.exa.ai": {
+  "latency_ms": 381.3,
+  "status": 404,
+  "ok": true
+ },
+ "x402.orthogonal.com": {
+  "latency_ms": 612.3,
+  "status": 404,
+  "ok": true
+ },
+ "quantum-artificer.surewhynot.app": {
+  "latency_ms": 412.0,
+  "status": 404,
+  "ok": true
+ },
+ "voice.cyberwarex.com": {
+  "latency_ms": 1159.9,
+  "status": 402,
+  "ok": true
+ },
+ "evensteven.bet": {
+  "latency_ms": 1100.7,
+  "status": 402,
+  "ok": true
+ },
+ "stablepeopledata.dev": {
+  "latency_ms": 926.8,
+  "status": 405,
+  "ok": true
+ },
+ "tick.twzrd.xyz": {
+  "latency_ms": 898.8,
+  "status": 402,
+  "ok": true
+ },
+ "ausca.com": {
+  "latency_ms": 595.4,
+  "status": 402,
+  "ok": true
+ },
+ "delta.rursus.app": {
+  "latency_ms": 457.8,
+  "status": 404,
+  "ok": true
+ },
+ "aisfleet.com": {
+  "latency_ms": 1393.4,
+  "status": 404,
+  "ok": true
+ },
+ "energybilltoolkit.co.uk": {
+  "latency_ms": 1128.1,
+  "status": 405,
+  "ok": true
+ },
+ "api.printmoneylab.com": {
+  "latency_ms": 466.7,
+  "status": 402,
+  "ok": true
+ },
+ "text-summarizer.pdfextractapi.workers.dev": {
+  "latency_ms": 484.3,
+  "status": 204,
+  "ok": true
+ },
+ "realestate.lonestaroracle.xyz": {
+  "latency_ms": 1260.3,
+  "status": 402,
+  "ok": true
+ },
+ "booaip.vercel.app": {
+  "latency_ms": 721.0,
+  "status": 402,
+  "ok": true
+ },
+ "biosfera.46-62-215-147.sslip.io": {
+  "latency_ms": null,
+  "status": null,
+  "ok": false,
+  "error": "HTTPSConnectionPool(host='biosfera.46-62-215-147.sslip.io', port=443): Max retries exceeded with url: /o/block-info (Cau"
+ },
+ "api.resetparatodos.com": {
+  "latency_ms": 1827.9,
+  "status": 402,
+  "ok": true
+ },
+ "rates.lonestaroracle.xyz": {
+  "latency_ms": 1017.6,
+  "status": 402,
+  "ok": true
+ },
+ "foundry-csv-drift-evidence-mainnet.inference-chip-index.workers.dev": {
+  "latency_ms": 786.0,
+  "status": 405,
+  "ok": true
+ },
+ "defi.agent-layer.tech": {
+  "latency_ms": 1392.0,
+  "status": 402,
+  "ok": true
+ },
+ "og.bip-rep.com": {
+  "latency_ms": 1109.3,
+  "status": 200,
+  "ok": true
+ },
+ "api.marketintelligenceapi.com": {
+  "latency_ms": 1465.4,
+  "status": 402,
+  "ok": true
+ },
+ "agents.bytemine.ai": {
+  "latency_ms": 778.1,
+  "status": 404,
+  "ok": true
+ },
+ "json-suite.underscoredone.com": {
+  "latency_ms": 555.2,
+  "status": 402,
+  "ok": true
+ },
+ "api.21.cash": {
+  "latency_ms": 1709.9,
+  "status": 404,
+  "ok": true
+ },
+ "x402.cloudpulsepoint.com": {
+  "latency_ms": 1353.4,
+  "status": 402,
+  "ok": true
+ },
+ "raptor-base-yields.vercel.app": {
+  "latency_ms": 956.0,
+  "status": 402,
+  "ok": true
+ },
+ "llm.gedx402.com": {
+  "latency_ms": 820.5,
+  "status": 404,
+  "ok": true
+ },
+ "email-verifier.underscoredone.com": {
+  "latency_ms": 934.8,
+  "status": 402,
+  "ok": true
+ },
+ "stablecrypto.dev": {
+  "latency_ms": 906.6,
+  "status": 405,
+  "ok": true
+ },
+ "cryptoshark.duckdns.org": {
+  "latency_ms": 1552.7,
+  "status": 402,
+  "ok": true
+ },
+ "kya.lonestaroracle.xyz": {
+  "latency_ms": 2055.4,
+  "status": 402,
+  "ok": true
+ },
+ "prop.halowerk.com": {
+  "latency_ms": 1346.2,
+  "status": 402,
+  "ok": true
+ },
+ "deepgram.x402.paysponge.com": {
+  "latency_ms": 561.1,
+  "status": 404,
+  "ok": true
+ },
+ "agentservices.to": {
+  "latency_ms": 1050.2,
+  "status": 402,
+  "ok": true
+ },
+ "api2ls.com": {
+  "latency_ms": 1382.1,
+  "status": 402,
+  "ok": true
+ },
+ "api.signalfuse.co": {
+  "latency_ms": 780.5,
+  "status": 402,
+  "ok": true
+ },
+ "verpackung.getregisters.com": {
+  "latency_ms": 2551.9,
+  "status": 402,
+  "ok": true
+ },
+ "apollo.x402.paywithlocus.com": {
+  "latency_ms": 777.5,
+  "status": 404,
+  "ok": true
+ },
+ "trust-check.gm-tools.workers.dev": {
+  "latency_ms": 1521.6,
+  "status": 402,
+  "ok": true
+ },
+ "compute.memoryapi.org": {
+  "latency_ms": 900.5,
+  "status": 402,
+  "ok": true
+ },
+ "ads.apitoll.cloud": {
+  "latency_ms": 1662.0,
+  "status": 402,
+  "ok": true
+ },
+ "econdash.org": {
+  "latency_ms": 1867.9,
+  "status": 402,
+  "ok": true
+ },
+ "app.tenna.ai": {
+  "latency_ms": 437.8,
+  "status": 402,
+  "ok": true
+ },
+ "gov.halowerk.com": {
+  "latency_ms": 1390.7,
+  "status": 402,
+  "ok": true
+ },
+ "marketplaceforaiagents.com": {
+  "latency_ms": 4334.7,
+  "status": 400,
+  "ok": true
+ },
+ "api.wines.bet": {
+  "latency_ms": 1580.3,
+  "status": 402,
+  "ok": true
+ },
+ "tiktok.palmyr.ai": {
+  "latency_ms": 1336.4,
+  "status": 402,
+  "ok": true
+ },
+ "robotinsight.kr": {
+  "latency_ms": 702.5,
+  "status": 402,
+  "ok": true
+ },
+ "api.agentfeeds.jp": {
+  "latency_ms": 377.8,
+  "status": 402,
+  "ok": true
+ },
+ "contract.lonestaroracle.xyz": {
+  "latency_ms": 974.7,
+  "status": 402,
+  "ok": true
+ },
+ "dns.use.x402atlas.com": {
+  "latency_ms": 1188.5,
+  "status": 402,
+  "ok": true
+ },
+ "statepulse-api.hahavoid0.workers.dev": {
+  "latency_ms": 571.1,
+  "status": 200,
+  "ok": true
+ },
+ "roastx402endpoint.vercel.app": {
+  "latency_ms": 581.4,
+  "status": 402,
+  "ok": true
+ },
+ "agentwholesale-5zlaioz91-despiteryan-4343s-projects.vercel.app": {
+  "latency_ms": 868.9,
+  "status": 405,
+  "ok": true
+ },
+ "abiel-x402.protocolomc.com.br": {
+  "latency_ms": 1224.8,
+  "status": 402,
+  "ok": true
+ },
+ "ip.halowerk.com": {
+  "latency_ms": 1311.6,
+  "status": 402,
+  "ok": true
+ },
+ "mcpscan.openverbs.com": {
+  "latency_ms": 766.6,
+  "status": 402,
+  "ok": true
+ },
+ "api.x402.printmoneylab.com": {
+  "latency_ms": 1418.0,
+  "status": 402,
+  "ok": true
+ },
+ "aegis-api-mainnet.kadopi.workers.dev": {
+  "latency_ms": 502.9,
+  "status": 405,
+  "ok": true
+ },
+ "agentsapi.top": {
+  "latency_ms": 1307.4,
+  "status": 402,
+  "ok": true
+ },
+ "quietstore-production.edge-7e13f.workers.dev": {
+  "latency_ms": 444.1,
+  "status": 402,
+  "ok": true
+ },
+ "anthropic.x402.stage.paywithlocus.com": {
+  "latency_ms": 763.3,
+  "status": 404,
+  "ok": true
+ },
+ "pkgpulse.letom1176.workers.dev": {
+  "latency_ms": 619.9,
+  "status": 404,
+  "ok": true
+ },
+ "fachada.chelsea-hermes.workers.dev": {
+  "latency_ms": 1032.8,
+  "status": 402,
+  "ok": true
+ },
+ "token.lonestaroracle.xyz": {
+  "latency_ms": 975.1,
+  "status": 402,
+  "ok": true
+ },
+ "verifiable-random.use.x402atlas.com": {
+  "latency_ms": 2108.7,
+  "status": 405,
+  "ok": true
+ },
+ "truevaluerankings.com": {
+  "latency_ms": 1372.7,
+  "status": 402,
+  "ok": true
+ },
+ "econ.memoryapi.org": {
+  "latency_ms": 943.7,
+  "status": 402,
+  "ok": true
+ },
+ "x402.smartmoney.market": {
+  "latency_ms": 1027.0,
+  "status": 402,
+  "ok": true
+ },
+ "api.nightcobbler.com": {
+  "latency_ms": 1317.4,
+  "status": 404,
+  "ok": true
+ },
+ "dragon7.space": {
+  "latency_ms": 1163.8,
+  "status": 400,
+  "ok": true
+ },
+ "keystone-opportunity-api.keystone-opportunity.workers.dev": {
+  "latency_ms": 790.0,
+  "status": 402,
+  "ok": true
+ },
+ "food-facts.bowling-anthony.workers.dev": {
+  "latency_ms": 447.8,
+  "status": 402,
+  "ok": true
+ },
+ "api.predictionmarketdata.io": {
+  "latency_ms": 5139.6,
+  "status": 402,
+  "ok": true
+ },
+ "api.polym.uk": {
+  "latency_ms": 1792.5,
+  "status": 402,
+  "ok": true
+ },
+ "hello-world-x402.vercel.app": {
+  "latency_ms": 764.3,
+  "status": 402,
+  "ok": true
+ },
+ "machine-market-social-mainnet.machine-market.workers.dev": {
+  "latency_ms": 1189.9,
+  "status": 402,
+  "ok": true
+ },
+ "curatoria.dev": {
+  "latency_ms": 1312.2,
+  "status": 404,
+  "ok": true
+ },
+ "api.pennyforge.org": {
+  "latency_ms": 541.7,
+  "status": 405,
+  "ok": true
+ },
+ "lease.lonestaroracle.xyz": {
+  "latency_ms": 1103.5,
+  "status": 402,
+  "ok": true
+ },
+ "latamref.dev": {
+  "latency_ms": 1960.2,
+  "status": 402,
+  "ok": true
+ },
+ "x402-delivery-map.owenlvll.workers.dev": {
+  "latency_ms": 877.3,
+  "status": 402,
+  "ok": true
+ },
+ "api.agentinternetruntime.com": {
+  "latency_ms": 5356.8,
+  "status": 402,
+  "ok": true
+ },
+ "api.macaroonnetwork.com": {
+  "latency_ms": 1260.4,
+  "status": 402,
+  "ok": true
+ },
+ "api.biotechcatalystsentinel.com": {
+  "latency_ms": 1813.7,
+  "status": 402,
+  "ok": true
+ },
+ "signalharness.ai": {
+  "latency_ms": 2592.9,
+  "status": 405,
+  "ok": true
+ },
+ "codepulse-api.hahavoid0.workers.dev": {
+  "latency_ms": 452.7,
+  "status": 200,
+  "ok": true
+ },
+ "automaton.72.62.51.224.sslip.io": {
+  "latency_ms": 1938.2,
+  "status": 405,
+  "ok": true
+ },
+ "www.basehelper.fun": {
+  "latency_ms": 763.6,
+  "status": 402,
+  "ok": true
+ },
+ "verify.agentutil.net": {
+  "latency_ms": 461.5,
+  "status": 402,
+  "ok": true
+ },
+ "x402-api-catalog.onrender.com": {
+  "latency_ms": 562.4,
+  "status": 402,
+  "ok": true
+ },
+ "bio.halowerk.com": {
+  "latency_ms": 1388.6,
+  "status": 402,
+  "ok": true
+ },
+ "x402.halowerk.com": {
+  "latency_ms": 1757.5,
+  "status": 402,
+  "ok": true
+ },
+ "api.dripmetrics.ai": {
+  "latency_ms": 3415.5,
+  "status": 402,
+  "ok": true
+ },
+ "whale.lonestaroracle.xyz": {
+  "latency_ms": 1310.4,
+  "status": 402,
+  "ok": true
+ },
+ "api.aidress.ai": {
+  "latency_ms": 1052.1,
+  "status": 402,
+  "ok": true
+ },
+ "x402.monpham.work": {
+  "latency_ms": 920.7,
+  "status": 402,
+  "ok": true
+ },
+ "x402-gateway.ai": {
+  "latency_ms": 1130.0,
+  "status": 402,
+  "ok": true
+ },
+ "fresh402.kirilllabs.workers.dev": {
+  "latency_ms": 1155.7,
+  "status": 404,
+  "ok": true
+ },
+ "x402.911fund.io": {
+  "latency_ms": 1305.3,
+  "status": 402,
+  "ok": true
+ },
+ "ocr.underscoredone.com": {
+  "latency_ms": 1137.5,
+  "status": 402,
+  "ok": true
+ },
+ "api.trustsource.cc": {
+  "latency_ms": 1049.8,
+  "status": 402,
+  "ok": true
+ },
+ "qr-code-generator.underscoredone.com": {
+  "latency_ms": 967.9,
+  "status": 402,
+  "ok": true
+ },
+ "api.micacheck.workers.dev": {
+  "latency_ms": 919.5,
+  "status": 402,
+  "ok": true
+ },
+ "api.nameintel.io": {
+  "latency_ms": 1457.5,
+  "status": 404,
+  "ok": true
+ },
+ "material.halowerk.com": {
+  "latency_ms": 1615.3,
+  "status": 402,
+  "ok": true
+ },
+ "api.jamton.network": {
+  "latency_ms": 1716.6,
+  "status": 402,
+  "ok": true
+ },
+ "pixels.gateway.clawca.sh": {
+  "latency_ms": 805.4,
+  "status": 405,
+  "ok": true
+ },
+ "x402.agentutility.ai": {
+  "latency_ms": 2778.6,
+  "status": 200,
+  "ok": true
+ },
+ "leetspeak-translator.underscoredone.com": {
+  "latency_ms": 814.4,
+  "status": 402,
+  "ok": true
+ },
+ "coinslot.dev": {
+  "latency_ms": 746.6,
+  "status": 404,
+  "ok": true
+ },
+ "api.ibanforge.com": {
+  "latency_ms": 1516.2,
+  "status": 402,
+  "ok": true
+ },
+ "agentbit.app": {
+  "latency_ms": 2660.3,
+  "status": 402,
+  "ok": true
+ },
+ "www.x402scan.com": {
+  "latency_ms": 1108.9,
+  "status": 402,
+  "ok": true
+ },
+ "email.openverbs.com": {
+  "latency_ms": 833.6,
+  "status": 402,
+  "ok": true
+ },
+ "crypto.openverbs.com": {
+  "latency_ms": 976.1,
+  "status": 402,
+  "ok": true
+ },
+ "wikidata.openverbs.com": {
+  "latency_ms": 982.9,
+  "status": 402,
+  "ok": true
+ },
+ "action402.vercel.app": {
+  "latency_ms": 863.5,
+  "status": 405,
+  "ok": true
+ },
+ "aurelius-node-01.onrender.com": {
+  "latency_ms": 698.0,
+  "status": 402,
+  "ok": true
+ },
+ "agent-control.net": {
+  "latency_ms": 1070.2,
+  "status": 402,
+  "ok": true
+ },
+ "ao-payload-rescue-production.up.railway.app": {
+  "latency_ms": 975.9,
+  "status": 405,
+  "ok": true
+ },
+ "billboard.x402.paywithlocus.com": {
+  "latency_ms": 860.4,
+  "status": 404,
+  "ok": true
+ },
+ "waterpulse.theaslangroupllc.com": {
+  "latency_ms": 644.2,
+  "status": 402,
+  "ok": true
+ },
+ "staging.toolkit.dev": {
+  "latency_ms": 1658.2,
+  "status": 402,
+  "ok": true
+ },
+ "mortgage-amortization.underscoredone.com": {
+  "latency_ms": 828.6,
+  "status": 402,
+  "ok": true
+ },
+ "tariffmonkee.com": {
+  "latency_ms": 2510.6,
+  "status": 402,
+  "ok": true
+ },
+ "sandbox.node4all.com": {
+  "latency_ms": 973.4,
+  "status": 402,
+  "ok": true
+ },
+ "paysafe-agent.com": {
+  "latency_ms": 979.6,
+  "status": 402,
+  "ok": true
+ },
+ "stablejobs.dev": {
+  "latency_ms": 994.7,
+  "status": 405,
+  "ok": true
+ },
+ "kortex.rohnelt.dev": {
+  "latency_ms": 1299.6,
+  "status": 404,
+  "ok": true
+ },
+ "flint.network": {
+  "latency_ms": 1031.1,
+  "status": 402,
+  "ok": true
+ },
+ "craft-chronicles.everygoodwork.io": {
+  "latency_ms": 625.9,
+  "status": 405,
+  "ok": true
+ },
+ "api.signalis.dev": {
+  "latency_ms": 959.1,
+  "status": 402,
+  "ok": true
+ },
+ "x402.onhub.ai": {
+  "latency_ms": 827.2,
+  "status": 404,
+  "ok": true
+ },
+ "vibesprings.net": {
+  "latency_ms": 767.3,
+  "status": 402,
+  "ok": true
+ },
+ "iban.openverbs.com": {
+  "latency_ms": 964.6,
+  "status": 402,
+  "ok": true
+ },
+ "law-mcp.toulaw.workers.dev": {
+  "latency_ms": 645.1,
+  "status": 402,
+  "ok": true
+ },
+ "astro.openverbs.com": {
+  "latency_ms": 1405.5,
+  "status": 402,
+  "ok": true
+ },
+ "markdown.openverbs.com": {
+  "latency_ms": 858.9,
+  "status": 402,
+  "ok": true
+ },
+ "api.liquidagent.ai": {
+  "latency_ms": 1264.5,
+  "status": 402,
+  "ok": true
+ },
+ "landvergleich.halowerk.com": {
+  "latency_ms": 1276.4,
+  "status": 404,
+  "ok": true
+ },
+ "agrees-conditional-primarily-subsection.trycloudflare.com": {
+  "latency_ms": 1648.6,
+  "status": 403,
+  "ok": true
+ },
+ "assay.cascadiantech.com": {
+  "latency_ms": 704.7,
+  "status": 402,
+  "ok": true
+ },
+ "peptidesdirect.io": {
+  "latency_ms": 1865.9,
+  "status": 402,
+  "ok": true
+ },
+ "markt.halowerk.com": {
+  "latency_ms": 1351.1,
+  "status": 402,
+  "ok": true
+ },
+ "stable-enrich-git-shafu-stableenrich-peopl-a13b22-merit-systems.vercel.app": {
+  "latency_ms": 812.1,
+  "status": 405,
+  "ok": true
+ },
+ "asn-lookup.underscoredone.com": {
+  "latency_ms": 650.4,
+  "status": 402,
+  "ok": true
+ },
+ "weight402endpoint.vercel.app": {
+  "latency_ms": 703.4,
+  "status": 402,
+  "ok": true
+ },
+ "agent-guild-5d5r.onrender.com": {
+  "latency_ms": 515.6,
+  "status": 402,
+  "ok": true
+ },
+ "api.prereason.com": {
+  "latency_ms": 1237.4,
+  "status": 402,
+  "ok": true
+ },
+ "weather-bazaar-test-production.up.railway.app": {
+  "latency_ms": 1752.3,
+  "status": 402,
+  "ok": true
+ },
+ "x402-seller-0ay3.onrender.com": {
+  "latency_ms": 1099.6,
+  "status": 402,
+  "ok": true
+ },
+ "feed-reader.bowling-anthony.workers.dev": {
+  "latency_ms": 385.1,
+  "status": 402,
+  "ok": true
+ },
+ "agentic-reservations.vercel.app": {
+  "latency_ms": 1330.0,
+  "status": 405,
+  "ok": true
+ },
+ "audit.152-53-82-29.sslip.io": {
+  "latency_ms": 1606.8,
+  "status": 404,
+  "ok": true
+ },
+ "cascade.lonestaroracle.xyz": {
+  "latency_ms": 1029.9,
+  "status": 402,
+  "ok": true
+ },
+ "a2apay.io": {
+  "latency_ms": 971.1,
+  "status": 405,
+  "ok": true
+ },
+ "agentcash-fortune-demo3.vercel.app": {
+  "latency_ms": 573.2,
+  "status": 405,
+  "ok": true
+ },
+ "verify.camelai.io": {
+  "latency_ms": 605.6,
+  "status": 200,
+  "ok": true
+ },
+ "10x402.com": {
+  "latency_ms": 648.1,
+  "status": 402,
+  "ok": true
+ },
+ "api-staging.eckari.com": {
+  "latency_ms": 946.9,
+  "status": 402,
+  "ok": true
+ },
+ "bunnvault.xyz": {
+  "latency_ms": 831.6,
+  "status": 402,
+  "ok": true
+ },
+ "api.agentmercantile.com": {
+  "latency_ms": 611.1,
+  "status": 404,
+  "ok": true
+ },
+ "acoda.xyz": {
+  "latency_ms": 1214.9,
+  "status": 402,
+  "ok": true
+ },
+ "cycle.lonestaroracle.xyz": {
+  "latency_ms": 994.3,
+  "status": 402,
+  "ok": true
+ },
+ "mailpulse.theaslangroupllc.com": {
+  "latency_ms": 800.7,
+  "status": 402,
+  "ok": true
+ },
+ "oracle.cyberwarex.com": {
+  "latency_ms": 1140.8,
+  "status": 402,
+  "ok": true
+ },
+ "atlantikland.halowerk.com": {
+  "latency_ms": 1133.1,
+  "status": 404,
+  "ok": true
+ },
+ "api.insumermodel.com": {
+  "latency_ms": 616.0,
+  "status": 402,
+  "ok": true
+ },
+ "402oracle.com": {
+  "latency_ms": 508.7,
+  "status": 405,
+  "ok": true
+ },
+ "agri.halowerk.com": {
+  "latency_ms": 1468.8,
+  "status": 402,
+  "ok": true
+ },
+ "scorestatus.dev": {
+  "latency_ms": 919.8,
+  "status": 404,
+  "ok": true
+ },
+ "delvorn.site": {
+  "latency_ms": 1165.6,
+  "status": 402,
+  "ok": true
+ },
+ "whale.memoryapi.org": {
+  "latency_ms": 943.5,
+  "status": 402,
+  "ok": true
+ },
+ "mechamanda.com": {
+  "latency_ms": 1383.2,
+  "status": 402,
+  "ok": true
+ },
+ "api.eckari.com": {
+  "latency_ms": 983.5,
+  "status": 402,
+  "ok": true
+ },
+ "2s-3cpr6qm6j-alleyford.vercel.app": {
+  "latency_ms": 1159.6,
+  "status": 402,
+  "ok": true
+ },
+ "buildscottsbluff.com": {
+  "latency_ms": 799.0,
+  "status": 402,
+  "ok": true
+ },
+ "geocode.openverbs.com": {
+  "latency_ms": 973.8,
+  "status": 402,
+  "ok": true
+ },
+ "sigma-api-oracle.tailae0cf3.ts.net": {
+  "latency_ms": 2111.4,
+  "status": 402,
+  "ok": true
+ },
+ "concordancehq.duckdns.org": {
+  "latency_ms": 1966.5,
+  "status": 405,
+  "ok": true
+ },
+ "foundry-par007-machine-revenue-mainnet.inference-chip-index.workers.dev": {
+  "latency_ms": 992.8,
+  "status": 405,
+  "ok": true
+ },
+ "tempfile.0000402.xyz": {
+  "latency_ms": 1073.1,
+  "status": 405,
+  "ok": true
+ },
+ "phion.systems": {
+  "latency_ms": 1258.1,
+  "status": 402,
+  "ok": true
+ },
+ "api.commodities.sh": {
+  "latency_ms": 1026.2,
+  "status": 402,
+  "ok": true
+ },
+ "shadowharness.com": {
+  "latency_ms": 344.9,
+  "status": 200,
+  "ok": true
+ },
+ "blockchain-api.x402-chain-tools.workers.dev": {
+  "latency_ms": 494.6,
+  "status": 405,
+  "ok": true
+ },
+ "x402-agent-store.rileycraig14.workers.dev": {
+  "latency_ms": 1069.1,
+  "status": 402,
+  "ok": true
+ },
+ "agentres.dev": {
+  "latency_ms": 831.9,
+  "status": 402,
+  "ok": true
+ },
+ "wazir-x402.duckdns.org": {
+  "latency_ms": 1860.3,
+  "status": 402,
+  "ok": true
+ },
+ "chain-tools.use.x402atlas.com": {
+  "latency_ms": 1613.4,
+  "status": 405,
+  "ok": true
+ },
+ "laso.finance": {
+  "latency_ms": 686.5,
+  "status": 402,
+  "ok": true
+ },
+ "seoul-weather-402.fly.dev": {
+  "latency_ms": 462.8,
+  "status": 402,
+  "ok": true
+ },
+ "stablecoinpulse.theaslangroupllc.com": {
+  "latency_ms": 545.6,
+  "status": 402,
+  "ok": true
+ },
+ "numeral.openverbs.com": {
+  "latency_ms": 823.0,
+  "status": 402,
+  "ok": true
+ },
+ "api.x402card.org": {
+  "latency_ms": 1430.1,
+  "status": 404,
+  "ok": true
+ },
+ "aiagentoracle.ai": {
+  "latency_ms": 934.5,
+  "status": 402,
+  "ok": true
+ },
+ "api.carvector.io": {
+  "latency_ms": 2103.1,
+  "status": 402,
+  "ok": true
+ },
+ "cdp-agent-0-01.onrender.com": {
+  "latency_ms": 790.6,
+  "status": 402,
+  "ok": true
+ },
+ "x402-agents-production.up.railway.app": {
+  "latency_ms": 2003.5,
+  "status": 402,
+  "ok": true
+ },
+ "lion-x402-bible.lionmaster-operations.workers.dev": {
+  "latency_ms": 918.1,
+  "status": 402,
+  "ok": true
+ },
+ "api.sourcey.com": {
+  "latency_ms": 2059.7,
+  "status": 402,
+  "ok": true
+ },
+ "fal.x402.paywithlocus.com": {
+  "latency_ms": 993.7,
+  "status": 404,
+  "ok": true
+ },
+ "x402-doctor.onrender.com": {
+  "latency_ms": 819.7,
+  "status": 402,
+  "ok": true
+ },
+ "madoromi.fun": {
+  "latency_ms": 942.7,
+  "status": 405,
+  "ok": true
+ },
+ "api.agentservices.to": {
+  "latency_ms": 1023.1,
+  "status": 402,
+  "ok": true
+ },
+ "compliancepulse.theaslangroupllc.com": {
+  "latency_ms": 1060.4,
+  "status": 402,
+  "ok": true
+ },
+ "buildpulse.theaslangroupllc.com": {
+  "latency_ms": 952.0,
+  "status": 402,
+  "ok": true
+ },
+ "x402-seller-pmlm.onrender.com": {
+  "latency_ms": 712.0,
+  "status": 402,
+  "ok": true
+ },
+ "agenttoll.dev": {
+  "latency_ms": 2292.3,
+  "status": 200,
+  "ok": true
+ },
+ "marketplace-price-api-production.up.railway.app": {
+  "latency_ms": 1184.3,
+  "status": 402,
+  "ok": true
+ },
+ "gateway-wallet-payments.jerryrnapier.workers.dev": {
+  "latency_ms": 972.1,
+  "status": 401,
+  "ok": true
+ },
+ "api.ideafactorylab.org": {
+  "latency_ms": 1726.8,
+  "status": 402,
+  "ok": true
+ },
+ "x-data-gateway.annushka1190.workers.dev": {
+  "latency_ms": 604.0,
+  "status": 402,
+  "ok": true
+ },
+ "decision-solver.use.x402atlas.com": {
+  "latency_ms": 2481.8,
+  "status": 405,
+  "ok": true
+ },
+ "oracles-production.up.railway.app": {
+  "latency_ms": 932.7,
+  "status": 402,
+  "ok": true
+ },
+ "api.interzoid.com": {
+  "latency_ms": 1412.9,
+  "status": 402,
+  "ok": true
+ },
+ "zoningverdict.com": {
+  "latency_ms": 746.9,
+  "status": 405,
+  "ok": true
+ },
+ "mtbandy--sec-ratio-engine-serve-app.modal.run": {
+  "latency_ms": 1480.1,
+  "status": 402,
+  "ok": true
+ },
+ "aijobsboom-x402.sonofgus.workers.dev": {
+  "latency_ms": 1146.4,
+  "status": 402,
+  "ok": true
+ },
+ "mentionforge.mentionforge.workers.dev": {
+  "latency_ms": 682.4,
+  "status": 402,
+  "ok": true
+ },
+ "kenoodl.com": {
+  "latency_ms": 780.2,
+  "status": 402,
+  "ok": true
+ },
+ "proxy.aproxpay.com": {
+  "latency_ms": 1426.6,
+  "status": 404,
+  "ok": true
+ },
+ "api.gmfarcaster.com": {
+  "latency_ms": 513.5,
+  "status": 405,
+  "ok": true
+ },
+ "apiacre.com": {
+  "latency_ms": 1250.5,
+  "status": 405,
+  "ok": true
+ },
+ "tooloracle.io": {
+  "latency_ms": 1654.0,
+  "status": 402,
+  "ok": true
+ },
+ "wailand.tailf99551.ts.net": {
+  "latency_ms": 1942.6,
+  "status": 402,
+  "ok": true
+ },
+ "twitr.sh": {
+  "latency_ms": 613.4,
+  "status": 402,
+  "ok": true
+ },
+ "defillama.use.x402atlas.com": {
+  "latency_ms": 1120.2,
+  "status": 402,
+  "ok": true
+ },
+ "stableapify.dev": {
+  "latency_ms": 924.0,
+  "status": 405,
+  "ok": true
+ },
+ "localvps.tail5141c3.ts.net:10000": {
+  "latency_ms": 1688.0,
+  "status": 402,
+  "ok": true
+ },
+ "theartillerist.com": {
+  "latency_ms": 1261.3,
+  "status": 402,
+  "ok": true
+ },
+ "venturepulse.theaslangroupllc.com": {
+  "latency_ms": 734.9,
+  "status": 402,
+  "ok": true
+ },
+ "agent.apiguru.app": {
+  "latency_ms": 6979.4,
+  "status": 200,
+  "ok": true
+ },
+ "url2md.io": {
+  "latency_ms": 1049.7,
+  "status": 402,
+  "ok": true
+ },
+ "evidence.guildpilot.app": {
+  "latency_ms": 2026.5,
+  "status": 404,
+  "ok": true
+ },
+ "qr-api-production-1836.up.railway.app": {
+  "latency_ms": 782.8,
+  "status": 402,
+  "ok": true
+ },
+ "api.onhub.ai": {
+  "latency_ms": 795.8,
+  "status": 404,
+  "ok": true
+ },
+ "api.dexl.io": {
+  "latency_ms": 1184.5,
+  "status": 402,
+  "ok": true
+ },
+ "cashflow.genesisconductor.io": {
+  "latency_ms": null,
+  "status": null,
+  "ok": false,
+  "error": "HTTPSConnectionPool(host='cashflow.genesisconductor.io', port=443): Max retries exceeded with url: /api/execute (Caused "
+ },
+ "orcpin.dev": {
+  "latency_ms": 829.2,
+  "status": 402,
+  "ok": true
+ },
+ "mudko.com": {
+  "latency_ms": 1044.6,
+  "status": 402,
+  "ok": true
+ },
+ "bizintel-api.hahavoid0.workers.dev": {
+  "latency_ms": 312.0,
+  "status": 200,
+  "ok": true
+ },
+ "deomath.org": {
+  "latency_ms": 508.3,
+  "status": 404,
+  "ok": true
+ },
+ "payload402.edgebytenet.workers.dev": {
+  "latency_ms": 817.7,
+  "status": 402,
+  "ok": true
+ },
+ "defi.lonestaroracle.xyz": {
+  "latency_ms": 967.0,
+  "status": 402,
+  "ok": true
+ },
+ "x402-agent-pay.com": {
+  "latency_ms": 1040.7,
+  "status": 402,
+  "ok": true
+ },
+ "srv1553682.hstgr.cloud": {
+  "latency_ms": 1760.2,
+  "status": 402,
+  "ok": true
+ },
+ "lab.api.williamrobinson.dev": {
+  "latency_ms": 570.8,
+  "status": 402,
+  "ok": true
+ },
+ "rubric-protocol.com": {
+  "latency_ms": 1087.4,
+  "status": 402,
+  "ok": true
+ },
+ "www.amnt.io": {
+  "latency_ms": 1983.9,
+  "status": 200,
+  "ok": true
+ },
+ "amanchain-relay.gitajhd.workers.dev": {
+  "latency_ms": 1805.7,
+  "status": 402,
+  "ok": true
+ },
+ "grid.lonestaroracle.xyz": {
+  "latency_ms": 976.7,
+  "status": 402,
+  "ok": true
+ },
+ "screenshot-api-production-fe7e.up.railway.app": {
+  "latency_ms": 862.7,
+  "status": 402,
+  "ok": true
+ },
+ "sh-origin.walls.sh": {
+  "latency_ms": 1347.6,
+  "status": 402,
+  "ok": true
+ },
+ "ebay.use.x402atlas.com": {
+  "latency_ms": 1326.3,
+  "status": 402,
+  "ok": true
+ },
+ "inferrail-x402-seller-testnet.onrender.com": {
+  "latency_ms": 530.1,
+  "status": 405,
+  "ok": true
+ },
+ "api.myco2suite.io": {
+  "latency_ms": 873.2,
+  "status": 405,
+  "ok": true
+ },
+ "data.openverbs.com": {
+  "latency_ms": 883.4,
+  "status": 402,
+  "ok": true
+ },
+ "transit.agentic-jp.com": {
+  "latency_ms": 445.5,
+  "status": 402,
+  "ok": true
+ },
+ "www.trezalabs.com": {
+  "latency_ms": 2941.4,
+  "status": 200,
+  "ok": true
+ },
+ "ffpipe.dev": {
+  "latency_ms": 714.6,
+  "status": 405,
+  "ok": true
+ },
+ "api.speccy.cloud": {
+  "latency_ms": 1666.5,
+  "status": 402,
+  "ok": true
+ },
+ "fetch.halowerk.com": {
+  "latency_ms": 1356.5,
+  "status": 402,
+  "ok": true
+ },
+ "agents.dexl.io": {
+  "latency_ms": 1307.2,
+  "status": 404,
+  "ok": true
+ },
+ "finance.toon.haus": {
+  "latency_ms": 1040.9,
+  "status": 402,
+  "ok": true
+ },
+ "agentic-trades.ai": {
+  "latency_ms": 509.4,
+  "status": 402,
+  "ok": true
+ },
+ "risk-oracle-api.rohan-rajnikanth.workers.dev": {
+  "latency_ms": 424.0,
+  "status": 405,
+  "ok": true
+ },
+ "openrouter.x402.stage.paywithlocus.com": {
+  "latency_ms": 875.8,
+  "status": 404,
+  "ok": true
+ },
+ "geo.lonestaroracle.xyz": {
+  "latency_ms": 1224.2,
+  "status": 402,
+  "ok": true
+ },
+ "api.mcx-ventures.com": {
+  "latency_ms": 870.1,
+  "status": 402,
+  "ok": true
+ },
+ "touchstone.locomot.io": {
+  "latency_ms": 795.1,
+  "status": 402,
+  "ok": true
+ },
+ "agent.connskill.com": {
+  "latency_ms": 1462.1,
+  "status": 402,
+  "ok": true
+ },
+ "translator.pdfextractapi.workers.dev": {
+  "latency_ms": 526.7,
+  "status": 204,
+  "ok": true
+ },
+ "agents.ai-rook.com": {
+  "latency_ms": 1485.7,
+  "status": 200,
+  "ok": true
+ },
+ "gateway.grapevine.fyi": {
+  "latency_ms": 1118.5,
+  "status": 402,
+  "ok": true
+ },
+ "crypto-sentiment-x402.onrender.com": {
+  "latency_ms": 632.9,
+  "status": 402,
+  "ok": true
+ },
+ "clinicalintelpulse.theaslangroupllc.com": {
+  "latency_ms": 820.6,
+  "status": 402,
+  "ok": true
+ },
+ "agentcash-fortune-demo-six.vercel.app": {
+  "latency_ms": 1378.7,
+  "status": 405,
+  "ok": true
+ },
+ "keyronne.com": {
+  "latency_ms": 640.2,
+  "status": 402,
+  "ok": true
+ },
+ "weather.cyberwarex.com": {
+  "latency_ms": 1408.8,
+  "status": 402,
+  "ok": true
+ },
+ "api.grid-hub.app": {
+  "latency_ms": 667.1,
+  "status": 402,
+  "ok": true
+ },
+ "toolsmith-api.dassad10.workers.dev": {
+  "latency_ms": 1085.7,
+  "status": 402,
+  "ok": true
+ },
+ "euroref.dev": {
+  "latency_ms": 1914.6,
+  "status": 402,
+  "ok": true
+ },
+ "exp-100k-001-v2.vercel.app": {
+  "latency_ms": 2058.8,
+  "status": 402,
+  "ok": true
+ },
+ "musicwire.5432wire.com": {
+  "latency_ms": 1350.1,
+  "status": 404,
+  "ok": true
+ },
+ "poolproof.ru": {
+  "latency_ms": 1747.4,
+  "status": 402,
+  "ok": true
+ },
+ "stablestudio.io": {
+  "latency_ms": 1318.1,
+  "status": 405,
+  "ok": true
+ },
+ "api-macro-br-production.up.railway.app": {
+  "latency_ms": 944.8,
+  "status": 402,
+  "ok": true
+ },
+ "x402orcle.vercel.app": {
+  "latency_ms": 957.3,
+  "status": 402,
+  "ok": true
+ },
+ "tenderdelta-preview.mooncakemonkey1.workers.dev": {
+  "latency_ms": 487.4,
+  "status": 402,
+  "ok": true
+ },
+ "intel.hugen.tokyo": {
+  "latency_ms": 706.0,
+  "status": 402,
+  "ok": true
+ },
+ "x402.pkgproof.net": {
+  "latency_ms": 367.8,
+  "status": 405,
+  "ok": true
+ },
+ "fortune.fulinlabs.com": {
+  "latency_ms": 1094.6,
+  "status": 405,
+  "ok": true
+ },
+ "wealthpulse.theaslangroupllc.com": {
+  "latency_ms": 506.3,
+  "status": 402,
+  "ok": true
+ },
+ "houjin.agentic-jp.com": {
+  "latency_ms": 453.3,
+  "status": 402,
+  "ok": true
+ },
+ "api.402rates.com": {
+  "latency_ms": 1938.0,
+  "status": 402,
+  "ok": true
+ },
+ "proxy.0000402.xyz": {
+  "latency_ms": 1465.9,
+  "status": 405,
+  "ok": true
+ },
+ "airport.openverbs.com": {
+  "latency_ms": 848.6,
+  "status": 402,
+  "ok": true
+ },
+ "aeonos.basechainlabs.com": {
+  "latency_ms": 1422.7,
+  "status": 200,
+  "ok": true
+ },
+ "animica.dev": {
+  "latency_ms": 1287.7,
+  "status": 402,
+  "ok": true
+ },
+ "seo.forgemesh.io": {
+  "latency_ms": 1410.0,
+  "status": 402,
+  "ok": true
+ },
+ "api.kviria.com": {
+  "latency_ms": 645.6,
+  "status": 401,
+  "ok": true
+ },
+ "websearch.use.x402atlas.com": {
+  "latency_ms": 1246.9,
+  "status": 402,
+  "ok": true
+ },
+ "dataforagents.net": {
+  "latency_ms": 1060.5,
+  "status": 402,
+  "ok": true
+ },
+ "italian-company-check-fdsbh7p2bq-oc.a.run.app": {
+  "latency_ms": 940.7,
+  "status": 402,
+  "ok": true
+ },
+ "gateway.spraay.app": {
+  "latency_ms": 822.1,
+  "status": 402,
+  "ok": true
+ },
+ "financial-analyst.ai": {
+  "latency_ms": 858.7,
+  "status": 402,
+  "ok": true
+ },
+ "web.openverbs.com": {
+  "latency_ms": 910.2,
+  "status": 402,
+  "ok": true
+ },
+ "minifetch.com": {
+  "latency_ms": 926.2,
+  "status": 402,
+  "ok": true
+ },
+ "predix-agent-api.fly.dev": {
+  "latency_ms": 566.1,
+  "status": 402,
+  "ok": true
+ },
+ "hosaka-agents.vercel.app": {
+  "latency_ms": 1166.5,
+  "status": 405,
+  "ok": true
+ },
+ "basefeed-io.fly.dev": {
+  "latency_ms": 1034.5,
+  "status": 402,
+  "ok": true
+ },
+ "tuski.pay.zeroclick.io": {
+  "latency_ms": 698.4,
+  "status": 403,
+  "ok": true
+ },
+ "gibbr.app": {
+  "latency_ms": 1118.5,
+  "status": 405,
+  "ok": true
+ },
+ "sovereign.lonestaroracle.xyz": {
+  "latency_ms": 2165.9,
+  "status": 402,
+  "ok": true
+ },
+ "onchainpulse.theaslangroupllc.com": {
+  "latency_ms": 714.7,
+  "status": 402,
+  "ok": true
+ },
+ "modell.halowerk.com": {
+  "latency_ms": 1393.6,
+  "status": 402,
+  "ok": true
+ },
+ "api.node4all.com": {
+  "latency_ms": 730.4,
+  "status": 402,
+  "ok": true
+ },
+ "crypto.forgemesh.io": {
+  "latency_ms": 796.3,
+  "status": 402,
+  "ok": true
+ },
+ "deadchannel.vercel.app": {
+  "latency_ms": 1340.2,
+  "status": 405,
+  "ok": true
+ },
+ "careerpulse.theaslangroupllc.com": {
+  "latency_ms": 523.7,
+  "status": 402,
+  "ok": true
+ },
+ "prospectpulse.theaslangroupllc.com": {
+  "latency_ms": 817.1,
+  "status": 402,
+  "ok": true
+ },
+ "api.whitemagic.dev": {
+  "latency_ms": 1007.1,
+  "status": 402,
+  "ok": true
+ },
+ "odood.com": {
+  "latency_ms": 1129.7,
+  "status": 405,
+  "ok": true
+ },
+ "x402.nexari.cloud": {
+  "latency_ms": 1140.1,
+  "status": 402,
+  "ok": true
+ },
+ "nordland.halowerk.com": {
+  "latency_ms": 1146.9,
+  "status": 404,
+  "ok": true
+ },
+ "x402.shortforge.dev": {
+  "latency_ms": 1013.2,
+  "status": 402,
+  "ok": true
+ },
+ "qa.honeygate.app": {
+  "latency_ms": 1068.8,
+  "status": 404,
+  "ok": true
+ },
+ "api.agentwork.run": {
+  "latency_ms": 1199.2,
+  "status": 404,
+  "ok": true
+ },
+ "jobherder.com": {
+  "latency_ms": 1289.2,
+  "status": 405,
+  "ok": true
+ },
+ "europe.lonestaroracle.xyz": {
+  "latency_ms": 1124.8,
+  "status": 402,
+  "ok": true
+ },
+ "google-patents.use.x402atlas.com": {
+  "latency_ms": 1453.5,
+  "status": 402,
+  "ok": true
+ },
+ "stat.halowerk.com": {
+  "latency_ms": 1583.0,
+  "status": 402,
+  "ok": true
+ },
+ "api.usenami.io": {
+  "latency_ms": 779.8,
+  "status": 402,
+  "ok": true
+ },
+ "jev-systemone.vercel.app": {
+  "latency_ms": 949.3,
+  "status": 404,
+  "ok": true
+ },
+ "api.jubjubapp.com": {
+  "latency_ms": 784.3,
+  "status": 405,
+  "ok": true
+ },
+ "netz.halowerk.com": {
+  "latency_ms": 1504.1,
+  "status": 402,
+  "ok": true
+ },
+ "www.ryanseslow.com": {
+  "latency_ms": null,
+  "status": null,
+  "ok": false,
+  "error": "HTTPSConnectionPool(host='www.ryanseslow.com', port=443): Read timed out. (read timeout=6)"
+ },
+ "ali-acids-helmet-cindy.trycloudflare.com": {
+  "latency_ms": 1542.5,
+  "status": 402,
+  "ok": true
+ },
+ "x402.botsmith.dev": {
+  "latency_ms": 1166.5,
+  "status": 402,
+  "ok": true
+ },
+ "judge0.x402.paywithlocus.com": {
+  "latency_ms": 1049.5,
+  "status": 404,
+  "ok": true
+ },
+ "dartapi.ljaysk.com": {
+  "latency_ms": 791.8,
+  "status": 402,
+  "ok": true
+ },
+ "synapse-lounge.synapse-lounge.workers.dev": {
+  "latency_ms": 893.3,
+  "status": 402,
+  "ok": true
+ },
+ "api.clawinabox.xyz": {
+  "latency_ms": 506.3,
+  "status": 402,
+  "ok": true
+ },
+ "rng.sociologic.ai": {
+  "latency_ms": 3813.0,
+  "status": 402,
+  "ok": true
+ },
+ "med.halowerk.com": {
+  "latency_ms": 1238.2,
+  "status": 402,
+  "ok": true
+ },
+ "x402.ochinimus.app": {
+  "latency_ms": 682.8,
+  "status": 402,
+  "ok": true
+ },
+ "api.freestylevault.com": {
+  "latency_ms": 800.6,
+  "status": 402,
+  "ok": true
+ },
+ "x402.wach.ai": {
+  "latency_ms": 835.5,
+  "status": 402,
+  "ok": true
+ },
+ "ozmium.org": {
+  "latency_ms": 1193.7,
+  "status": 402,
+  "ok": true
+ },
+ "api.mydev-tools.tech": {
+  "latency_ms": 953.0,
+  "status": 402,
+  "ok": true
+ },
+ "agent-budget-guard.onrender.com": {
+  "latency_ms": 594.3,
+  "status": 405,
+  "ok": true
+ },
+ "bundle.lonestaroracle.xyz": {
+  "latency_ms": 980.7,
+  "status": 402,
+  "ok": true
+ },
+ "coingecko.x402.paywithlocus.com": {
+  "latency_ms": 699.1,
+  "status": 404,
+  "ok": true
+ },
+ "war-tracker.com": {
+  "latency_ms": 1650.4,
+  "status": 402,
+  "ok": true
+ },
+ "agents.tuski.ai": {
+  "latency_ms": 703.5,
+  "status": 403,
+  "ok": true
+ },
+ "x402.twit.sh": {
+  "latency_ms": 909.6,
+  "status": 402,
+  "ok": true
+ },
+ "aiagentsarchive.com": {
+  "latency_ms": 890.6,
+  "status": 402,
+  "ok": true
+ },
+ "tollbooth-sanctions-screener.sjwilliams8.workers.dev": {
+  "latency_ms": 502.3,
+  "status": 404,
+  "ok": true
+ },
+ "www.mahastrategies.com": {
+  "latency_ms": 1550.5,
+  "status": 401,
+  "ok": true
+ },
+ "x402.klimalabs.com": {
+  "latency_ms": 1328.6,
+  "status": 402,
+  "ok": true
+ },
+ "verify.clearsigned.com": {
+  "latency_ms": 988.7,
+  "status": 405,
+  "ok": true
+ },
+ "password.openverbs.com": {
+  "latency_ms": 879.7,
+  "status": 402,
+  "ok": true
+ },
+ "tools.ipintel.ai": {
+  "latency_ms": 442.1,
+  "status": 200,
+  "ok": true
+ },
+ "nato.openverbs.com": {
+  "latency_ms": 876.8,
+  "status": 402,
+  "ok": true
+ },
+ "2-28-111-166.sslip.io": {
+  "latency_ms": 1985.9,
+  "status": 405,
+  "ok": true
+ },
+ "machine-market-social.machine-market.workers.dev": {
+  "latency_ms": 1032.4,
+  "status": 402,
+  "ok": true
+ },
+ "agent-margin-router-production.up.railway.app": {
+  "latency_ms": 862.5,
+  "status": 402,
+  "ok": true
+ },
+ "scan.openverbs.com": {
+  "latency_ms": 819.4,
+  "status": 402,
+  "ok": true
+ },
+ "alpha402x.com": {
+  "latency_ms": 1298.6,
+  "status": 402,
+  "ok": true
+ },
+ "agent.pocket.network": {
+  "latency_ms": 1453.4,
+  "status": 402,
+  "ok": true
+ },
+ "quartermaster.surewhynot.app": {
+  "latency_ms": 898.4,
+  "status": 402,
+  "ok": true
+ },
+ "runtime.rootlogos.com": {
+  "latency_ms": 1017.4,
+  "status": 404,
+  "ok": true
+ },
+ "chainsscope.duckdns.org": {
+  "latency_ms": 1820.1,
+  "status": 405,
+  "ok": true
+ },
+ "intel.chainquery.com": {
+  "latency_ms": 618.4,
+  "status": 402,
+  "ok": true
+ },
+ "policycheck.tools": {
+  "latency_ms": 862.9,
+  "status": 200,
+  "ok": true
+ },
+ "api.prismnetwork.tech": {
+  "latency_ms": 1356.6,
+  "status": 402,
+  "ok": true
+ },
+ "mcpfax-reliability.bowling-anthony.workers.dev": {
+  "latency_ms": 411.6,
+  "status": 402,
+  "ok": true
+ },
+ "omniterminal.app": {
+  "latency_ms": 1251.3,
+  "status": 402,
+  "ok": true
+ },
+ "shot.halowerk.com": {
+  "latency_ms": 1405.5,
+  "status": 402,
+  "ok": true
+ },
+ "cyre.dev": {
+  "latency_ms": 1172.5,
+  "status": 402,
+  "ok": true
+ },
+ "chainstate.schemasure.com": {
+  "latency_ms": 725.4,
+  "status": 404,
+  "ok": true
+ },
+ "cleared.ink": {
+  "latency_ms": 1136.6,
+  "status": 200,
+  "ok": true
+ },
+ "x402.forgemesh.io": {
+  "latency_ms": 999.5,
+  "status": 402,
+  "ok": true
+ },
+ "aialign.halowerk.com": {
+  "latency_ms": 1257.1,
+  "status": 402,
+  "ok": true
+ },
+ "api.x402lint.dev": {
+  "latency_ms": 959.1,
+  "status": 404,
+  "ok": true
+ },
+ "whale.hugen.tokyo": {
+  "latency_ms": 464.3,
+  "status": 402,
+  "ok": true
+ },
+ "svg-bar-chart-renderer.jannioura.workers.dev": {
+  "latency_ms": 767.8,
+  "status": 200,
+  "ok": true
+ },
+ "mearef.dev": {
+  "latency_ms": 1912.9,
+  "status": 402,
+  "ok": true
+ },
+ "omnicall.gocreativeai.com": {
+  "latency_ms": 828.7,
+  "status": 502,
+  "ok": true
+ },
+ "svm402.com": {
+  "latency_ms": 1757.7,
+  "status": 402,
+  "ok": true
+ },
+ "trust-agent.io": {
+  "latency_ms": 616.8,
+  "status": 402,
+  "ok": true
+ },
+ "color.openverbs.com": {
+  "latency_ms": 955.2,
+  "status": 402,
+  "ok": true
+ },
+ "aegis-api.kadopi.workers.dev": {
+  "latency_ms": 424.8,
+  "status": 405,
+  "ok": true
+ },
+ "replicate.x402.paywithlocus.com": {
+  "latency_ms": 788.6,
+  "status": 404,
+  "ok": true
+ },
+ "mercator-entity-evidence.fly.dev": {
+  "latency_ms": 577.6,
+  "status": 405,
+  "ok": true
+ },
+ "api.x402-hosting.com": {
+  "latency_ms": 764.6,
+  "status": 404,
+  "ok": true
+ },
+ "agentshelf.syntexa.ch": {
+  "latency_ms": 2126.8,
+  "status": 404,
+  "ok": true
+ },
+ "402.com.tr": {
+  "latency_ms": 1308.4,
+  "status": 402,
+  "ok": true
+ },
+ "lazaretto.dev": {
+  "latency_ms": 818.4,
+  "status": 404,
+  "ok": true
+ },
+ "crownblock.lonestaroracle.xyz": {
+  "latency_ms": 985.6,
+  "status": 402,
+  "ok": true
+ },
+ "orchard-data.netlify.app": {
+  "latency_ms": 1447.7,
+  "status": 402,
+  "ok": true
+ },
+ "x402-echo-service.onrender.com": {
+  "latency_ms": 851.1,
+  "status": 405,
+  "ok": true
+ },
+ "page.intel.rallylive.ca": {
+  "latency_ms": 562.6,
+  "status": 402,
+  "ok": true
+ },
+ "energy.lonestaroracle.xyz": {
+  "latency_ms": 1003.8,
+  "status": 402,
+  "ok": true
+ },
+ "grocery-basket.bowling-anthony.workers.dev": {
+  "latency_ms": 482.0,
+  "status": 402,
+  "ok": true
+ },
+ "fileshareforagents.online": {
+  "latency_ms": 428.8,
+  "status": 405,
+  "ok": true
+ },
+ "agentsonly.vip": {
+  "latency_ms": 1140.1,
+  "status": 402,
+  "ok": true
+ },
+ "bazaar-catalog.vercel.app": {
+  "latency_ms": 592.0,
+  "status": 402,
+  "ok": true
+ },
+ "sovereign-x402-zeta.vercel.app": {
+  "latency_ms": 663.7,
+  "status": 405,
+  "ok": true
+ },
+ "willimake-it.dylan-caponi.workers.dev": {
+  "latency_ms": 1027.8,
+  "status": 402,
+  "ok": true
+ },
+ "attester.dev": {
+  "latency_ms": 3895.4,
+  "status": 402,
+  "ok": true
+ },
+ "research.appliedidentities.com": {
+  "latency_ms": 967.1,
+  "status": 402,
+  "ok": true
+ },
+ "starring-generated-forests-trader.trycloudflare.com": {
+  "latency_ms": null,
+  "status": null,
+  "ok": false,
+  "error": "HTTPSConnectionPool(host='starring-generated-forests-trader.trycloudflare.com', port=443): Max retries exceeded with url"
+ },
+ "cryptoanalysis-paid-api.nnihtianov.workers.dev": {
+  "latency_ms": null,
+  "status": null,
+  "ok": false,
+  "error": "HTTPSConnectionPool(host='cryptoanalysis-paid-api.nnihtianov.workers.dev', port=443): Max retries exceeded with url: /v1"
+ },
+ "x402.miroshark.xyz": {
+  "latency_ms": 917.2,
+  "status": 405,
+  "ok": true
+ },
+ "agentspec-one.vercel.app": {
+  "latency_ms": 647.8,
+  "status": 405,
+  "ok": true
+ },
+ "agents.thirdmade.net": {
+  "latency_ms": 764.6,
+  "status": 402,
+  "ok": true
+ },
+ "x402.hydratrader.ai": {
+  "latency_ms": 1071.5,
+  "status": 402,
+  "ok": true
+ },
+ "answerpool.io": {
+  "latency_ms": 727.9,
+  "status": 402,
+  "ok": true
+ },
+ "agent-api-testnet.tim1712.workers.dev": {
+  "latency_ms": 500.8,
+  "status": 404,
+  "ok": true
+ },
+ "api.xfuel.app": {
+  "latency_ms": 1429.4,
+  "status": 402,
+  "ok": true
+ },
+ "stake.lonestaroracle.xyz": {
+  "latency_ms": 1065.7,
+  "status": 402,
+  "ok": true
+ },
+ "api.willowbirdie.com": {
+  "latency_ms": 1239.8,
+  "status": 405,
+  "ok": true
+ },
+ "pii-redactor.pdfextractapi.workers.dev": {
+  "latency_ms": 557.9,
+  "status": 204,
+  "ok": true
+ },
+ "coinflip402.vercel.app": {
+  "latency_ms": 433.6,
+  "status": 402,
+  "ok": true
+ },
+ "mcp.zensched.com": {
+  "latency_ms": 1395.2,
+  "status": 402,
+  "ok": true
+ },
+ "emc2ai.io": {
+  "latency_ms": 1009.9,
+  "status": 402,
+  "ok": true
+ },
+ "unicode.openverbs.com": {
+  "latency_ms": 845.1,
+  "status": 402,
+  "ok": true
+ },
+ "conch402.dylan-caponi.workers.dev": {
+  "latency_ms": 781.6,
+  "status": 402,
+  "ok": true
+ },
+ "perplexity.x402.paywithlocus.com": {
+  "latency_ms": 707.2,
+  "status": 404,
+  "ok": true
+ },
+ "mysticapi.com": {
+  "latency_ms": 421.0,
+  "status": 402,
+  "ok": true
+ },
+ "api.aventtech.com": {
+  "latency_ms": 760.1,
+  "status": 402,
+  "ok": true
+ },
+ "macropulse.theaslangroupllc.com": {
+  "latency_ms": 580.1,
+  "status": 402,
+  "ok": true
+ },
+ "stablestudio.dev": {
+  "latency_ms": 780.6,
+  "status": 405,
+  "ok": true
+ },
+ "osha-search.krimskrams.xyz": {
+  "latency_ms": 1422.1,
+  "status": 402,
+  "ok": true
+ },
+ "data.intel.rallylive.ca": {
+  "latency_ms": 855.6,
+  "status": 402,
+  "ok": true
+ },
+ "toolvend.dev": {
+  "latency_ms": 772.5,
+  "status": 402,
+  "ok": true
+ },
+ "api.veyrly.com": {
+  "latency_ms": 614.3,
+  "status": 404,
+  "ok": true
+ },
+ "api.orcatrace.dev": {
+  "latency_ms": 1131.5,
+  "status": 402,
+  "ok": true
+ },
+ "dice.openverbs.com": {
+  "latency_ms": 998.0,
+  "status": 402,
+  "ok": true
+ },
+ "coverbureau.com": {
+  "latency_ms": 496.1,
+  "status": 404,
+  "ok": true
+ },
+ "agent-embassy.fly.dev": {
+  "latency_ms": 517.2,
+  "status": 404,
+  "ok": true
+ },
+ "fractalai.net.co": {
+  "latency_ms": 1020.8,
+  "status": 402,
+  "ok": true
+ },
+ "api.trustboost.dev": {
+  "latency_ms": 686.9,
+  "status": 402,
+  "ok": true
+ },
+ "onchain-toolkit.bowling-anthony.workers.dev": {
+  "latency_ms": 390.2,
+  "status": 402,
+  "ok": true
+ },
+ "mcp.blocksize.info": {
+  "latency_ms": 1044.0,
+  "status": 402,
+  "ok": true
+ },
+ "site.intel.rallylive.ca": {
+  "latency_ms": 875.0,
+  "status": 402,
+  "ok": true
+ },
+ "jeonjang.kr": {
+  "latency_ms": 510.7,
+  "status": 402,
+  "ok": true
+ },
+ "x402.devvizion.com": {
+  "latency_ms": 681.6,
+  "status": 404,
+  "ok": true
+ },
+ "api.datasieve.xyz": {
+  "latency_ms": 510.8,
+  "status": 405,
+  "ok": true
+ },
+ "seo.cyberwarex.com": {
+  "latency_ms": 1314.1,
+  "status": 402,
+  "ok": true
+ },
+ "api.402shelf.com": {
+  "latency_ms": 1974.2,
+  "status": 402,
+  "ok": true
+ },
+ "402cron.com": {
+  "latency_ms": 409.7,
+  "status": 402,
+  "ok": true
+ },
+ "govedge.lonestaroracle.xyz": {
+  "latency_ms": 1110.9,
+  "status": 402,
+  "ok": true
+ },
+ "oi.lonestaroracle.xyz": {
+  "latency_ms": 984.9,
+  "status": 402,
+  "ok": true
+ },
+ "agentdata-api.sander-van-aard.workers.dev": {
+  "latency_ms": 1456.3,
+  "status": 402,
+  "ok": true
+ },
+ "api.brazilayer.com": {
+  "latency_ms": 4172.9,
+  "status": 402,
+  "ok": true
+ },
+ "search.gedx402.com": {
+  "latency_ms": 853.3,
+  "status": 402,
+  "ok": true
+ },
+ "liquidity.lonestaroracle.xyz": {
+  "latency_ms": 965.6,
+  "status": 402,
+  "ok": true
+ },
+ "oyapicks.app": {
+  "latency_ms": 743.9,
+  "status": 402,
+  "ok": true
+ },
+ "bounty-signals.krimskrams.xyz": {
+  "latency_ms": 1385.9,
+  "status": 402,
+  "ok": true
+ },
+ "pixel402.dylan-caponi.workers.dev": {
+  "latency_ms": 382.5,
+  "status": 404,
+  "ok": true
+ },
+ "reactionpulse-production.reactionpulse-x402.workers.dev": {
+  "latency_ms": 424.1,
+  "status": 405,
+  "ok": true
+ },
+ "zeroworker-security-api.zeroworker-lab.workers.dev": {
+  "latency_ms": 359.0,
+  "status": 415,
+  "ok": true
+ },
+ "api.duoleads.com": {
+  "latency_ms": 1938.2,
+  "status": 402,
+  "ok": true
+ },
+ "harvestpulse.theaslangroupllc.com": {
+  "latency_ms": 525.3,
+  "status": 402,
+  "ok": true
+ },
+ "chainscout.lonestaroracle.xyz": {
+  "latency_ms": 2069.5,
+  "status": 402,
+  "ok": true
+ },
+ "x402-filings.datalayer.workers.dev": {
+  "latency_ms": 613.4,
+  "status": 402,
+  "ok": true
+ },
+ "api.reloadpi.com": {
+  "latency_ms": 675.2,
+  "status": 402,
+  "ok": true
+ },
+ "skycast.clawca.sh": {
+  "latency_ms": 588.5,
+  "status": 402,
+  "ok": true
+ },
+ "api.sys84.org": {
+  "latency_ms": 751.6,
+  "status": 200,
+  "ok": true
+ },
+ "social.gedx402.com": {
+  "latency_ms": 831.5,
+  "status": 402,
+  "ok": true
+ },
+ "kushbitx.com": {
+  "latency_ms": 493.1,
+  "status": 402,
+  "ok": true
+ },
+ "pyfile-agent.taile3ff35.ts.net:10000": {
+  "latency_ms": 1794.8,
+  "status": 402,
+  "ok": true
+ },
+ "risk.yo.xyz": {
+  "latency_ms": 617.9,
+  "status": 402,
+  "ok": true
+ },
+ "x402endpoint-924155002144.us-west2.run.app": {
+  "latency_ms": 546.5,
+  "status": 402,
+  "ok": true
+ },
+ "www.extendcontent.com": {
+  "latency_ms": 1388.3,
+  "status": 404,
+  "ok": true
+ },
+ "physics.openverbs.com": {
+  "latency_ms": 998.1,
+  "status": 402,
+  "ok": true
+ },
+ "registry.wickedapi.com": {
+  "latency_ms": 1157.8,
+  "status": 402,
+  "ok": true
+ },
+ "api.aarn.space": {
+  "latency_ms": 724.8,
+  "status": 405,
+  "ok": true
+ },
+ "api.chit402.com": {
+  "latency_ms": 1419.3,
+  "status": 402,
+  "ok": true
+ },
+ "api.moltalyzer.xyz": {
+  "latency_ms": 954.4,
+  "status": 402,
+  "ok": true
+ },
+ "regime.nsgoods.org": {
+  "latency_ms": 1159.4,
+  "status": 402,
+  "ok": true
+ },
+ "longwatch.dev": {
+  "latency_ms": 953.5,
+  "status": 402,
+  "ok": true
+ },
+ "conflict.lonestaroracle.xyz": {
+  "latency_ms": 1022.0,
+  "status": 402,
+  "ok": true
+ },
+ "sendcheck-x402.pennyforge.workers.dev": {
+  "latency_ms": 432.6,
+  "status": 405,
+  "ok": true
+ },
+ "regionfetch.dev": {
+  "latency_ms": 1665.9,
+  "status": 404,
+  "ok": true
+ },
+ "jev-x402-evil.vercel.app": {
+  "latency_ms": 1117.1,
+  "status": 404,
+  "ok": true
+ },
+ "ladyfortunalx402.vercel.app": {
+  "latency_ms": 384.6,
+  "status": 402,
+  "ok": true
+ },
+ "api.compliapi.com": {
+  "latency_ms": 602.9,
+  "status": 402,
+  "ok": true
+ },
+ "vat.openverbs.com": {
+  "latency_ms": 1061.5,
+  "status": 402,
+  "ok": true
+ },
+ "stationfx.com": {
+  "latency_ms": 811.8,
+  "status": 402,
+  "ok": true
+ },
+ "staging-api.webacy.io": {
+  "latency_ms": 3637.8,
+  "status": 402,
+  "ok": true
+ },
+ "settled.tools": {
+  "latency_ms": 570.4,
+  "status": 200,
+  "ok": true
+ },
+ "stocks.cyberwarex.com": {
+  "latency_ms": 1112.4,
+  "status": 402,
+  "ok": true
+ },
+ "ontarioprotocol.com": {
+  "latency_ms": 690.1,
+  "status": 200,
+  "ok": true
+ },
+ "stillosdigitalholdings.com": {
+  "latency_ms": 2066.8,
+  "status": 402,
+  "ok": true
+ },
+ "ens-resolver.pdfextractapi.workers.dev": {
+  "latency_ms": 598.6,
+  "status": 204,
+  "ok": true
+ },
+ "smartcontractexplainer.onrender.com": {
+  "latency_ms": 364.1,
+  "status": 404,
+  "ok": true
+ },
+ "earnings.lonestaroracle.xyz": {
+  "latency_ms": 1002.0,
+  "status": 402,
+  "ok": true
+ },
+ "trust402.vercel.app": {
+  "latency_ms": 966.3,
+  "status": 404,
+  "ok": true
+ },
+ "sqlguard.io": {
+  "latency_ms": 995.6,
+  "status": 402,
+  "ok": true
+ },
+ "sol.mapleai.shop": {
+  "latency_ms": 1155.9,
+  "status": 404,
+  "ok": true
+ },
+ "api.satledger.org": {
+  "latency_ms": 1415.7,
+  "status": 402,
+  "ok": true
+ },
+ "agents.x402stock.xyz": {
+  "latency_ms": 751.6,
+  "status": 402,
+  "ok": true
+ },
+ "767-2676.com": {
+  "latency_ms": 693.9,
+  "status": 402,
+  "ok": true
+ },
+ "grove.g-datalabs.com": {
+  "latency_ms": 1099.3,
+  "status": 405,
+  "ok": true
+ },
+ "travel.brij.fi": {
+  "latency_ms": 1302.1,
+  "status": 405,
+  "ok": true
+ },
+ "api.endpointrecord.com": {
+  "latency_ms": 2352.2,
+  "status": 405,
+  "ok": true
+ },
+ "manyfish-seller.redcliff-d7368db1.westus2.azurecontainerapps.io": {
+  "latency_ms": 758.3,
+  "status": 405,
+  "ok": true
+ },
+ "skowron-compliance-gateway.mattskowronis.workers.dev": {
+  "latency_ms": 591.1,
+  "status": 404,
+  "ok": true
+ },
+ "402sentinel.com": {
+  "latency_ms": 1021.8,
+  "status": 405,
+  "ok": true
+ },
+ "www.celerapi.com": {
+  "latency_ms": 1118.5,
+  "status": 402,
+  "ok": true
+ },
+ "api.metalend.tech": {
+  "latency_ms": 824.1,
+  "status": 402,
+  "ok": true
+ },
+ "web3-signals-api-production.up.railway.app": {
+  "latency_ms": 1224.2,
+  "status": 402,
+  "ok": true
+ },
+ "url-intel.bowling-anthony.workers.dev": {
+  "latency_ms": 581.4,
+  "status": 402,
+  "ok": true
+ },
+ "agent-data-fixer-production.up.railway.app": {
+  "latency_ms": 1129.6,
+  "status": 404,
+  "ok": true
+ },
+ "agents.allium.so": {
+  "latency_ms": 1205.7,
+  "status": 405,
+  "ok": true
+ },
+ "unit-converter.pdfextractapi.workers.dev": {
+  "latency_ms": 707.1,
+  "status": 204,
+  "ok": true
+ },
+ "dicta-notes.com": {
+  "latency_ms": 458.3,
+  "status": 405,
+  "ok": true
+ },
+ "mistral.x402.stage.paywithlocus.com": {
+  "latency_ms": 971.9,
+  "status": 404,
+  "ok": true
+ },
+ "x402-tools.vercel.app": {
+  "latency_ms": 689.0,
+  "status": 402,
+  "ok": true
+ },
+ "token-risk.com": {
+  "latency_ms": 663.2,
+  "status": 404,
+  "ok": true
+ },
+ "3route.agents.bakingbad.dev": {
+  "latency_ms": 3043.7,
+  "status": 404,
+  "ok": true
+ },
+ "api.slamai.dev": {
+  "latency_ms": 1587.3,
+  "status": 402,
+  "ok": true
+ },
+ "x402.nsgoods.org": {
+  "latency_ms": 1368.9,
+  "status": 402,
+  "ok": true
+ },
+ "stableninja.dev": {
+  "latency_ms": 836.7,
+  "status": 402,
+  "ok": true
+ },
+ "centboard.xyz": {
+  "latency_ms": 1736.4,
+  "status": 402,
+  "ok": true
+ },
+ "proof.platoskallipolis.com": {
+  "latency_ms": 1146.7,
+  "status": 405,
+  "ok": true
+ },
+ "billitright.co": {
+  "latency_ms": 1735.1,
+  "status": 405,
+  "ok": true
+ },
+ "apexrunner.ai": {
+  "latency_ms": 1119.4,
+  "status": 402,
+  "ok": true
+ },
+ "store.agentexchange.work": {
+  "latency_ms": 6062.9,
+  "status": 402,
+  "ok": true
+ },
+ "property-risk-passport-api.lifebite-app.workers.dev": {
+  "latency_ms": 633.2,
+  "status": 405,
+  "ok": true
+ },
+ "api.vextorium.com": {
+  "latency_ms": 1325.5,
+  "status": 200,
+  "ok": true
+ },
+ "api.anchor-x402.com": {
+  "latency_ms": 1775.9,
+  "status": 402,
+  "ok": true
+ },
+ "geo.halowerk.com": {
+  "latency_ms": 1347.8,
+  "status": 402,
+  "ok": true
+ },
+ "api.lastlookdata.com": {
+  "latency_ms": 1263.7,
+  "status": 402,
+  "ok": true
+ },
+ "money-agent-production-736f.up.railway.app": {
+  "latency_ms": 1164.3,
+  "status": 402,
+  "ok": true
+ },
+ "xhagents.xyz": {
+  "latency_ms": 1414.4,
+  "status": 404,
+  "ok": true
+ },
+ "pyfile-agent.taile3ff35.ts.net": {
+  "latency_ms": 1989.2,
+  "status": 402,
+  "ok": true
+ },
+ "govspendpulse.theaslangroupllc.com": {
+  "latency_ms": 819.0,
+  "status": 402,
+  "ok": true
+ },
+ "agent-vending-production.up.railway.app": {
+  "latency_ms": 816.1,
+  "status": 405,
+  "ok": true
+ },
+ "emailauth.openverbs.com": {
+  "latency_ms": 1129.2,
+  "status": 402,
+  "ok": true
+ },
+ "kevinhoff.com": {
+  "latency_ms": 891.4,
+  "status": 402,
+  "ok": true
+ },
+ "syri.rfsrisk.ai": {
+  "latency_ms": 1629.1,
+  "status": 402,
+  "ok": true
+ },
+ "derivatives-pricer-production.up.railway.app": {
+  "latency_ms": 846.7,
+  "status": 405,
+  "ok": true
+ },
+ "url-risk-analyzer.pdfextractapi.workers.dev": {
+  "latency_ms": 659.5,
+  "status": 204,
+  "ok": true
+ },
+ "content.lonestaroracle.xyz": {
+  "latency_ms": 1123.8,
+  "status": 402,
+  "ok": true
+ },
+ "chatrip.app": {
+  "latency_ms": 933.5,
+  "status": 405,
+  "ok": true
+ },
+ "api.onesource.io": {
+  "latency_ms": 1291.7,
+  "status": 402,
+  "ok": true
+ },
+ "shellpermit.schemasure.com": {
+  "latency_ms": 598.2,
+  "status": 404,
+  "ok": true
+ },
+ "visa.orizn.app": {
+  "latency_ms": 1401.4,
+  "status": 402,
+  "ok": true
+ },
+ "dns.openverbs.com": {
+  "latency_ms": 839.3,
+  "status": 402,
+  "ok": true
+ },
+ "amoraw.xyz": {
+  "latency_ms": 634.6,
+  "status": 404,
+  "ok": true
+ },
+ "x402.omardev.xyz": {
+  "latency_ms": 514.6,
+  "status": 402,
+  "ok": true
+ },
+ "api.cueframe.ai": {
+  "latency_ms": 1303.3,
+  "status": 401,
+  "ok": true
+ },
+ "zeroclass.pay.zeroclick.io": {
+  "latency_ms": 2078.5,
+  "status": 402,
+  "ok": true
+ },
+ "x402stock.xyz": {
+  "latency_ms": 758.1,
+  "status": 402,
+  "ok": true
+ },
+ "2s.io": {
+  "latency_ms": 1452.3,
+  "status": 402,
+  "ok": true
+ },
+ "monitor.intel.rallylive.ca": {
+  "latency_ms": 751.7,
+  "status": 402,
+  "ok": true
+ },
+ "x402-portdwell.nobodytools.com": {
+  "latency_ms": 1371.2,
+  "status": 402,
+  "ok": true
+ },
+ "jobs.rqmtechnologies.com": {
+  "latency_ms": 1018.8,
+  "status": 405,
+  "ok": true
+ },
+ "kalender.netzhandwerker.de": {
+  "latency_ms": 1545.0,
+  "status": 402,
+  "ok": true
+ },
+ "weather.lonestaroracle.xyz": {
+  "latency_ms": 1033.7,
+  "status": 402,
+  "ok": true
+ },
+ "x402.outpimp.com": {
+  "latency_ms": 1130.4,
+  "status": 405,
+  "ok": true
+ },
+ "api.aestheticdata.io": {
+  "latency_ms": 1153.1,
+  "status": 402,
+  "ok": true
+ },
+ "wallet-risk-snapshot.pdfextractapi.workers.dev": {
+  "latency_ms": 814.5,
+  "status": 204,
+  "ok": true
+ },
+ "stable-studio-git-mason-migrate-off-prices-map-merit-systems.vercel.app": {
+  "latency_ms": 1122.1,
+  "status": 405,
+  "ok": true
+ },
+ "stable-deepline.dev": {
+  "latency_ms": 676.0,
+  "status": 405,
+  "ok": true
+ },
+ "trapcheck.dev": {
+  "latency_ms": 785.1,
+  "status": 402,
+  "ok": true
+ },
+ "medicaidwaivers.getregisters.com": {
+  "latency_ms": 2020.8,
+  "status": 402,
+  "ok": true
+ },
+ "mitteleuropa.halowerk.com": {
+  "latency_ms": 1298.1,
+  "status": 404,
+  "ok": true
+ },
+ "api.creativeforesight.io": {
+  "latency_ms": 1182.6,
+  "status": 402,
+  "ok": true
+ },
+ "secondlook.edgecasesystems.workers.dev": {
+  "latency_ms": 452.4,
+  "status": 404,
+  "ok": true
+ },
+ "asistent-crypto.vercel.app": {
+  "latency_ms": 872.1,
+  "status": 405,
+  "ok": true
+ },
+ "perpsignals.use.x402atlas.com": {
+  "latency_ms": 1239.7,
+  "status": 402,
+  "ok": true
+ },
+ "usaref.dev": {
+  "latency_ms": 1848.5,
+  "status": 402,
+  "ok": true
+ },
+ "semver.openverbs.com": {
+  "latency_ms": 894.6,
+  "status": 402,
+  "ok": true
+ },
+ "kaisha-api.hp-vladic.workers.dev": {
+  "latency_ms": 665.9,
+  "status": 402,
+  "ok": true
+ },
+ "api.messari.io": {
+  "latency_ms": 640.3,
+  "status": 402,
+  "ok": true
+ },
+ "x402-service-production-e242.up.railway.app": {
+  "latency_ms": 912.5,
+  "status": 402,
+  "ok": true
+ },
+ "covenant-x402-seller.onrender.com": {
+  "latency_ms": 1232.4,
+  "status": 402,
+  "ok": true
+ },
+ "api.verigrace.com:4449": {
+  "latency_ms": 844.6,
+  "status": 402,
+  "ok": true
+ },
+ "agenttoll.app": {
+  "latency_ms": 1527.1,
+  "status": 402,
+  "ok": true
+ },
+ "crypto.apitoll.cloud": {
+  "latency_ms": 1388.3,
+  "status": 402,
+  "ok": true
+ },
+ "store.advice-sky.net": {
+  "latency_ms": 960.7,
+  "status": 402,
+  "ok": true
+ },
+ "long.events": {
+  "latency_ms": 1279.1,
+  "status": 402,
+  "ok": true
+ },
+ "agents.machina.gg": {
+  "latency_ms": 686.4,
+  "status": 405,
+  "ok": true
+ },
+ "api.gentechlabs.net": {
+  "latency_ms": 1076.2,
+  "status": 402,
+  "ok": true
+ },
+ "gridpulse.theaslangroupllc.com": {
+  "latency_ms": 500.6,
+  "status": 402,
+  "ok": true
+ },
+ "mailcheck.netzhandwerker.de": {
+  "latency_ms": 1402.3,
+  "status": 402,
+  "ok": true
+ },
+ "apexfaucet.xyz": {
+  "latency_ms": 1106.2,
+  "status": 402,
+  "ok": true
+ },
+ "flipr-x402.fly.dev": {
+  "latency_ms": 495.1,
+  "status": 402,
+  "ok": true
+ },
+ "bcchildcare.getregisters.com": {
+  "latency_ms": 2958.1,
+  "status": 402,
+  "ok": true
+ },
+ "api.obeliskapp.io": {
+  "latency_ms": 644.2,
+  "status": 402,
+  "ok": true
+ },
+ "blockrun.ai": {
+  "latency_ms": 574.3,
+  "status": 402,
+  "ok": true
+ },
+ "api.flipvo.com": {
+  "latency_ms": 1126.5,
+  "status": 405,
+  "ok": true
+ },
+ "deepgram.x402.paywithlocus.com": {
+  "latency_ms": 791.3,
+  "status": 404,
+  "ok": true
+ },
+ "revert.wtf": {
+  "latency_ms": 1384.2,
+  "status": 404,
+  "ok": true
+ },
+ "modelprices.xyz": {
+  "latency_ms": 1502.2,
+  "status": 402,
+  "ok": true
+ },
+ "app.heinrichstech.com": {
+  "latency_ms": 1228.7,
+  "status": 402,
+  "ok": true
+ },
+ "verifier-staging.quantumshieldlabs.dev": {
+  "latency_ms": 1002.7,
+  "status": 405,
+  "ok": true
+ },
+ "iso.openverbs.com": {
+  "latency_ms": 848.7,
+  "status": 402,
+  "ok": true
+ },
+ "karte.halowerk.com": {
+  "latency_ms": 1421.3,
+  "status": 402,
+  "ok": true
+ },
+ "market.561.group": {
+  "latency_ms": 473.4,
+  "status": 405,
+  "ok": true
+ },
+ "canary-production-f6b6.up.railway.app": {
+  "latency_ms": 816.1,
+  "status": 402,
+  "ok": true
+ },
+ "handel.halowerk.com": {
+  "latency_ms": 1683.0,
+  "status": 402,
+  "ok": true
+ },
+ "x402factory.ai": {
+  "latency_ms": 1362.8,
+  "status": 402,
+  "ok": true
+ },
+ "disruption.forgemesh.io": {
+  "latency_ms": 1004.2,
+  "status": 402,
+  "ok": true
+ },
+ "recallscout.scalpstream.com": {
+  "latency_ms": 997.7,
+  "status": 402,
+  "ok": true
+ },
+ "brokenkey-api-link-ruby.vercel.app": {
+  "latency_ms": 1050.6,
+  "status": 402,
+  "ok": true
+ },
+ "vektor.halowerk.com": {
+  "latency_ms": 1388.5,
+  "status": 402,
+  "ok": true
+ },
+ "api.nansen.ai": {
+  "latency_ms": 544.3,
+  "status": 402,
+  "ok": true
+ },
+ "stable-domains-git-ben-upgrade-agentcash-r-bb6a65-merit-systems.vercel.app": {
+  "latency_ms": 739.5,
+  "status": 405,
+  "ok": true
+ },
+ "api.tag-per-track.cloud": {
+  "latency_ms": 1164.6,
+  "status": 404,
+  "ok": true
+ },
+ "api.zerion.io": {
+  "latency_ms": 1184.0,
+  "status": 402,
+  "ok": true
+ },
+ "policypulse.theaslangroupllc.com": {
+  "latency_ms": 763.2,
+  "status": 402,
+  "ok": true
+ },
+ "multichain-rpc.clankerceo.workers.dev": {
+  "latency_ms": 514.1,
+  "status": 402,
+  "ok": true
+ },
+ "x402-hono-api.inraby.workers.dev": {
+  "latency_ms": 997.7,
+  "status": 404,
+  "ok": true
+ },
+ "api.x402node.dev": {
+  "latency_ms": 1854.6,
+  "status": 402,
+  "ok": true
+ },
+ "filingspulse.theaslangroupllc.com": {
+  "latency_ms": 783.9,
+  "status": 402,
+  "ok": true
+ },
+ "api.x402passport.xyz": {
+  "latency_ms": 1172.9,
+  "status": 400,
+  "ok": true
+ },
+ "africa.lonestaroracle.xyz": {
+  "latency_ms": 2260.6,
+  "status": 402,
+  "ok": true
+ },
+ "imagegen.coinopai.com": {
+  "latency_ms": 1113.8,
+  "status": 402,
+  "ok": true
+ },
+ "tools.miniframe.com.br": {
+  "latency_ms": 2108.8,
+  "status": 404,
+  "ok": true
+ },
+ "macro.lonestaroracle.xyz": {
+  "latency_ms": 1341.7,
+  "status": 402,
+  "ok": true
+ },
+ "talentpulse.theaslangroupllc.com": {
+  "latency_ms": 846.5,
+  "status": 402,
+  "ok": true
+ },
+ "overwing.ai": {
+  "latency_ms": 1660.3,
+  "status": 402,
+  "ok": true
+ },
+ "x721.dev": {
+  "latency_ms": 1168.8,
+  "status": 402,
+  "ok": true
+ },
+ "gateway-production-1a96.up.railway.app": {
+  "latency_ms": 1228.1,
+  "status": 404,
+  "ok": true
+ },
+ "endpoint-iq-production.up.railway.app": {
+  "latency_ms": 914.2,
+  "status": 404,
+  "ok": true
+ },
+ "backend-production-716d3.up.railway.app": {
+  "latency_ms": 1200.1,
+  "status": 402,
+  "ok": true
+ },
+ "api-dev.cueframe.ai": {
+  "latency_ms": 1821.6,
+  "status": 402,
+  "ok": true
+ },
+ "aegis-ai.xyz": {
+  "latency_ms": 997.2,
+  "status": 402,
+  "ok": true
+ },
+ "getrugshield.com": {
+  "latency_ms": 716.2,
+  "status": 405,
+  "ok": true
+ },
+ "api.webbersites.com": {
+  "latency_ms": 542.4,
+  "status": 402,
+  "ok": true
+ },
+ "api-staging.vapinetwork.ai": {
+  "latency_ms": 1144.7,
+  "status": 405,
+  "ok": true
+ },
+ "domain-age-checker.underscoredone.com": {
+  "latency_ms": 634.4,
+  "status": 402,
+  "ok": true
+ },
+ "news.apitoll.cloud": {
+  "latency_ms": 2118.6,
+  "status": 402,
+  "ok": true
+ },
+ "chat.gedx402.com": {
+  "latency_ms": 1032.4,
+  "status": 402,
+  "ok": true
+ },
+ "api.tickersfeed.net": {
+  "latency_ms": 1361.3,
+  "status": 402,
+  "ok": true
+ },
+ "preview-chat-c6089071-758a-449d-b4a7-6fa19ebc955c.space-z.ai": {
+  "latency_ms": 2563.4,
+  "status": 402,
+  "ok": true
+ },
+ "rentcast.x402.paywithlocus.com": {
+  "latency_ms": 813.8,
+  "status": 404,
+  "ok": true
+ },
+ "stability-ai.x402.paywithlocus.com": {
+  "latency_ms": 738.7,
+  "status": 404,
+  "ok": true
+ },
+ "gamemaxxing.baes.so": {
+  "latency_ms": 807.2,
+  "status": 405,
+  "ok": true
+ },
+ "the-composer.fly.dev": {
+  "latency_ms": 726.7,
+  "status": 402,
+  "ok": true
+ },
+ "api.doseplot.com": {
+  "latency_ms": 1048.3,
+  "status": 405,
+  "ok": true
+ },
+ "x402-watcher-api-main.jpgame-intel.workers.dev": {
+  "latency_ms": 905.1,
+  "status": 402,
+  "ok": true
+ },
+ "image.gedx402.com": {
+  "latency_ms": 805.3,
+  "status": 404,
+  "ok": true
+ },
+ "equity.lonestaroracle.xyz": {
+  "latency_ms": 1020.1,
+  "status": 402,
+  "ok": true
+ },
+ "01mind.net": {
+  "latency_ms": 710.2,
+  "status": 404,
+  "ok": true
+ },
+ "web-production-18a32.up.railway.app": {
+  "latency_ms": 987.3,
+  "status": 402,
+  "ok": true
+ },
+ "agents.actionlayer.io": {
+  "latency_ms": 1598.4,
+  "status": 405,
+  "ok": true
+ },
+ "talkshi.com": {
+  "latency_ms": 928.3,
+  "status": 402,
+  "ok": true
+ },
+ "x402.getautomatedrcm.com": {
+  "latency_ms": 561.3,
+  "status": 402,
+  "ok": true
+ },
+ "api.stelardigital.com": {
+  "latency_ms": 929.1,
+  "status": 402,
+  "ok": true
+ },
+ "agents.samedaydesk.com": {
+  "latency_ms": 1021.1,
+  "status": 402,
+  "ok": true
+ },
+ "api.havenagent.ai": {
+  "latency_ms": 1159.6,
+  "status": 404,
+  "ok": true
+ },
+ "api.dyor.network": {
+  "latency_ms": 627.7,
+  "status": 402,
+  "ok": true
+ },
+ "x402.spendthebits.com": {
+  "latency_ms": 1068.8,
+  "status": 402,
+  "ok": true
+ },
+ "defi.hugen.tokyo": {
+  "latency_ms": 372.3,
+  "status": 402,
+  "ok": true
+ },
+ "x402-micro-tollgate.onrender.com": {
+  "latency_ms": 416.4,
+  "status": 402,
+  "ok": true
+ },
+ "api.scoop.sundaebar.ai": {
+  "latency_ms": 762.8,
+  "status": 404,
+  "ok": true
+ },
+ "api.nativebtc.org": {
+  "latency_ms": 1196.8,
+  "status": 402,
+  "ok": true
+ },
+ "clinkagent.com": {
+  "latency_ms": 485.1,
+  "status": 404,
+  "ok": true
+ },
+ "geometry.openverbs.com": {
+  "latency_ms": 866.2,
+  "status": 402,
+  "ok": true
+ },
+ "agentcrush.xyz": {
+  "latency_ms": 1702.1,
+  "status": 402,
+  "ok": true
+ },
+ "crawl-preflight.postnov01.workers.dev": {
+  "latency_ms": 986.6,
+  "status": 400,
+  "ok": true
+ },
+ "book-bot.app": {
+  "latency_ms": 815.6,
+  "status": 405,
+  "ok": true
+ },
+ "blockrun-staging-7069414-031423-vbsbhh7lea-uc.a.run.app": {
+  "latency_ms": 592.9,
+  "status": 404,
+  "ok": true
+ },
+ "atlas-probability-api-production.up.railway.app": {
+  "latency_ms": 902.5,
+  "status": 402,
+  "ok": true
+ },
+ "cheaptokens.ai": {
+  "latency_ms": 480.0,
+  "status": 402,
+  "ok": true
+ },
+ "chrono.schemasure.com": {
+  "latency_ms": 1629.8,
+  "status": 404,
+  "ok": true
+ },
+ "parallel.x402.paywithlocus.com": {
+  "latency_ms": 734.3,
+  "status": 404,
+  "ok": true
+ },
+ "x402endpoint-utiwoa54hq-uc.a.run.app": {
+  "latency_ms": 597.4,
+  "status": 402,
+  "ok": true
+ },
+ "relay.straelo.com": {
+  "latency_ms": 1029.6,
+  "status": 402,
+  "ok": true
+ },
+ "tollbooth-fdic-verify.sjwilliams8.workers.dev": {
+  "latency_ms": 679.4,
+  "status": 402,
+  "ok": true
+ },
+ "xl402.agentsats.org": {
+  "latency_ms": 2994.2,
+  "status": 404,
+  "ok": true
+ },
+ "cryptopulse.theaslangroupllc.com": {
+  "latency_ms": 514.5,
+  "status": 402,
+  "ok": true
+ },
+ "api.helpmyagent.com": {
+  "latency_ms": 1252.8,
+  "status": 405,
+  "ok": true
+ },
+ "pharma.lonestaroracle.xyz": {
+  "latency_ms": 965.7,
+  "status": 402,
+  "ok": true
+ },
+ "x402-bazaar-rank.x402-bazaar-rank-worker.workers.dev": {
+  "latency_ms": 2073.4,
+  "status": 402,
+  "ok": true
+ },
+ "visual.hugen.tokyo": {
+  "latency_ms": 330.2,
+  "status": 402,
+  "ok": true
+ },
+ "coil.trade": {
+  "latency_ms": 910.9,
+  "status": 402,
+  "ok": true
+ },
+ "web-extract.bowling-anthony.workers.dev": {
+  "latency_ms": 368.3,
+  "status": 402,
+  "ok": true
+ },
+ "api.textus.dev": {
+  "latency_ms": 1766.2,
+  "status": 404,
+  "ok": true
+ },
+ "x402.sniperx.fun": {
+  "latency_ms": 521.3,
+  "status": 402,
+  "ok": true
+ },
+ "audit.liquidlogicx.com": {
+  "latency_ms": 1221.8,
+  "status": 402,
+  "ok": true
+ },
+ "diet.agentic-jp.com": {
+  "latency_ms": 552.3,
+  "status": 402,
+  "ok": true
+ },
+ "predict.memoryapi.org": {
+  "latency_ms": 906.0,
+  "status": 402,
+  "ok": true
+ },
+ "standortdossier.halowerk.com": {
+  "latency_ms": 1146.2,
+  "status": 404,
+  "ok": true
+ },
+ "slug.openverbs.com": {
+  "latency_ms": 948.4,
+  "status": 402,
+  "ok": true
+ },
+ "recoup-qgrbqflbo-recoupable-ad724970.vercel.app": {
+  "latency_ms": 1193.0,
+  "status": 402,
+  "ok": true
+ },
+ "api.agent-payload-tools.workers.dev": {
+  "latency_ms": 731.3,
+  "status": 404,
+  "ok": true
+ },
+ "api.neurodynamic.tech": {
+  "latency_ms": 1129.9,
+  "status": 405,
+  "ok": true
+ },
+ "api.aurenic.org": {
+  "latency_ms": 1345.1,
+  "status": 402,
+  "ok": true
+ },
+ "cot.lonestaroracle.xyz": {
+  "latency_ms": 1234.4,
+  "status": 402,
+  "ok": true
+ },
+ "www.tryskopos.xyz": {
+  "latency_ms": 1038.4,
+  "status": 405,
+  "ok": true
+ },
+ "imagcon.app": {
+  "latency_ms": 906.8,
+  "status": 405,
+  "ok": true
+ },
+ "web-production-77376.up.railway.app": {
+  "latency_ms": 1164.2,
+  "status": 404,
+  "ok": true
+ },
+ "execbox.xyz": {
+  "latency_ms": 1375.0,
+  "status": 404,
+  "ok": true
+ },
+ "mena.lonestaroracle.xyz": {
+  "latency_ms": 1200.5,
+  "status": 402,
+  "ok": true
+ },
+ "currency-converter.pdfextractapi.workers.dev": {
+  "latency_ms": 667.2,
+  "status": 204,
+  "ok": true
+ },
+ "visuals.use.x402atlas.com": {
+  "latency_ms": 1675.3,
+  "status": 405,
+  "ok": true
+ },
+ "agent-business-lab-composition.dfly90724.workers.dev": {
+  "latency_ms": 900.8,
+  "status": 404,
+  "ok": true
+ },
+ "api.vaults.fyi": {
+  "latency_ms": 1091.5,
+  "status": 402,
+  "ok": true
+ },
+ "api.solenrich.com": {
+  "latency_ms": 925.3,
+  "status": 404,
+  "ok": true
+ },
+ "x402lifeadvice.vercel.app": {
+  "latency_ms": 640.8,
+  "status": 402,
+  "ok": true
+ },
+ "x402.glassnode.com": {
+  "latency_ms": 1222.3,
+  "status": 402,
+  "ok": true
+ },
+ "agent-proxy.alchemy.com": {
+  "latency_ms": 1348.7,
+  "status": 402,
+  "ok": true
+ },
+ "offersignal.io": {
+  "latency_ms": 807.1,
+  "status": 402,
+  "ok": true
+ },
+ "api.ishtar.numetal.xyz": {
+  "latency_ms": 514.5,
+  "status": 403,
+  "ok": true
+ },
+ "page.fluidrack.com": {
+  "latency_ms": 1261.8,
+  "status": 405,
+  "ok": true
+ },
+ "ticks.bnm.farm": {
+  "latency_ms": 1069.2,
+  "status": 402,
+  "ok": true
+ },
+ "marketpulse.theaslangroupllc.com": {
+  "latency_ms": 581.2,
+  "status": 402,
+  "ok": true
+ },
+ "api.healthparse.io": {
+  "latency_ms": 943.0,
+  "status": 402,
+  "ok": true
+ },
+ "trace-api-nk2026.azurewebsites.net": {
+  "latency_ms": 934.4,
+  "status": 405,
+  "ok": true
+ },
+ "job-posting-parser.pdfextractapi.workers.dev": {
+  "latency_ms": 485.6,
+  "status": 204,
+  "ok": true
+ },
+ "x402-doctor.fizzl.eu": {
+  "latency_ms": 527.1,
+  "status": 402,
+  "ok": true
+ },
+ "centry.cybercentry.co.uk": {
+  "latency_ms": 1538.5,
+  "status": 402,
+  "ok": true
+ },
+ "similarity.openverbs.com": {
+  "latency_ms": 906.5,
+  "status": 402,
+  "ok": true
+ },
+ "mcp.djzs.ai": {
+  "latency_ms": 828.0,
+  "status": 402,
+  "ok": true
+ },
+ "aero.lonestaroracle.xyz": {
+  "latency_ms": 1032.7,
+  "status": 402,
+  "ok": true
+ },
+ "shelf-production-43b5.up.railway.app": {
+  "latency_ms": 853.3,
+  "status": 402,
+  "ok": true
+ },
+ "macro-pulse-x402.onrender.com": {
+  "latency_ms": 495.8,
+  "status": 400,
+  "ok": true
+ },
+ "mcpfax-utility.bowling-anthony.workers.dev": {
+  "latency_ms": 565.8,
+  "status": 402,
+  "ok": true
+ },
+ "time.24klabs.ai": {
+  "latency_ms": 1104.2,
+  "status": 402,
+  "ok": true
+ },
+ "api.basefeed.io": {
+  "latency_ms": 1194.0,
+  "status": 402,
+  "ok": true
+ },
+ "api.babyblueviper.com": {
+  "latency_ms": 910.4,
+  "status": 402,
+  "ok": true
+ },
+ "nfl-form-x402.owenlvll.workers.dev": {
+  "latency_ms": 1029.2,
+  "status": 402,
+  "ok": true
+ },
+ "api.x-402.online": {
+  "latency_ms": 858.2,
+  "status": 402,
+  "ok": true
+ },
+ "dihh.my.id": {
+  "latency_ms": 1061.5,
+  "status": 402,
+  "ok": true
+ },
+ "md.fastdb.in": {
+  "latency_ms": 1545.3,
+  "status": 200,
+  "ok": true
+ },
+ "afriref.dev": {
+  "latency_ms": 1773.7,
+  "status": 402,
+  "ok": true
+ },
+ "api.automaton-sovereign.workers.dev": {
+  "latency_ms": 3320.0,
+  "status": 200,
+  "ok": true
+ },
+ "eagle.quickai.build": {
+  "latency_ms": 1339.9,
+  "status": 404,
+  "ok": true
+ },
+ "web-scraper-api-production-bf20.up.railway.app": {
+  "latency_ms": 1116.0,
+  "status": 402,
+  "ok": true
+ },
+ "aemb.pro": {
+  "latency_ms": 1234.0,
+  "status": 402,
+  "ok": true
+ },
+ "twitter.use.x402atlas.com": {
+  "latency_ms": 1436.9,
+  "status": 402,
+  "ok": true
+ },
+ "thevaultreport.com": {
+  "latency_ms": 490.8,
+  "status": 402,
+  "ok": true
+ },
+ "api.postopz.com": {
+  "latency_ms": 1027.8,
+  "status": 404,
+  "ok": true
+ },
+ "deploid-enrichment.peter-liang-official.workers.dev": {
+  "latency_ms": 381.7,
+  "status": 404,
+  "ok": true
+ },
+ "hivemindos-paid-agent-gateway.hivemindos.workers.dev": {
+  "latency_ms": 858.1,
+  "status": 402,
+  "ok": true
+ },
+ "research.lumenhouse.xyz": {
+  "latency_ms": 878.6,
+  "status": 404,
+  "ok": true
+ },
+ "fresh-feeds.foomworks.workers.dev": {
+  "latency_ms": 755.9,
+  "status": 402,
+  "ok": true
+ },
+ "datetime.openverbs.com": {
+  "latency_ms": 849.7,
+  "status": 402,
+  "ok": true
+ },
+ "store-production-8add.up.railway.app": {
+  "latency_ms": 889.1,
+  "status": 402,
+  "ok": true
+ },
+ "api.justaname.id": {
+  "latency_ms": 1779.8,
+  "status": 402,
+  "ok": true
+ },
+ "router.forgemesh.io": {
+  "latency_ms": 863.9,
+  "status": 402,
+  "ok": true
+ },
+ "yieldsignal.vercel.app": {
+  "latency_ms": 865.6,
+  "status": 402,
+  "ok": true
+ },
+ "ari001.tailb4ac3a.ts.net": {
+  "latency_ms": 1666.1,
+  "status": 402,
+  "ok": true
+ },
+ "signal.quickai.build": {
+  "latency_ms": 1074.8,
+  "status": 402,
+  "ok": true
+ },
+ "cf-package-check.cf-exclusion-check.workers.dev": {
+  "latency_ms": 787.2,
+  "status": 402,
+  "ok": true
+ },
+ "stabletickets.dev": {
+  "latency_ms": 827.7,
+  "status": 405,
+  "ok": true
+ },
+ "company-intelligence-api-production-6a82.up.railway.app": {
+  "latency_ms": 900.8,
+  "status": 404,
+  "ok": true
+ },
+ "research.halowerk.com": {
+  "latency_ms": 1628.1,
+  "status": 402,
+  "ok": true
+ },
+ "vaaya.ai": {
+  "latency_ms": 674.8,
+  "status": 200,
+  "ok": true
+ },
+ "api.x402agentic.ai": {
+  "latency_ms": 904.3,
+  "status": 402,
+  "ok": true
+ },
+ "sentiment-analyzer.pdfextractapi.workers.dev": {
+  "latency_ms": 490.2,
+  "status": 204,
+  "ok": true
+ },
+ "portfolio.lonestaroracle.xyz": {
+  "latency_ms": 1046.1,
+  "status": 402,
+  "ok": true
+ },
+ "read.lonestaroracle.xyz": {
+  "latency_ms": 1008.2,
+  "status": 402,
+  "ok": true
+ },
+ "www.stablebrowser.dev": {
+  "latency_ms": 2807.3,
+  "status": 405,
+  "ok": true
+ },
+ "x402.clashofcoins.com": {
+  "latency_ms": 933.8,
+  "status": 402,
+  "ok": true
+ },
+ "cryptodataapi.com": {
+  "latency_ms": 946.8,
+  "status": 402,
+  "ok": true
+ },
+ "scrapecheck.fly.dev": {
+  "latency_ms": 624.4,
+  "status": 404,
+  "ok": true
+ },
+ "tollbooth-sanctions-screener-testnet.sjwilliams8.workers.dev": {
+  "latency_ms": 499.2,
+  "status": 404,
+  "ok": true
+ },
+ "api.terradeed.co.uk": {
+  "latency_ms": 961.0,
+  "status": 405,
+  "ok": true
+ },
+ "emoji.today": {
+  "latency_ms": 633.0,
+  "status": 405,
+  "ok": true
+ },
+ "api.clinkforge.com": {
+  "latency_ms": 891.6,
+  "status": 402,
+  "ok": true
+ },
+ "api.alphabuild.xyz": {
+  "latency_ms": 1084.9,
+  "status": 405,
+  "ok": true
+ },
+ "stack.netzhandwerker.de": {
+  "latency_ms": 1637.7,
+  "status": 402,
+  "ok": true
+ },
+ "agri.lonestaroracle.xyz": {
+  "latency_ms": 1037.6,
+  "status": 402,
+  "ok": true
+ },
+ "scry.solanahub.de": {
+  "latency_ms": 1286.2,
+  "status": 402,
+  "ok": true
+ },
+ "content-risk-scanner.pdfextractapi.workers.dev": {
+  "latency_ms": 494.1,
+  "status": 204,
+  "ok": true
+ },
+ "api.qonoro.ai": {
+  "latency_ms": 955.1,
+  "status": 405,
+  "ok": true
+ },
+ "hotels.use.x402atlas.com": {
+  "latency_ms": 1316.3,
+  "status": 402,
+  "ok": true
+ },
+ "mcp.yield.xyz": {
+  "latency_ms": 1301.3,
+  "status": 404,
+  "ok": true
+ },
+ "api.runonproof.com": {
+  "latency_ms": 945.7,
+  "status": 404,
+  "ok": true
+ },
+ "holidays.use.x402atlas.com": {
+  "latency_ms": 1238.7,
+  "status": 402,
+  "ok": true
+ },
+ "api.eucompliance.tools": {
+  "latency_ms": 2436.6,
+  "status": 402,
+  "ok": true
+ },
+ "signalforgestudios.com": {
+  "latency_ms": 982.7,
+  "status": 200,
+  "ok": true
+ },
+ "x402.deepsearch.com": {
+  "latency_ms": 532.1,
+  "status": 402,
+  "ok": true
+ },
+ "x402-adsb.x402-adsb-worker.workers.dev": {
+  "latency_ms": 819.8,
+  "status": 402,
+  "ok": true
+ },
+ "api.solgiery.com": {
+  "latency_ms": 1598.7,
+  "status": 402,
+  "ok": true
+ },
+ "api.ysaere.com": {
+  "latency_ms": null,
+  "status": null,
+  "ok": false,
+  "error": "HTTPSConnectionPool(host='api.ysaere.com', port=443): Max retries exceeded with url: /v1/intel/kyb-verify (Caused by SSL"
+ },
+ "context-relay.contextrelay.workers.dev": {
+  "latency_ms": 448.3,
+  "status": 405,
+  "ok": true
+ },
+ "insurepulse.theaslangroupllc.com": {
+  "latency_ms": 587.0,
+  "status": 402,
+  "ok": true
+ },
+ "redlynr.com": {
+  "latency_ms": 1040.7,
+  "status": 405,
+  "ok": true
+ },
+ "app.suedeai.ai": {
+  "latency_ms": 1161.9,
+  "status": 402,
+  "ok": true
+ },
+ "sentinel.rootstuff.io": {
+  "latency_ms": 887.1,
+  "status": 402,
+  "ok": true
+ },
+ "fiatdock.com": {
+  "latency_ms": 2096.6,
+  "status": 402,
+  "ok": true
+ },
+ "api.kgninja.dev": {
+  "latency_ms": 717.6,
+  "status": 402,
+  "ok": true
+ },
+ "ccpcrate.ca": {
+  "latency_ms": 610.8,
+  "status": 405,
+  "ok": true
+ },
+ "app.r3p.xyz": {
+  "latency_ms": 1319.4,
+  "status": 402,
+  "ok": true
+ },
+ "x402.tavily.com": {
+  "latency_ms": 1129.0,
+  "status": 404,
+  "ok": true
+ },
+ "library.proofivy.com": {
+  "latency_ms": 1174.9,
+  "status": 402,
+  "ok": true
+ },
+ "api.builtwith.com": {
+  "latency_ms": 1075.2,
+  "status": 402,
+  "ok": true
+ },
+ "worxai.tech": {
+  "latency_ms": 2230.6,
+  "status": 402,
+  "ok": true
+ },
+ "klima.halowerk.com": {
+  "latency_ms": 1684.8,
+  "status": 402,
+  "ok": true
+ },
+ "bitwise.openverbs.com": {
+  "latency_ms": 788.3,
+  "status": 402,
+  "ok": true
+ },
+ "q402.quackai.ai": {
+  "latency_ms": 1264.5,
+  "status": 405,
+  "ok": true
+ },
+ "poms-api.canvas-cart.workers.dev": {
+  "latency_ms": 627.3,
+  "status": 402,
+  "ok": true
+ },
+ "offercheck.offercheck.workers.dev": {
+  "latency_ms": 643.2,
+  "status": 402,
+  "ok": true
+ },
+ "stableupload.dev": {
+  "latency_ms": 438.0,
+  "status": 405,
+  "ok": true
+ },
+ "app.difficat.com": {
+  "latency_ms": 983.4,
+  "status": 404,
+  "ok": true
+ },
+ "http--forest-gas-station-mainnet--lcjl27p8lmjs.code.run": {
+  "latency_ms": 1435.1,
+  "status": 405,
+  "ok": true
+ },
+ "agent-economy-signal-x402-mainnet.bronzetti-andrea.workers.dev": {
+  "latency_ms": 795.0,
+  "status": 402,
+  "ok": true
+ },
+ "asia-pulse.com": {
+  "latency_ms": 557.2,
+  "status": 402,
+  "ok": true
+ },
+ "api.phoneagent.xyz": {
+  "latency_ms": 946.8,
+  "status": 402,
+  "ok": true
+ },
+ "spoolis.com": {
+  "latency_ms": 1522.0,
+  "status": 405,
+  "ok": true
+ },
+ "polymarketeer.vercel.app": {
+  "latency_ms": 1460.5,
+  "status": 402,
+  "ok": true
+ },
+ "browser-use.x402.paywithlocus.com": {
+  "latency_ms": 740.4,
+  "status": 404,
+  "ok": true
+ },
+ "x402-seller-a5et.onrender.com": {
+  "latency_ms": 489.6,
+  "status": 402,
+  "ok": true
+ },
+ "api.usesaferoute.com": {
+  "latency_ms": 919.4,
+  "status": 404,
+  "ok": true
+ },
+ "tkivbru614.execute-api.us-east-1.amazonaws.com": {
+  "latency_ms": 1065.9,
+  "status": 404,
+  "ok": true
+ },
+ "mru-oracle.com": {
+  "latency_ms": 627.9,
+  "status": 402,
+  "ok": true
+ },
+ "x402.agentfund.net": {
+  "latency_ms": 632.9,
+  "status": 402,
+  "ok": true
+ },
+ "shield.vainplex.dev": {
+  "latency_ms": 2160.1,
+  "status": 402,
+  "ok": true
+ },
+ "monitor.memoryapi.org": {
+  "latency_ms": 902.8,
+  "status": 402,
+  "ok": true
+ },
+ "gpt.558686.xyz": {
+  "latency_ms": 669.6,
+  "status": 402,
+  "ok": true
+ },
+ "402timezones.vercel.app": {
+  "latency_ms": 810.9,
+  "status": 402,
+  "ok": true
+ },
+ "api.discoverdmc.cloud": {
+  "latency_ms": 520.8,
+  "status": 404,
+  "ok": true
+ },
+ "x402-seller.onrender.com": {
+  "latency_ms": 558.7,
+  "status": 402,
+  "ok": true
+ },
+ "parallax402.com": {
+  "latency_ms": 1069.7,
+  "status": 402,
+  "ok": true
+ },
+ "api.k8s-dev.blockscout.com": {
+  "latency_ms": 1084.1,
+  "status": 402,
+  "ok": true
+ },
+ "checkdigit.openverbs.com": {
+  "latency_ms": 866.2,
+  "status": 402,
+  "ok": true
+ },
+ "travelpulse.theaslangroupllc.com": {
+  "latency_ms": 735.2,
+  "status": 402,
+  "ok": true
+ },
+ "trader.rigoblock.com": {
+  "latency_ms": 1705.0,
+  "status": 402,
+  "ok": true
+ },
+ "api.you.com": {
+  "latency_ms": 1111.7,
+  "status": 402,
+  "ok": true
+ },
+ "japan-business-day-api.matchan962.workers.dev": {
+  "latency_ms": 1553.0,
+  "status": 402,
+  "ok": true
+ },
+ "palmyr.ai": {
+  "latency_ms": 1176.1,
+  "status": 402,
+  "ok": true
+ },
+ "contextslim.friczero.com": {
+  "latency_ms": 1542.4,
+  "status": 402,
+  "ok": true
+ },
+ "zeroclick.affiliate.com": {
+  "latency_ms": 735.9,
+  "status": 404,
+  "ok": true
+ },
+ "twin.unykorn.org": {
+  "latency_ms": 929.3,
+  "status": 402,
+  "ok": true
+ },
+ "oblique.markets": {
+  "latency_ms": 464.8,
+  "status": 402,
+  "ok": true
+ },
+ "mail.halowerk.com": {
+  "latency_ms": 1587.4,
+  "status": 402,
+  "ok": true
+ },
+ "api.m2msentinel.com": {
+  "latency_ms": 614.7,
+  "status": 402,
+  "ok": true
+ },
+ "astryx-core.shabless1.workers.dev": {
+  "latency_ms": 917.1,
+  "status": 404,
+  "ok": true
+ },
+ "x402.asterpay.io": {
+  "latency_ms": 652.7,
+  "status": 402,
+  "ok": true
+ },
+ "gblin.digital": {
+  "latency_ms": 758.7,
+  "status": 200,
+  "ok": true
+ },
+ "x402-data-api.onrender.com": {
+  "latency_ms": 770.0,
+  "status": 402,
+  "ok": true
+ },
+ "api.ukintel.uk": {
+  "latency_ms": 1287.6,
+  "status": 403,
+  "ok": true
+ },
+ "clinic.sapthumbprint.com": {
+  "latency_ms": 1059.6,
+  "status": 402,
+  "ok": true
+ },
+ "machinemint-native-x402-production.up.railway.app": {
+  "latency_ms": 1098.8,
+  "status": 402,
+  "ok": true
+ },
+ "safetyincidents.org": {
+  "latency_ms": 648.8,
+  "status": 402,
+  "ok": true
+ },
+ "api.x402risk.com": {
+  "latency_ms": 817.2,
+  "status": 405,
+  "ok": true
+ },
+ "api.cogdepot.com": {
+  "latency_ms": 1187.1,
+  "status": 402,
+  "ok": true
+ },
+ "holiday.agentic-jp.com": {
+  "latency_ms": 616.9,
+  "status": 400,
+  "ok": true
+ },
+ "pnl.lonestaroracle.xyz": {
+  "latency_ms": 1289.0,
+  "status": 402,
+  "ok": true
+ },
+ "api.paylyte.ai": {
+  "latency_ms": 1200.1,
+  "status": 402,
+  "ok": true
+ },
+ "gateway.gmfarcaster.com": {
+  "latency_ms": 836.6,
+  "status": 404,
+  "ok": true
+ },
+ "vealth.net": {
+  "latency_ms": 894.6,
+  "status": 405,
+  "ok": true
+ },
+ "api.powahub.ai": {
+  "latency_ms": 2129.8,
+  "status": 402,
+  "ok": true
+ },
+ "api.ekospor.com": {
+  "latency_ms": 412.5,
+  "status": 403,
+  "ok": true
+ },
+ "402registry.com": {
+  "latency_ms": 719.0,
+  "status": 402,
+  "ok": true
+ },
+ "liquita-x402-edge.liquita.workers.dev": {
+  "latency_ms": 760.1,
+  "status": 402,
+  "ok": true
+ },
+ "dwelldata.io": {
+  "latency_ms": 581.0,
+  "status": 402,
+  "ok": true
+ },
+ "apify-api-git-br-better-actor-pay-merit-systems.vercel.app": {
+  "latency_ms": 791.6,
+  "status": 405,
+  "ok": true
+ },
+ "api.octodamus.com": {
+  "latency_ms": 815.7,
+  "status": 402,
+  "ok": true
+ },
+ "atomic-verify-claim-poc.topadvancement-atomic.workers.dev": {
+  "latency_ms": 899.3,
+  "status": 404,
+  "ok": true
+ },
+ "irm-api.canvas-cart.workers.dev": {
+  "latency_ms": 573.7,
+  "status": 402,
+  "ok": true
+ },
+ "unwrap.use.x402atlas.com": {
+  "latency_ms": 1419.9,
+  "status": 402,
+  "ok": true
+ },
+ "seo.halowerk.com": {
+  "latency_ms": 1457.4,
+  "status": 405,
+  "ok": true
+ },
+ "arn-x402-payguard-payment-security.rajdeep-dutta-in.workers.dev": {
+  "latency_ms": 445.5,
+  "status": 404,
+  "ok": true
+ },
+ "ioswarm.io": {
+  "latency_ms": 989.3,
+  "status": 200,
+  "ok": true
+ },
+ "sign.cyberwarex.com": {
+  "latency_ms": 1214.2,
+  "status": 402,
+  "ok": true
+ },
+ "timecode.openverbs.com": {
+  "latency_ms": 867.4,
+  "status": 402,
+  "ok": true
+ },
+ "agents.chain.link": {
+  "latency_ms": 897.3,
+  "status": 401,
+  "ok": true
+ },
+ "stable-financial.vercel.app": {
+  "latency_ms": 548.9,
+  "status": 402,
+  "ok": true
+ },
+ "www.tradepilotusa.com": {
+  "latency_ms": 948.4,
+  "status": 405,
+  "ok": true
+ },
+ "api.snapfix.media": {
+  "latency_ms": 522.3,
+  "status": 404,
+  "ok": true
+ },
+ "spa-dom-to-md.jannioura.workers.dev": {
+  "latency_ms": 629.7,
+  "status": 200,
+  "ok": true
+ },
+ "clawg.network": {
+  "latency_ms": 543.7,
+  "status": 404,
+  "ok": true
+ },
+ "torii-gateway-production.ichis-lab.workers.dev": {
+  "latency_ms": 999.8,
+  "status": 402,
+  "ok": true
+ },
+ "proppulse.theaslangroupllc.com": {
+  "latency_ms": 538.2,
+  "status": 402,
+  "ok": true
+ },
+ "stable-travel-git-migrate-stabletravel-router-140-merit-systems.vercel.app": {
+  "latency_ms": 879.0,
+  "status": 402,
+  "ok": true
+ },
+ "pro-api.coingecko.com": {
+  "latency_ms": 512.8,
+  "status": 402,
+  "ok": true
+ },
+ "srv1334799.hstgr.cloud": {
+  "latency_ms": 1737.7,
+  "status": 402,
+  "ok": true
+ },
+ "groq.x402.paywithlocus.com": {
+  "latency_ms": 718.7,
+  "status": 404,
+  "ok": true
+ },
+ "nodeproxy-production.up.railway.app": {
+  "latency_ms": 822.9,
+  "status": 402,
+  "ok": true
+ },
+ "win.oneshotagent.com": {
+  "latency_ms": 570.5,
+  "status": 404,
+  "ok": true
+ },
+ "dicex402.vercel.app": {
+  "latency_ms": 420.7,
+  "status": 402,
+  "ok": true
+ },
+ "x402-seller.opencovenant.org": {
+  "latency_ms": 1067.2,
+  "status": 402,
+  "ok": true
+ },
+ "agent-arcade.use.x402atlas.com": {
+  "latency_ms": 1098.9,
+  "status": 402,
+  "ok": true
+ },
+ "tollkit-extract.fly.dev": {
+  "latency_ms": 673.8,
+  "status": 404,
+  "ok": true
+ },
+ "x402-accelerometer-feed.fly.dev": {
+  "latency_ms": 905.4,
+  "status": 402,
+  "ok": true
+ },
+ "pulse.chainverdict.xyz": {
+  "latency_ms": 545.1,
+  "status": 402,
+  "ok": true
+ },
+ "payto-preflight.hergertsynthora.com": {
+  "latency_ms": 1474.9,
+  "status": 402,
+  "ok": true
+ },
+ "x402.swaphunt.dev": {
+  "latency_ms": 1240.4,
+  "status": 402,
+  "ok": true
+ },
+ "app.fortiblox.com": {
+  "latency_ms": 916.5,
+  "status": 402,
+  "ok": true
+ },
+ "api.stakedbots.com": {
+  "latency_ms": 1417.2,
+  "status": 402,
+  "ok": true
+ },
+ "www.vokko.eu": {
+  "latency_ms": 1923.6,
+  "status": 402,
+  "ok": true
+ },
+ "api-onchain.optimai.network": {
+  "latency_ms": null,
+  "status": null,
+  "ok": false,
+  "error": "HTTPSConnectionPool(host='api-onchain.optimai.network', port=443): Read timed out. (read timeout=6)"
+ },
+ "x402check.arden-instance.workers.dev": {
+  "latency_ms": 381.6,
+  "status": 402,
+  "ok": true
+ },
+ "ta.lonestaroracle.xyz": {
+  "latency_ms": 1077.1,
+  "status": 402,
+  "ok": true
+ },
+ "sqlpermit.schemasure.com": {
+  "latency_ms": 581.6,
+  "status": 404,
+  "ok": true
+ },
+ "agent-market-one.vercel.app": {
+  "latency_ms": 1376.4,
+  "status": 402,
+  "ok": true
+ },
+ "toll402.dev": {
+  "latency_ms": 567.8,
+  "status": 200,
+  "ok": true
+ },
+ "trading-perps.vercel.app": {
+  "latency_ms": 1071.9,
+  "status": 402,
+  "ok": true
+ },
+ "hyperliquid-predict.use.x402atlas.com": {
+  "latency_ms": 1193.1,
+  "status": 402,
+  "ok": true
+ },
+ "api.preflightstack.com": {
+  "latency_ms": 914.4,
+  "status": 405,
+  "ok": true
+ },
+ "api.munition.io": {
+  "latency_ms": 1425.8,
+  "status": 404,
+  "ok": true
+ },
+ "open-pay.jp": {
+  "latency_ms": 983.9,
+  "status": 402,
+  "ok": true
+ },
+ "agent-data-api.agentdata.workers.dev": {
+  "latency_ms": 994.3,
+  "status": 402,
+  "ok": true
+ },
+ "api.vindexapi.dev": {
+  "latency_ms": 897.9,
+  "status": 402,
+  "ok": true
+ },
+ "space.bip-rep.com": {
+  "latency_ms": 1094.7,
+  "status": 402,
+  "ok": true
+ },
+ "hexscan.xyz": {
+  "latency_ms": 630.8,
+  "status": 402,
+  "ok": true
+ },
+ "digital-micro-arbitrage-v0-production.up.railway.app": {
+  "latency_ms": 807.0,
+  "status": 404,
+  "ok": true
+ },
+ "dispatch-x402.fly.dev": {
+  "latency_ms": 715.6,
+  "status": 404,
+  "ok": true
+ },
+ "conc-exe.xyz": {
+  "latency_ms": 632.4,
+  "status": 402,
+  "ok": true
+ },
+ "recalls.recordsforagents.com": {
+  "latency_ms": 748.2,
+  "status": 402,
+  "ok": true
+ },
+ "kari.mayim-mayim.com": {
+  "latency_ms": 431.1,
+  "status": 200,
+  "ok": true
+ },
+ "mailcheck.hugen.tokyo": {
+  "latency_ms": 416.5,
+  "status": 405,
+  "ok": true
+ },
+ "agentrisk.dev": {
+  "latency_ms": 933.2,
+  "status": 402,
+  "ok": true
+ },
+ "hash.openverbs.com": {
+  "latency_ms": 862.3,
+  "status": 402,
+  "ok": true
+ },
+ "intel.rallylive.ca": {
+  "latency_ms": 695.8,
+  "status": 402,
+  "ok": true
+ },
+ "zlv402.wreckbots.io": {
+  "latency_ms": 967.5,
+  "status": 404,
+  "ok": true
+ },
+ "api.ozdreamtools.de": {
+  "latency_ms": 613.3,
+  "status": 405,
+  "ok": true
+ },
+ "asset.api.williamrobinson.dev": {
+  "latency_ms": 903.7,
+  "status": 402,
+  "ok": true
+ },
+ "api.posttosource.com": {
+  "latency_ms": 892.3,
+  "status": 200,
+  "ok": true
+ },
+ "sanctions.cyberwarex.com": {
+  "latency_ms": 1169.7,
+  "status": 402,
+  "ok": true
+ },
+ "schema.nsgoods.org": {
+  "latency_ms": 1086.5,
+  "status": 402,
+  "ok": true
+ },
+ "clawg.fixr-the-buildr.workers.dev": {
+  "latency_ms": 471.9,
+  "status": 404,
+  "ok": true
+ },
+ "beta.surplusintelligence.ai": {
+  "latency_ms": 1155.1,
+  "status": 404,
+  "ok": true
+ },
+ "builtwith.x402.paywithlocus.com": {
+  "latency_ms": 741.6,
+  "status": 404,
+  "ok": true
+ },
+ "mpp.tracefast.xyz": {
+  "latency_ms": 642.2,
+  "status": 402,
+  "ok": true
+ },
+ "agent.halowerk.com": {
+  "latency_ms": 1592.4,
+  "status": 402,
+  "ok": true
+ },
+ "api.moltrust.ch": {
+  "latency_ms": 1772.3,
+  "status": 402,
+  "ok": true
+ },
+ "x402-test.genesisblock.ai": {
+  "latency_ms": 3538.1,
+  "status": 402,
+  "ok": true
+ },
+ "vape-x402.vapex402.workers.dev": {
+  "latency_ms": 1019.8,
+  "status": 402,
+  "ok": true
+ },
+ "api.statemind.ai": {
+  "latency_ms": 1848.1,
+  "status": 405,
+  "ok": true
+ },
+ "dnsdomain.hergertsynthora.com": {
+  "latency_ms": 1548.9,
+  "status": 402,
+  "ok": true
+ },
+ "agent-api-listings.46-224-157-88.sslip.io": {
+  "latency_ms": 1934.9,
+  "status": 402,
+  "ok": true
+ },
+ "www.watchevelive.com": {
+  "latency_ms": 2112.1,
+  "status": 402,
+  "ok": true
+ },
+ "api.wuzzy.io": {
+  "latency_ms": 1309.8,
+  "status": 404,
+  "ok": true
+ },
+ "vedetta.dethboy.com": {
+  "latency_ms": 1775.6,
+  "status": 402,
+  "ok": true
+ },
+ "giftpulse.theaslangroupllc.com": {
+  "latency_ms": 603.2,
+  "status": 402,
+  "ok": true
+ },
+ "stabletube.dev": {
+  "latency_ms": 1169.6,
+  "status": 405,
+  "ok": true
+ },
+ "finanz.halowerk.com": {
+  "latency_ms": 1407.2,
+  "status": 402,
+  "ok": true
+ },
+ "x402-endpoints.onrender.com": {
+  "latency_ms": 1311.9,
+  "status": 402,
+  "ok": true
+ },
+ "autopulse.theaslangroupllc.com": {
+  "latency_ms": 1086.3,
+  "status": 402,
+  "ok": true
+ },
+ "telesint-api.onrender.com": {
+  "latency_ms": 509.1,
+  "status": 402,
+  "ok": true
+ },
+ "wait.edgecasesystems.workers.dev": {
+  "latency_ms": 356.6,
+  "status": 404,
+  "ok": true
+ },
+ "stableenrich.dev": {
+  "latency_ms": 404.6,
+  "status": 405,
+  "ok": true
+ },
+ "business-frameworks.matryoshka-paradigms.workers.dev": {
+  "latency_ms": 481.0,
+  "status": 200,
+  "ok": true
+ },
+ "datasourcepulse.com": {
+  "latency_ms": 1162.7,
+  "status": 402,
+  "ok": true
+ },
+ "citation-tracker.pixelcove.co": {
+  "latency_ms": 938.9,
+  "status": 405,
+  "ok": true
+ },
+ "recipients-paywall.onrender.com": {
+  "latency_ms": 621.4,
+  "status": 402,
+  "ok": true
+ },
+ "api.groundtruths.xyz": {
+  "latency_ms": 506.7,
+  "status": 402,
+  "ok": true
+ },
+ "http-header-checker.underscoredone.com": {
+  "latency_ms": 747.5,
+  "status": 402,
+  "ok": true
+ },
+ "api.getemboss.ai": {
+  "latency_ms": 866.0,
+  "status": 402,
+  "ok": true
+ },
+ "otomo-world-id.vercel.app": {
+  "latency_ms": 763.2,
+  "status": 405,
+  "ok": true
+ },
+ "x402-crypto-data.vercel.app": {
+  "latency_ms": 2025.2,
+  "status": 402,
+  "ok": true
+ },
+ "sol-meme-intel.vercel.app": {
+  "latency_ms": 801.5,
+  "status": 402,
+  "ok": true
+ },
+ "m0.aiverall.com": {
+  "latency_ms": 1094.3,
+  "status": 405,
+  "ok": true
+ },
+ "deepl.x402.paywithlocus.com": {
+  "latency_ms": 742.6,
+  "status": 404,
+  "ok": true
+ },
+ "www.retcg.xyz": {
+  "latency_ms": 1755.7,
+  "status": 400,
+  "ok": true
+ },
+ "api.hyperextend.xyz": {
+  "latency_ms": 1839.0,
+  "status": 402,
+  "ok": true
+ },
+ "vending-machine-seven.vercel.app": {
+  "latency_ms": 774.0,
+  "status": 402,
+  "ok": true
+ },
+ "api.glianalabs.com": {
+  "latency_ms": 769.0,
+  "status": 402,
+  "ok": true
+ },
+ "proxy.suverse.io": {
+  "latency_ms": 2216.8,
+  "status": 402,
+  "ok": true
+ },
+ "spark-solana-oracle-production.up.railway.app": {
+  "latency_ms": 795.5,
+  "status": 402,
+  "ok": true
+ },
+ "weather.hugen.tokyo": {
+  "latency_ms": 449.6,
+  "status": 402,
+  "ok": true
+ },
+ "godlaws.com": {
+  "latency_ms": 1192.4,
+  "status": 402,
+  "ok": true
+ },
+ "mobilitychain.kr": {
+  "latency_ms": 738.3,
+  "status": 402,
+  "ok": true
+ },
+ "www.aidatatools.dev": {
+  "latency_ms": 880.1,
+  "status": 200,
+  "ok": true
+ },
+ "kbv-server-f7vfitmlkq-du.a.run.app": {
+  "latency_ms": 388.6,
+  "status": 402,
+  "ok": true
+ },
+ "squeeze.lonestaroracle.xyz": {
+  "latency_ms": 1029.8,
+  "status": 402,
+  "ok": true
+ },
+ "hl-tool.darren-pi.workers.dev": {
+  "latency_ms": 722.7,
+  "status": 402,
+  "ok": true
+ },
+ "handsel-mandate-demo.vercel.app": {
+  "latency_ms": 3332.2,
+  "status": 402,
+  "ok": true
+ },
+ "claim-grounding.prospectintel.workers.dev": {
+  "latency_ms": 365.9,
+  "status": 404,
+  "ok": true
+ },
+ "x402.ottoai.services": {
+  "latency_ms": 1001.2,
+  "status": 402,
+  "ok": true
+ },
+ "compress.codreanu.casa": {
+  "latency_ms": 1343.2,
+  "status": 404,
+  "ok": true
+ },
+ "api.limitguard.ai": {
+  "latency_ms": 1536.1,
+  "status": 402,
+  "ok": true
+ },
+ "myc-staging.crescadia.com": {
+  "latency_ms": 1045.1,
+  "status": 404,
+  "ok": true
+ },
+ "agent-endpoint-readiness.ryannelson2000.workers.dev": {
+  "latency_ms": 387.8,
+  "status": 404,
+  "ok": true
+ },
+ "obagents.vercel.app": {
+  "latency_ms": 549.7,
+  "status": 402,
+  "ok": true
+ },
+ "embed.gedx402.com": {
+  "latency_ms": 974.1,
+  "status": 402,
+  "ok": true
+ },
+ "meta-api-router.johntaylor1online.workers.dev": {
+  "latency_ms": 362.3,
+  "status": 402,
+  "ok": true
+ },
+ "chain.cyberwarex.com": {
+  "latency_ms": 2137.8,
+  "status": 402,
+  "ok": true
+ },
+ "mizan-bazar.higgsfield.app": {
+  "latency_ms": 2172.1,
+  "status": 402,
+  "ok": true
+ },
+ "curl-http-request.underscoredone.com": {
+  "latency_ms": 570.1,
+  "status": 402,
+  "ok": true
+ },
+ "dns-intel-api-production.up.railway.app": {
+  "latency_ms": 777.9,
+  "status": 402,
+  "ok": true
+ },
+ "dogdaycare.pages.dev": {
+  "latency_ms": 6018.1,
+  "status": 402,
+  "ok": true
+ },
+ "content.hugen.tokyo": {
+  "latency_ms": 364.2,
+  "status": 402,
+  "ok": true
+ },
+ "handsignd.com": {
+  "latency_ms": 838.9,
+  "status": 405,
+  "ok": true
+ },
+ "chess402.vercel.app": {
+  "latency_ms": 688.5,
+  "status": 405,
+  "ok": true
+ },
+ "api.agentcamo.xyz": {
+  "latency_ms": 620.4,
+  "status": 525,
+  "ok": true
+ },
+ "x402wordoftheday.vercel.app": {
+  "latency_ms": 816.8,
+  "status": 402,
+  "ok": true
+ },
+ "wallet-services-poc-clean.3hz-services.workers.dev": {
+  "latency_ms": 427.1,
+  "status": 402,
+  "ok": true
+ },
+ "api.bilbop.org": {
+  "latency_ms": 1665.9,
+  "status": 404,
+  "ok": true
+ },
+ "sicher.halowerk.com": {
+  "latency_ms": 1399.7,
+  "status": 402,
+  "ok": true
+ },
+ "print.api.williamrobinson.dev": {
+  "latency_ms": 845.8,
+  "status": 402,
+  "ok": true
+ },
+ "api.delx.ai": {
+  "latency_ms": 2916.4,
+  "status": 402,
+  "ok": true
+ },
+ "notary.forgemesh.io": {
+  "latency_ms": 919.3,
+  "status": 402,
+  "ok": true
+ },
+ "api.telemost.io": {
+  "latency_ms": 782.5,
+  "status": 402,
+  "ok": true
+ },
+ "goodsong.dev": {
+  "latency_ms": 802.6,
+  "status": 404,
+  "ok": true
+ },
+ "affiliate.pay.zeroclick.io": {
+  "latency_ms": 805.2,
+  "status": 402,
+  "ok": true
+ },
+ "postal.openverbs.com": {
+  "latency_ms": 961.6,
+  "status": 402,
+  "ok": true
+ },
+ "merchant-production-c224.up.railway.app": {
+  "latency_ms": 1553.8,
+  "status": 402,
+  "ok": true
+ },
+ "socialintel.dev": {
+  "latency_ms": 1527.4,
+  "status": 402,
+  "ok": true
+ },
+ "midway.lol": {
+  "latency_ms": 557.8,
+  "status": 404,
+  "ok": true
+ },
+ "kristo-intelligence-api.onrender.com": {
+  "latency_ms": 588.2,
+  "status": 402,
+  "ok": true
+ },
+ "locus.report": {
+  "latency_ms": 3971.8,
+  "status": 402,
+  "ok": true
+ },
+ "jev-x402.vercel.app": {
+  "latency_ms": 1254.4,
+  "status": 404,
+  "ok": true
+ },
+ "html.openverbs.com": {
+  "latency_ms": 994.8,
+  "status": 402,
+  "ok": true
+ },
+ "spawnxchange.com": {
+  "latency_ms": 979.7,
+  "status": 200,
+  "ok": true
+ },
+ "demo-house-two.vercel.app": {
+  "latency_ms": 1123.0,
+  "status": 405,
+  "ok": true
+ },
+ "api.useatelier.ai": {
+  "latency_ms": 831.8,
+  "status": 402,
+  "ok": true
+ },
+ "hackernews-data.underscoredone.com": {
+  "latency_ms": 669.1,
+  "status": 402,
+  "ok": true
+ },
+ "scout.hugen.tokyo": {
+  "latency_ms": 391.7,
+  "status": 402,
+  "ok": true
+ },
+ "pdf.openverbs.com": {
+  "latency_ms": 852.2,
+  "status": 402,
+  "ok": true
+ },
+ "x402.api.browser-use.com": {
+  "latency_ms": 1002.5,
+  "status": 402,
+  "ok": true
+ },
+ "x402-defi-signals.onrender.com": {
+  "latency_ms": 487.9,
+  "status": 402,
+  "ok": true
+ },
+ "the-stall.intuitek.ai": {
+  "latency_ms": 873.0,
+  "status": 402,
+  "ok": true
+ },
+ "labor.lonestaroracle.xyz": {
+  "latency_ms": 1083.5,
+  "status": 402,
+  "ok": true
+ },
+ "agent-commerce-factory-jm.austriaeast.cloudapp.azure.com": {
+  "latency_ms": 1317.7,
+  "status": 402,
+  "ok": true
+ },
+ "api.agentnewsstand.com": {
+  "latency_ms": 1028.4,
+  "status": 402,
+  "ok": true
+ },
+ "zoll.halowerk.com": {
+  "latency_ms": 1381.2,
+  "status": 402,
+  "ok": true
+ },
+ "clearcut-production-bcc0.up.railway.app": {
+  "latency_ms": 767.2,
+  "status": 404,
+  "ok": true
+ },
+ "rekt-ceo-brandification.onrender.com": {
+  "latency_ms": 622.0,
+  "status": 404,
+  "ok": true
+ },
+ "market.datapackvibe.com": {
+  "latency_ms": 1124.0,
+  "status": 405,
+  "ok": true
+ },
+ "opencrowd-services.srijithpoduval.workers.dev": {
+  "latency_ms": 1575.8,
+  "status": 402,
+  "ok": true
+ },
+ "machine.soundiq.io": {
+  "latency_ms": 1523.3,
+  "status": 404,
+  "ok": true
+ },
+ "funds.lonestaroracle.xyz": {
+  "latency_ms": 977.2,
+  "status": 402,
+  "ok": true
+ },
+ "cnvrt.ing": {
+  "latency_ms": null,
+  "status": null,
+  "ok": false,
+  "error": "HTTPSConnectionPool(host='cnvrt.ing', port=443): Max retries exceeded with url: /api/analyze-image (Caused by SSLError(S"
+ },
+ "api.craigmbrown.com": {
+  "latency_ms": 699.5,
+  "status": 402,
+  "ok": true
+ },
+ "property.payapi.market": {
+  "latency_ms": 825.5,
+  "status": 402,
+  "ok": true
+ },
+ "stable-media-git-ben-upgrade-agentcash-rou-02e093-merit-systems.vercel.app": {
+  "latency_ms": 936.5,
+  "status": 405,
+  "ok": true
+ },
+ "liquid-logic-agent-audit.vercel.app": {
+  "latency_ms": 1396.6,
+  "status": 402,
+  "ok": true
+ },
+ "5108-x402.community.iamstarchild.com": {
+  "latency_ms": 699.4,
+  "status": 402,
+  "ok": true
+ },
+ "zlurp.ai": {
+  "latency_ms": 1144.7,
+  "status": 404,
+  "ok": true
+ },
+ "machineobserver.com": {
+  "latency_ms": 1610.9,
+  "status": 402,
+  "ok": true
+ },
+ "www.securaw.com": {
+  "latency_ms": 1580.6,
+  "status": 404,
+  "ok": true
+ },
+ "topagentx402.vercel.app": {
+  "latency_ms": 1068.4,
+  "status": 402,
+  "ok": true
+ },
+ "claudelines.com": {
+  "latency_ms": 944.4,
+  "status": 404,
+  "ok": true
+ },
+ "api.gondola-ai.com": {
+  "latency_ms": 1149.5,
+  "status": 405,
+  "ok": true
+ },
+ "www.capminal.ai": {
+  "latency_ms": 771.8,
+  "status": 402,
+  "ok": true
+ },
+ "orbylon.com": {
+  "latency_ms": 1428.4,
+  "status": 405,
+  "ok": true
+ },
+ "depscout.vercel.app": {
+  "latency_ms": 740.5,
+  "status": 405,
+  "ok": true
+ },
+ "data.rcqsignals.com": {
+  "latency_ms": 621.4,
+  "status": 402,
+  "ok": true
+ },
+ "doc-extract-api.thestarboy9696-4ef.workers.dev": {
+  "latency_ms": 1937.7,
+  "status": 402,
+  "ok": true
+ },
+ "humanmirror.fr": {
+  "latency_ms": 1933.5,
+  "status": 200,
+  "ok": true
+ },
+ "x402-scalogy-production.up.railway.app": {
+  "latency_ms": 1938.4,
+  "status": 402,
+  "ok": true
+ },
+ "dns.halowerk.com": {
+  "latency_ms": 1447.2,
+  "status": 402,
+  "ok": true
+ },
+ "graphadvocate.com": {
+  "latency_ms": 913.0,
+  "status": 402,
+  "ok": true
+ },
+ "openwebninja-x402.vercel.app": {
+  "latency_ms": 789.6,
+  "status": 402,
+  "ok": true
+ },
+ "encoding.openverbs.com": {
+  "latency_ms": 848.0,
+  "status": 402,
+  "ok": true
+ },
+ "agenttools-hub.vercel.app": {
+  "latency_ms": 2426.4,
+  "status": 402,
+  "ok": true
+ },
+ "api.pdfzen.site": {
+  "latency_ms": 530.8,
+  "status": 404,
+  "ok": true
+ },
+ "ax1-new.vercel.app": {
+  "latency_ms": 1256.7,
+  "status": 405,
+  "ok": true
+ },
+ "defi-api.agenticfi.wtf": {
+  "latency_ms": 652.8,
+  "status": 402,
+  "ok": true
+ },
+ "mcp.onchaindiligence.com": {
+  "latency_ms": 1492.1,
+  "status": 400,
+  "ok": true
+ },
+ "costpulse.waltsoft.net": {
+  "latency_ms": 1081.0,
+  "status": 402,
+  "ok": true
+ },
+ "exec.speccy.cloud": {
+  "latency_ms": 1445.7,
+  "status": 404,
+  "ok": true
+ },
+ "hirescrape.com": {
+  "latency_ms": 539.8,
+  "status": 402,
+  "ok": true
+ },
+ "rugshield-x402.fly.dev": {
+  "latency_ms": 726.1,
+  "status": 402,
+  "ok": true
+ },
+ "trust.nsgoods.org": {
+  "latency_ms": 1076.9,
+  "status": 402,
+  "ok": true
+ },
+ "places.use.x402atlas.com": {
+  "latency_ms": 1146.4,
+  "status": 402,
+  "ok": true
+ },
+ "format.openverbs.com": {
+  "latency_ms": 753.3,
+  "status": 402,
+  "ok": true
+ },
+ "phone.openverbs.com": {
+  "latency_ms": 890.9,
+  "status": 402,
+  "ok": true
+ },
+ "collectablespulse.theaslangroupllc.com": {
+  "latency_ms": 516.1,
+  "status": 402,
+  "ok": true
+ },
+ "eltociear-tokenguard.hf.space": {
+  "latency_ms": 1187.2,
+  "status": 402,
+  "ok": true
+ },
+ "oc-person-c.nvprotas.name": {
+  "latency_ms": 2489.5,
+  "status": 402,
+  "ok": true
+ },
+ "openrelay.hggfffdfy687.workers.dev": {
+  "latency_ms": 1417.0,
+  "status": 405,
+  "ok": true
+ },
+ "hermesplant.com": {
+  "latency_ms": 1118.3,
+  "status": 402,
+  "ok": true
+ },
+ "market.memoryapi.org": {
+  "latency_ms": 950.4,
+  "status": 402,
+  "ok": true
+ },
+ "extract.tollkit.dev": {
+  "latency_ms": 543.2,
+  "status": 404,
+  "ok": true
+ },
+ "agentdataapi.onrender.com": {
+  "latency_ms": 449.8,
+  "status": 402,
+  "ok": true
+ },
+ "pennyregwatch.com": {
+  "latency_ms": 791.2,
+  "status": 402,
+  "ok": true
+ },
+ "dmarc-lookup.underscoredone.com": {
+  "latency_ms": 657.7,
+  "status": 402,
+  "ok": true
+ },
+ "work.tryinferrail.com": {
+  "latency_ms": 547.8,
+  "status": 405,
+  "ok": true
+ },
+ "tensegrity-control-mesh.onrender.com": {
+  "latency_ms": 720.8,
+  "status": 405,
+  "ok": true
+ },
+ "agents.rtrvr.ai": {
+  "latency_ms": 646.0,
+  "status": 404,
+  "ok": true
+ },
+ "x402.fenixfoundry.com": {
+  "latency_ms": 690.4,
+  "status": 402,
+  "ok": true
+ },
+ "vme5zb7fll.execute-api.us-east-1.amazonaws.com": {
+  "latency_ms": 1106.1,
+  "status": 404,
+  "ok": true
+ },
+ "api.seerium.xyz": {
+  "latency_ms": 739.5,
+  "status": 402,
+  "ok": true
+ },
+ "agentkit0.com": {
+  "latency_ms": 752.3,
+  "status": 404,
+  "ok": true
+ },
+ "dns-whois-lookup.underscoredone.com": {
+  "latency_ms": 542.2,
+  "status": 402,
+  "ok": true
+ },
+ "creditcard.openverbs.com": {
+  "latency_ms": 837.6,
+  "status": 402,
+  "ok": true
+ },
+ "agents.driftflight.com": {
+  "latency_ms": 555.6,
+  "status": 404,
+  "ok": true
+ },
+ "crosscheckapi.com": {
+  "latency_ms": 716.4,
+  "status": 404,
+  "ok": true
+ },
+ "finance.toonhaus.dev": {
+  "latency_ms": 1114.1,
+  "status": 402,
+  "ok": true
+ },
+ "thumbnailcreator.ai": {
+  "latency_ms": 668.8,
+  "status": 405,
+  "ok": true
+ },
+ "vu.velvetdao.xyz": {
+  "latency_ms": 1029.6,
+  "status": 405,
+  "ok": true
+ },
+ "travel-agent.forgemesh.io": {
+  "latency_ms": 926.5,
+  "status": 402,
+  "ok": true
+ },
+ "bytemine.pay.zeroclick.io": {
+  "latency_ms": 822.5,
+  "status": 404,
+  "ok": true
+ },
+ "soren.com": {
+  "latency_ms": 1458.1,
+  "status": 402,
+  "ok": true
+ },
+ "icp-agent-marketplace.ngrok.app": {
+  "latency_ms": 717.4,
+  "status": 402,
+  "ok": true
+ },
+ "zaref.dev": {
+  "latency_ms": 1776.2,
+  "status": 402,
+  "ok": true
+ },
+ "api.vrsai.tech": {
+  "latency_ms": 1037.5,
+  "status": 405,
+  "ok": true
+ },
+ "webtools402.176-109-107-191.sslip.io": {
+  "latency_ms": 1841.0,
+  "status": 402,
+  "ok": true
+ },
+ "jmt-x402-proxy.jmthomasofficial.workers.dev": {
+  "latency_ms": 860.1,
+  "status": 402,
+  "ok": true
+ },
+ "api.freaks.one": {
+  "latency_ms": 1554.9,
+  "status": 402,
+  "ok": true
+ },
+ "open-research-agent.com": {
+  "latency_ms": 1601.3,
+  "status": 404,
+  "ok": true
+ },
+ "api.rxatlas.dev": {
+  "latency_ms": 1016.8,
+  "status": 402,
+  "ok": true
+ },
+ "x402-next-mainnet-wheat.vercel.app": {
+  "latency_ms": 1600.9,
+  "status": 402,
+  "ok": true
+ },
+ "data.greeneris.io": {
+  "latency_ms": 1070.6,
+  "status": 402,
+  "ok": true
+ },
+ "masterclaw.dev": {
+  "latency_ms": 1402.5,
+  "status": 402,
+  "ok": true
+ },
+ "web-production-7442b.up.railway.app": {
+  "latency_ms": 1109.7,
+  "status": 500,
+  "ok": true
+ },
+ "clearcut.clawca.sh": {
+  "latency_ms": 629.6,
+  "status": 404,
+  "ok": true
+ },
+ "archtools.dev": {
+  "latency_ms": 1924.2,
+  "status": 402,
+  "ok": true
+ },
+ "gdelt.use.x402atlas.com": {
+  "latency_ms": 2214.3,
+  "status": 402,
+  "ok": true
+ },
+ "gate-network.matsutake-lab.workers.dev": {
+  "latency_ms": 848.5,
+  "status": 404,
+  "ok": true
+ },
+ "api.wallettriage.com": {
+  "latency_ms": 1582.4,
+  "status": 402,
+  "ok": true
+ },
+ "asia.lonestaroracle.xyz": {
+  "latency_ms": 1110.4,
+  "status": 402,
+  "ok": true
+ },
+ "iposignal-dashboard-372lo399x-waltermelonlangs-projects.vercel.app": {
+  "latency_ms": 2362.2,
+  "status": 402,
+  "ok": true
+ },
+ "browser.gedx402.com": {
+  "latency_ms": 989.0,
+  "status": 402,
+  "ok": true
+ },
+ "api.suverse.io": {
+  "latency_ms": 2028.6,
+  "status": 405,
+  "ok": true
+ },
+ "audit-tools.ai": {
+  "latency_ms": 1171.8,
+  "status": 402,
+  "ok": true
+ },
+ "imgopt.use.x402atlas.com": {
+  "latency_ms": 1416.7,
+  "status": 405,
+  "ok": true
+ },
+ "intel.halowerk.com": {
+  "latency_ms": 1494.7,
+  "status": 402,
+  "ok": true
+ },
+ "gaming.halowerk.com": {
+  "latency_ms": 1484.8,
+  "status": 402,
+  "ok": true
+ },
+ "bimi-checker.underscoredone.com": {
+  "latency_ms": 689.7,
+  "status": 402,
+  "ok": true
+ },
+ "agent.atinamos.co.uk": {
+  "latency_ms": 879.9,
+  "status": 405,
+  "ok": true
+ },
+ "api.redactedpartners.com": {
+  "latency_ms": 546.0,
+  "status": 405,
+  "ok": true
+ },
+ "mainnet-c1b2ed1---parquetharmonize-v01-x402-h2k3kompva-pd.a.run.app": {
+  "latency_ms": 814.9,
+  "status": 405,
+  "ok": true
+ },
+ "library.intel.rallylive.ca": {
+  "latency_ms": 907.8,
+  "status": 402,
+  "ok": true
+ },
+ "api.nohumans.directory": {
+  "latency_ms": 1287.3,
+  "status": 402,
+  "ok": true
+ },
+ "regex.openverbs.com": {
+  "latency_ms": 777.8,
+  "status": 402,
+  "ok": true
+ },
+ "api.urbangametheory.xyz": {
+  "latency_ms": 559.4,
+  "status": 404,
+  "ok": true
+ },
+ "stablefinance.dev": {
+  "latency_ms": 578.4,
+  "status": 402,
+  "ok": true
+ },
+ "quantum.halowerk.com": {
+  "latency_ms": 1419.6,
+  "status": 402,
+  "ok": true
+ },
+ "smartmoney.lonestaroracle.xyz": {
+  "latency_ms": 1031.8,
+  "status": 402,
+  "ok": true
+ },
+ "x402.lucidcove.org": {
+  "latency_ms": 1045.9,
+  "status": 402,
+  "ok": true
+ },
+ "k-data-x402-production.theblack1022.workers.dev": {
+  "latency_ms": 790.8,
+  "status": 402,
+  "ok": true
+ },
+ "house-bond-mainnet.onrender.com": {
+  "latency_ms": 472.9,
+  "status": 404,
+  "ok": true
+ },
+ "api.recoupable.dev": {
+  "latency_ms": 2422.0,
+  "status": 402,
+  "ok": true
+ },
+ "x402-api-24223879872.us-east1.run.app": {
+  "latency_ms": 526.9,
+  "status": 405,
+  "ok": true
+ },
+ "route-catalog.krimskrams.xyz": {
+  "latency_ms": 1222.4,
+  "status": 402,
+  "ok": true
+ },
+ "cell001-media-geometry.ligeiastudio-aitools.workers.dev": {
+  "latency_ms": 530.6,
+  "status": 402,
+  "ok": true
+ },
+ "app.aabc.app": {
+  "latency_ms": 1412.6,
+  "status": 402,
+  "ok": true
+ },
+ "api-production-8785.up.railway.app": {
+  "latency_ms": 1073.0,
+  "status": 200,
+  "ok": true
+ },
+ "www.tereno.xyz": {
+  "latency_ms": 887.3,
+  "status": 402,
+  "ok": true
+ },
+ "x402.shizu.me": {
+  "latency_ms": 2530.9,
+  "status": 402,
+  "ok": true
+ },
+ "eltociear-skill-audit.hf.space": {
+  "latency_ms": 1022.3,
+  "status": 402,
+  "ok": true
+ },
+ "distribution.openverbs.com": {
+  "latency_ms": 851.9,
+  "status": 402,
+  "ok": true
+ },
+ "api.kadec0.xyz": {
+  "latency_ms": 679.7,
+  "status": 402,
+  "ok": true
+ },
+ "energy.halowerk.com": {
+  "latency_ms": 1693.5,
+  "status": 402,
+  "ok": true
+ },
+ "x402-fuelprice-poc.theliminalguy.workers.dev": {
+  "latency_ms": 1118.2,
+  "status": 402,
+  "ok": true
+ },
+ "x402-data-api.x402agent.workers.dev": {
+  "latency_ms": 363.7,
+  "status": 402,
+  "ok": true
+ },
+ "wallet.openverbs.com": {
+  "latency_ms": 935.6,
+  "status": 402,
+  "ok": true
+ },
+ "agent-drift-api-production.up.railway.app": {
+  "latency_ms": 740.8,
+  "status": 401,
+  "ok": true
+ },
+ "abi.cyberwarex.com": {
+  "latency_ms": 1383.2,
+  "status": 402,
+  "ok": true
+ },
+ "sitemap-url-extractor.underscoredone.com": {
+  "latency_ms": 537.0,
+  "status": 402,
+  "ok": true
+ },
+ "api.atms.nathanlidurin.com": {
+  "latency_ms": 814.9,
+  "status": 402,
+  "ok": true
+ },
+ "math.openverbs.com": {
+  "latency_ms": 858.6,
+  "status": 402,
+  "ok": true
+ },
+ "x402-ai-starter.vercel.app": {
+  "latency_ms": 2076.2,
+  "status": 402,
+  "ok": true
+ },
+ "observer.137-184-67-179.sslip.io": {
+  "latency_ms": 1405.0,
+  "status": 402,
+  "ok": true
+ },
+ "ez-qr-generator.com": {
+  "latency_ms": 715.3,
+  "status": 200,
+  "ok": true
+ },
+ "agents.dyoeway.org": {
+  "latency_ms": 1556.8,
+  "status": 402,
+  "ok": true
+ },
+ "api.x402-engine.com": {
+  "latency_ms": 1041.9,
+  "status": 405,
+  "ok": true
+ },
+ "x402-market.kore-app.workers.dev": {
+  "latency_ms": 725.3,
+  "status": 402,
+  "ok": true
+ },
+ "jtifhcvbgxqwlywugvjv.supabase.co": {
+  "latency_ms": 834.8,
+  "status": 402,
+  "ok": true
+ },
+ "macaddress.openverbs.com": {
+  "latency_ms": 947.2,
+  "status": 402,
+  "ok": true
+ },
+ "payable.nsgoods.org": {
+  "latency_ms": 1106.9,
+  "status": 402,
+  "ok": true
+ },
+ "finance-api.kdlcfa.workers.dev": {
+  "latency_ms": 1024.6,
+  "status": 402,
+  "ok": true
+ },
+ "merchant-audit.clankerceo.workers.dev": {
+  "latency_ms": 340.0,
+  "status": 402,
+  "ok": true
+ },
+ "url-uptime-checker.underscoredone.com": {
+  "latency_ms": 737.1,
+  "status": 402,
+  "ok": true
+ },
+ "ads.forgemesh.io": {
+  "latency_ms": 1055.2,
+  "status": 402,
+  "ok": true
+ },
+ "api.robinx.io": {
+  "latency_ms": 966.4,
+  "status": 402,
+  "ok": true
+ },
+ "api.run402.com": {
+  "latency_ms": 1432.1,
+  "status": 404,
+  "ok": true
+ },
+ "currency-api-production-4a8d.up.railway.app": {
+  "latency_ms": 901.7,
+  "status": 402,
+  "ok": true
+ },
+ "nanobanana-x402.fly.dev": {
+  "latency_ms": 847.4,
+  "status": 404,
+  "ok": true
+ },
+ "automatoncolony.xyz": {
+  "latency_ms": 1613.4,
+  "status": 402,
+  "ok": true
+ },
+ "marketdata.use.x402atlas.com": {
+  "latency_ms": 1551.6,
+  "status": 402,
+  "ok": true
+ },
+ "flights.use.x402atlas.com": {
+  "latency_ms": 1512.2,
+  "status": 402,
+  "ok": true
+ },
+ "attest.tollkit.dev": {
+  "latency_ms": 565.5,
+  "status": 404,
+  "ok": true
+ },
+ "kino402.com": {
+  "latency_ms": 835.6,
+  "status": 402,
+  "ok": true
+ },
+ "euroland.halowerk.com": {
+  "latency_ms": 1222.6,
+  "status": 404,
+  "ok": true
+ },
+ "safe.cyberwarex.com": {
+  "latency_ms": 1369.4,
+  "status": 402,
+  "ok": true
+ },
+ "rest.staging.wagmi.productions": {
+  "latency_ms": 2060.7,
+  "status": 402,
+  "ok": true
+ },
+ "trabotpro.it": {
+  "latency_ms": 1871.3,
+  "status": 402,
+  "ok": true
+ },
+ "tools.halowerk.com": {
+  "latency_ms": 2703.8,
+  "status": 402,
+  "ok": true
+ },
+ "ausref.dev": {
+  "latency_ms": 1916.2,
+  "status": 402,
+  "ok": true
+ },
+ "x402.coinstats.app": {
+  "latency_ms": 913.5,
+  "status": 402,
+  "ok": true
+ },
+ "compute.lonestaroracle.xyz": {
+  "latency_ms": 1308.4,
+  "status": 402,
+  "ok": true
+ },
+ "agenteconomy.report": {
+  "latency_ms": 1701.6,
+  "status": 400,
+  "ok": true
+ },
+ "workbot1.oddsys.org": {
+  "latency_ms": 5454.4,
+  "status": 405,
+  "ok": true
+ },
+ "gofrantic.com": {
+  "latency_ms": 1831.5,
+  "status": 402,
+  "ok": true
+ },
+ "hyperliquid-x402.rajdeep-dutta-in.workers.dev": {
+  "latency_ms": 1878.1,
+  "status": 402,
+  "ok": true
+ },
+ "tick.hugen.tokyo": {
+  "latency_ms": 2107.9,
+  "status": 402,
+  "ok": true
+ },
+ "4yearcycle.com": {
+  "latency_ms": 2125.3,
+  "status": 402,
+  "ok": true
+ },
+ "earthquakes.use.x402atlas.com": {
+  "latency_ms": 2510.9,
+  "status": 402,
+  "ok": true
+ }
+}

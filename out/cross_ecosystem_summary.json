@@ -1,0 +1,11 @@
+{
+  "x402_bazaar_total_listings": 19091,
+  "x402_bazaar_unique_seller_hosts": 2033,
+  "x402_bazaar_unique_payto_addresses": 1755,
+  "mcp_total_records_all_versions": 124487,
+  "mcp_total_servers_latest": 37173,
+  "mcp_unique_remote_hosts": 15333,
+  "overlap_hosts_mcp_and_x402": 361,
+  "overlap_pct_of_mcp_hosts": 2.35,
+  "mcp_servers_mentioning_x402_in_text": 1248
+}

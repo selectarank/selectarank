@@ -1,0 +1,280 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SelectaRank — x402 &amp; MCP selectability rankings</title>
+<meta name="description" content="Public rankings of x402 Bazaar and MCP Registry listings, scored on six factors that move an AI agent's probability of picking one tool over another. Free shields.io badges, no login.">
+<style>
+  :root{
+    --bg:#0b0c0f; --panel:#14161b; --panel2:#1b1e25; --text:#e8e9ec; --muted:#9aa0ab;
+    --accent:#5eead4; --accent2:#a78bfa; --line:#262a33;
+    --brightgreen:#4c1; --green:#97ca00; --yellow:#dfb317; --orange:#fe7d37; --red:#e05d44;
+  }
+  @media (prefers-color-scheme: light){
+    :root{ --bg:#f7f7f8; --panel:#ffffff; --panel2:#f0f1f3; --text:#15171c; --muted:#5b6270; --line:#e4e6ea; }
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;line-height:1.6;}
+  .wrap{max-width:1040px;margin:0 auto;padding:0 16px;}
+  header.hero{padding:56px 0 28px;border-bottom:1px solid var(--line);}
+  .brand{display:flex;align-items:center;gap:10px;font-weight:700;font-size:20px;letter-spacing:.02em;}
+  .brand .dot{width:10px;height:10px;border-radius:50%;background:linear-gradient(135deg,var(--accent),var(--accent2));flex:none;}
+  h1{font-size:clamp(26px,4vw,40px);margin:18px 0 10px;}
+  .sub{color:var(--muted);max-width:680px;font-size:16px;}
+  .asof{color:var(--muted);font-size:14px;margin-top:18px;}
+  .asof a{color:var(--accent);}
+  .stat-row{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin-top:24px;}
+  .stat{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px;}
+  .stat .n{font-size:24px;font-weight:700;font-variant-numeric:tabular-nums;}
+  .stat .l{color:var(--muted);font-size:14px;margin-top:4px;}
+  section{padding:36px 0;border-bottom:1px solid var(--line);}
+  section:last-of-type{border-bottom:none;}
+  h2{font-size:20px;margin-bottom:6px;}
+  h3{font-size:15px;}
+  p{font-size:15px;}
+  .lede{color:var(--muted);max-width:720px;font-size:15px;margin-top:0;}
+  .table-wrap{overflow-x:auto;border:1px solid var(--line);border-radius:12px;-webkit-overflow-scrolling:touch;}
+  table{width:100%;border-collapse:collapse;font-size:14px;min-width:640px;}
+  th,td{text-align:left;padding:10px 8px;border-bottom:1px solid var(--line);white-space:nowrap;}
+  th{color:var(--muted);font-weight:600;font-size:14px;text-transform:uppercase;letter-spacing:.04em;background:var(--panel);position:sticky;top:0;}
+  td.rank{color:var(--muted);width:32px;}
+  td.score{font-weight:700;font-variant-numeric:tabular-nums;}
+  td.desc{white-space:normal;}
+  .badge-pill{display:inline-block;padding:2px 8px;border-radius:999px;font-size:14px;font-weight:700;color:#08110d;}
+  .t-brightgreen{background:var(--brightgreen);}
+  .t-green{background:var(--green);}
+  .t-yellow{background:var(--yellow);color:#2b2100;}
+  .t-orange{background:var(--orange);color:#2b1400;}
+  .t-red{background:var(--red);color:#2b0a06;}
+  .host{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:14px;color:var(--muted);}
+  .desc-cell{color:var(--muted);font-size:14px;max-width:420px;overflow:hidden;text-overflow:ellipsis;}
+  .badge-link{font-size:14px;color:var(--accent);text-decoration:none;white-space:nowrap;}
+  .badge-link:hover{text-decoration:underline;}
+  .table-note{color:var(--muted);font-size:14px;margin-top:10px;}
+  .notice{background:var(--panel);border:1px solid var(--line);border-left:3px solid var(--accent2);border-radius:8px;padding:14px 16px;font-size:14px;color:var(--muted);margin-bottom:18px;}
+  .notice a{color:var(--accent);}
+  .method-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin-top:18px;}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px;}
+  .card h3{margin:0 0 6px;}
+  .card .w{color:var(--muted);font-weight:400;font-size:14px;}
+  .card p{margin:0;color:var(--muted);font-size:14px;}
+  .facts{margin:18px 0 0;padding:0;list-style:none;display:grid;gap:10px;}
+  .facts li{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:12px 14px;font-size:14px;color:var(--muted);}
+  .facts b{color:var(--text);}
+  .cite{color:var(--muted);font-size:14px;margin-top:20px;}
+  .cite a{color:var(--accent);}
+  pre{background:var(--panel2);border:1px solid var(--line);border-radius:10px;padding:14px;overflow-x:auto;font-size:14px;}
+  code{background:var(--panel2);padding:1px 6px;border-radius:6px;font-size:14px;}
+  pre code{background:none;padding:0;font-size:14px;}
+  .cta{background:linear-gradient(135deg,rgba(94,234,212,.12),rgba(167,139,250,.12));border:1px solid var(--line);border-radius:16px;padding:28px;}
+  .cta h2{margin:0 0 6px;}
+  .plans{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin:18px 0;}
+  .plan{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px;}
+  .plan .price{font-size:22px;font-weight:700;margin:2px 0 8px;}
+  .plan ul{margin:8px 0 0;padding-left:18px;font-size:14px;color:var(--muted);}
+  .plan ul li{margin:4px 0;}
+  .btn{display:inline-block;background:var(--text);color:var(--bg);padding:10px 18px;border-radius:10px;font-weight:700;text-decoration:none;font-size:14px;margin-top:6px;}
+  .fineprint{color:var(--muted);font-size:14px;margin-top:12px;}
+  footer{padding:28px 0 60px;color:var(--muted);font-size:14px;}
+  footer a{color:var(--accent);}
+  .placeholder{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;background:var(--panel2);padding:1px 6px;border-radius:6px;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="hero">
+    <div class="brand"><span class="dot"></span> SelectaRank</div>
+    <h1>Would an AI agent pick your listing over the next one in the list?</h1>
+    <p class="sub">SelectaRank scores every paid listing in the <strong>x402 Bazaar</strong> and the
+      <strong>MCP Registry</strong> on six factors with a documented effect on how often an autonomous
+      agent selects one tool over a similar one: speed, description quality, price, track record,
+      freshness, and metadata completeness. Scores are a first-pass estimate computed from public data —
+      not a certification. See <a href="#method" style="color:var(--accent)">Methodology</a>.</p>
+    <div class="stat-row" id="stat-row"></div>
+    <p class="asof" id="asof-line"></p>
+  </header>
+
+  <section id="method">
+    <h2>What we measure, and why</h2>
+    <p class="lede">Each factor below is weighted by the size of its measured effect on agent tool-selection
+      probability, per the cited studies and per x402 Bazaar's own documented ranking logic. Full derivation:
+      <code>ops/S1/scorer.py</code> and
+      <code>research_notes/財布を持つエージェント収益化調査/02_discovery_and_selection.md</code>.</p>
+    <div class="method-grid">
+      <div class="card"><h3>Speed <span class="w">(25%)</span></h3>
+        <p>Measured response latency. In simulated agent marketplaces, the first offer presented is picked
+        60–100% of the time, and speed is weighted roughly 10–30x more heavily than quality
+        (<em>Magentic Marketplace</em>, arXiv:2510.25779).</p></div>
+      <div class="card"><h3>Description <span class="w">(25%)</span></h3>
+        <p>Length, specificity, and structure of the listed description. Description style alone can shift
+        tool usage by up to 10x (arXiv:2605.23916); rewriting a description for the use case shifted
+        selection rate by +3.7 to +14.9 points in controlled tests (ACES, arXiv:2508.02630).</p></div>
+      <div class="card"><h3>Price <span class="w">(20%)</span></h3>
+        <p>Percentile rank within the same category. Estimated price elasticity of roughly −1.6 to −2.2 —
+        cheaper listings get picked more often, all else equal (ACES, arXiv:2508.02630).</p></div>
+      <div class="card"><h3>Track record <span class="w">(15%)</span></h3>
+        <p>Calls and unique payers over the trailing 30 days. This is also x402 Bazaar's own native ranking
+        signal (docs.cdp.coinbase.com/x402/bazaar).</p></div>
+      <div class="card"><h3>Freshness <span class="w">(5%)</span></h3>
+        <p>Days since the listing was last updated. A stale listing reads as abandoned to both agents and
+        the humans configuring them.</p></div>
+      <div class="card"><h3>Metadata <span class="w">(10%)</span></h3>
+        <p>Presence of output examples, a response schema, and the number of supported payment networks.</p></div>
+    </div>
+    <p class="cite">This is not a validated predictive model — it is a first-order approximation built from
+      observable proxy signals, weighted by effect sizes reported in the cited research. Weights and formula
+      are open in <code>ops/S1/scorer.py</code>.</p>
+  </section>
+
+  <section id="market">
+    <h2>The market, measured</h2>
+    <p class="lede">Two independent, public, unauthenticated APIs — collected directly, not estimated.</p>
+    <ul class="facts" id="facts-list"></ul>
+  </section>
+
+  <section id="ranking">
+    <h2>Ranking (top and bottom of the scored sample)</h2>
+    <div class="notice">
+      Scores are an automated estimate computed from public metadata (listing text, HTTP response timing,
+      pricing, and 30-day activity where available). They are not a certification, and a low score does not
+      mean a service is broken, unsafe, or low quality — most often it just means the listing's metadata
+      isn't yet easy for an agent to parse. If you believe your listing was scored on stale or incorrect
+      data, or you want it removed from this page, contact
+      <a href="mailto:selectarank@sales.tosaka-office.jp">selectarank@sales.tosaka-office.jp</a>.
+    </div>
+    <div class="table-wrap">
+      <table>
+        <thead><tr><th>#</th><th>Score</th><th>Host</th><th>Badge</th><th>Description</th></tr></thead>
+        <tbody id="rank-body"></tbody>
+      </table>
+    </div>
+    <p class="table-note" id="table-note"></p>
+  </section>
+
+  <section id="badges">
+    <h2>Add your badge</h2>
+    <p class="lede">Every scored host gets a static, shields.io-compatible JSON endpoint — free to embed,
+      refreshed whenever this ranking is recomputed. The <strong>Badge</strong> column above links to each
+      host's file directly, at the relative path <code>badges/&lt;slug&gt;.json</code> (this build mirrors
+      <code>badge/out/</code> into <code>site/badges/</code>). A host's slug is its hostname with dots
+      turned into hyphens, e.g. <code>api.example.com</code> → <code>api-example-com.json</code>. When
+      several listings share a host, the badge uses that host's best-scoring listing.</p>
+    <p class="lede">Point
+      <a href="https://shields.io/" target="_blank" rel="noopener">shields.io</a>'s generic "endpoint" badge
+      at your file to render a live score badge anywhere Markdown or HTML is allowed:</p>
+    <pre><code>![SelectaRank score](https://img.shields.io/endpoint?url=https://selectarank.vercel.app/badges/api-example-com.json)</code></pre>
+    <pre><code>[![SelectaRank score](https://img.shields.io/endpoint?url=https://selectarank.vercel.app/badges/api-example-com.json)](https://selectarank.vercel.app/)</code></pre>
+    <p class="fineprint">Replace <span class="placeholder">api-example-com</span> with your own slug
+      (hostname with dots turned into hyphens).</p>
+  </section>
+
+  <section id="cta">
+    <div class="cta">
+      <h2>Want to move up the ranking?</h2>
+      <p class="lede">A paid diagnosis gives you the full six-axis breakdown for your listing, plus concrete,
+        specific rewrite suggestions — not just "improve your description."</p>
+      <div class="plans">
+        <div class="plan">
+          <h3>Quick Fix</h3>
+          <div class="price">$9</div>
+          <ul>
+            <li>Full six-axis score breakdown + percentile rank</li>
+            <li>3 rewritten description drafts (current vs. proposed)</li>
+            <li>Price positioning within your category</li>
+            <li>Schema / output-example gap checklist</li>
+          </ul>
+        </div>
+        <div class="plan">
+          <h3>Full Audit</h3>
+          <div class="price">$79 <span style="font-size:14px;color:var(--muted);font-weight:400;">one-time</span></div>
+          <ul>
+            <li>Everything in Quick Fix</li>
+            <li>Side-by-side comparison with the top 5 in your category</li>
+            <li>Latency bottleneck review</li>
+            <li>Async written feedback</li>
+          </ul>
+        </div>
+        <div class="plan">
+          <h3>Ongoing monitoring</h3>
+          <div class="price">$29 <span style="font-size:14px;color:var(--muted);font-weight:400;">/ month</span></div>
+          <ul>
+            <li>Everything in Full Audit</li>
+            <li>Monthly re-scoring</li>
+            <li>Score trend over time</li>
+          </ul>
+        </div>
+      </div>
+      <a class="btn" href="mailto:selectarank@sales.tosaka-office.jp?subject=SelectaRank%20diagnosis%20request&amp;body=Service%20URL%3A%20">Request your diagnosis →</a>
+      <p class="fineprint">Pricing is provisional. Email us your service URL and we will confirm scope, price and
+        payment method (USDC on Base or card) before any work starts.</p>
+    </div>
+  </section>
+
+  <footer>
+    Sources: x402 Bazaar discovery API
+    (<a href="https://docs.cdp.coinbase.com/x402/bazaar" target="_blank" rel="noopener">docs.cdp.coinbase.com/x402/bazaar</a>) ·
+    MCP Registry (<a href="https://registry.modelcontextprotocol.io" target="_blank" rel="noopener">registry.modelcontextprotocol.io</a>).
+    Both are public, unauthenticated APIs; collection timestamps are recorded in <code>ops/S1/STATUS.md</code>.
+    Scoring methodology: <code>ops/S1/scorer.py</code>.
+    Questions, corrections, or delisting requests: <a href="mailto:selectarank@sales.tosaka-office.jp">selectarank@sales.tosaka-office.jp</a>.
+  </footer>
+</div>
+<script id="selectarank-data" type="application/json">{"stats": [{"n": "19,091", "label": "x402 Bazaar listings"}, {"n": "2,033", "label": "Unique seller hosts"}, {"n": "37,173", "label": "MCP Registry servers"}, {"n": "2.35–3.36%", "label": "MCP servers already x402-ready"}], "facts": ["<b>x402 Bazaar:</b> 19,091 listings across 2,033 unique seller hosts (avg 9.4 listings/host &mdash; concentrated among a small set of hosts) and 1,755 unique payTo addresses. Source: <a href='https://docs.cdp.coinbase.com/x402/bazaar' target='_blank' rel='noopener'>https://docs.cdp.coinbase.com/x402/bazaar</a>.", "<b>MCP Registry:</b> 37,173 servers on their latest version (124,487 records across all versions). Source: <a href='https://registry.modelcontextprotocol.io/openapi.yaml' target='_blank' rel='noopener'>https://registry.modelcontextprotocol.io/openapi.yaml</a>.", "<b>x402 readiness inside MCP:</b> only 361 MCP servers (2.35% by hostname match against x402 Bazaar) already accept x402 payments; 1,248 more (3.36%) mention &ldquo;x402&rdquo; in their text without a confirmed match. Read the other way: 96%+ of the MCP ecosystem has not wired up x402 payments yet.", "<b>Response time:</b> median 1,118ms across a live sample of x402 Bazaar hosts (GET request, expecting HTTP 402). See <code>ops/S1/out/speed_sample.json</code>."], "rows": [{"host": "api.onesource.io", "slug": "api-onesource-io", "score": 85.87, "description": "Ethereum chain ID (EIP-155) via eth_chainId - confirm which chain a network is on"}, {"host": "chat.gedx402.com", "slug": "chat-gedx402-com", "score": 85.45, "description": "Multi-model chat completions. POST messages[] and set model to any LLM id from GET /v1/models; dynamic USDC pricing scales with model and token usage."}, {"host": "api.onesource.io", "slug": "api-onesource-io", "score": 85.25, "description": "ERC20 token balance for any Ethereum wallet - USDC, USDT, DAI, or any token - via balanceOf (eth_call) on OneSource live Ethereum RPC"}, {"host": "agent402.tools", "slug": "agent402-tools", "score": 85.24, "description": "Cryptographic hash of a text string - sha256 (default), sha512, sha1 or md5 - returned as hex and base64. Use it for content fingerprints, integrity c"}, {"host": "x402lifeadvice.vercel.app", "slug": "x402lifeadvice-vercel-app", "score": 84.8, "description": "Get one piece of thoughtful life advice, paid per request over x402."}, {"host": "agent402.tools", "slug": "agent402-tools", "score": 84.49, "description": "Public holidays for a country and year via Nager.Date (keyless, 100+ countries): date, local name, English name, nationwide flag, and holiday types. P"}, {"host": "app.heinrichstech.com", "slug": "app-heinrichstech-com", "score": 84.33, "description": "BitBooth echo endpoint — pays a tiny USDC fee, returns a JSON echo. Reference implementation of the x402 + CDP Facilitator + Bazaar discovery loop."}, {"host": "x402.ottoai.services", "slug": "x402-ottoai-services", "score": 84.27, "description": "AI-filtered crypto news and Twitter search for non-token topics (airdrops, DeFi trends, etc). Max 2 words."}, {"host": "mcp.barker.money", "slug": "mcp-barker-money", "score": 84.24, "description": "Barker's stablecoin market snapshot: total market cap, yield-bearing cap, asset distribution, chain distribution. Use for 'stablecoin market cap', 'US"}, {"host": "agent402.tools", "slug": "agent402-tools", "score": 84.14, "description": "UUIDs on demand: version 4 (random) or version 7 (time-ordered, sortable), up to 100 per call. Use it when an agent needs identifiers for records, req"}, {"host": "openrelay.hggfffdfy687.workers.dev", "slug": "openrelay-hggfffdfy687-workers-dev", "score": 84.13, "description": "OpenAI-compatible chat completion. $0.10/1M tokens (input+max_tokens). USDC on Solana or Base — no signup, no keys, pay-per-request via x402."}, {"host": "api.bitrefill.com", "slug": "api-bitrefill-com", "score": 84.02, "description": "Search 10,000+ gift card & voucher brands across 180+ countries by name and country. Pay in USDC via x402, no account."}, {"host": "tollbooth-hello-testnet.sjwilliams8.workers.dev", "slug": "tollbooth-hello-testnet-sjwilliams8-workers-dev", "score": 83.9, "description": "Test endpoint for verifying x402 payment integration end to end. Returns a static greeting in the Agent Tollbooth standard response envelope. Not a da"}, {"host": "x402.ottoai.services", "slug": "x402-ottoai-services", "score": 83.85, "description": "Live registry of tokenized US equities & ETFs on Robinhood Chain (4663): symbol, pin-verified token address, decimals, routability, the EXECUTABLE buy"}, {"host": "agent402.tools", "slug": "agent402-tools", "score": 83.85, "description": "Live spot price for one or many coins in any quote currency: last price, 24h change, 24h volume and market cap per coin, from a maintained market feed"}, {"host": "agent402.tools", "slug": "agent402-tools", "score": 83.84, "description": "Cryptographically secure randomness. ?bytes=1..1024 returns hex; or ?min=&max= returns a uniform integer; ?count=1..100."}, {"host": "x402-echo-service.onrender.com", "slug": "x402-echo-service-onrender-com", "score": 83.82, "description": "Web search for agents. POST a JSON body with a \"query\" string and an optional \"limit\" (1-20); returns ranked results, each with a title, url and text "}, {"host": "agent402.tools", "slug": "agent402-tools", "score": 83.78, "description": "Convert a nominal annual rate (APR) compounded m times per year into the effective annual rate (EAR / APY): (1 + apr/m)^m - 1. Set continuous:true for"}, {"host": "x402.freeq.one", "slug": "x402-freeq-one", "score": 83.62, "description": "MCP server for AI agents: 28 tools (blockchain data, web scraping, ZK proofs, image generation, gift cards) payable per call in USDC on Base via x402."}, {"host": "x402-datashop-production.up.railway.app", "slug": "x402-datashop-production-up-railway-app", "score": 83.51, "description": "Latest European Central Bank reference exchange rates, normalized JSON. Query: ?base=EUR&symbols=USD,GBP,JPY (symbols optional -> all). Rates update o"}, {"host": "agent402.tools", "slug": "agent402-tools", "score": 83.48, "description": "OpenAI-compatible chat completions priced from the request itself: the 402 quotes this exact body, from $0.001, and a buyer on the upto scheme settles"}, {"host": "page.intel.rallylive.ca", "slug": "page-intel-rallylive-ca", "score": 83.37, "description": "All article meta tags of a page as a name → content map, with a count and a list of expected tags that are missing (for Open Graph/Twitter). One group"}, {"host": "router.forgemesh.io", "slug": "router-forgemesh-io", "score": 83.33, "description": "Search x402 service registry — broad q search plus health, score, category, tag, and tags filters"}, {"host": "api.usenami.io", "slug": "api-usenami-io", "score": 83.26, "description": "24-hour rolling USD volume for one crypto perpetual on one venue — liquidity and activity ranking across tracked CEX and DEX perp venues."}, {"host": "scry.solanahub.de", "slug": "scry-solanahub-de", "score": 83.25, "description": "Sub-cent ($0.001) Solana wallet prefilter via x402: service/router quarantine, bundler hint, identity/freshness badges. Use for a fast first screen of"}, {"host": "amoraw.xyz", "slug": "amoraw-xyz", "score": 83.24, "description": "Canonicalize a CAIP-2/CAIP-19 or legacy network string and return the recognized chain, native currency, reviewed USDC asset and decimals, supported x"}, {"host": "dihh.my.id", "slug": "dihh-my-id", "score": 83.23, "description": "Top-5 crypto long candidates across 20 Coinbase USDC pairs with score, price, ATR% and reasons. AI-operated market intelligence, not advice."}, {"host": "intel.rallylive.ca", "slug": "intel-rallylive-ca", "score": 83.12, "description": "Free history books: public-domain histories, memoirs and primary sources (Gutenberg, Internet Archive Americana) with download links, most popular fir"}, {"host": "odds.rjhsignaltech.workers.dev", "slug": "odds-rjhsignaltech-workers-dev", "score": 83.1, "description": "Fast LLM answer for one prompt (Llama 3.1 8B) via GET q=: summarize, classify, rewrite, draft, answer; plain text up to 400 tokens, optional system in"}, {"host": "intel.rallylive.ca", "slug": "intel-rallylive-ca", "score": 83.08, "description": "Current weather in Seoul right now: temperature, feels-like, humidity, wind, precipitation, cloud cover and conditions from Open-Meteo, plus today's s"}, {"host": "gpt.558686.xyz", "slug": "gpt-558686-xyz", "score": 34.4, "description": ""}, {"host": "api.sirenic.eu", "slug": "api-sirenic-eu", "score": 34.35, "description": "PDF download of official documents from the French INPI RNE registry: retrieve the original filed document by type (actes | bilans) and document ID fr"}, {"host": "gpt.558686.xyz", "slug": "gpt-558686-xyz", "score": 33.86, "description": ""}, {"host": "gpt.558686.xyz", "slug": "gpt-558686-xyz", "score": 33.79, "description": ""}, {"host": "gpt.558686.xyz", "slug": "gpt-558686-xyz", "score": 33.79, "description": ""}, {"host": "gpt.558686.xyz", "slug": "gpt-558686-xyz", "score": 33.62, "description": ""}, {"host": "gpt.558686.xyz", "slug": "gpt-558686-xyz", "score": 33.58, "description": ""}, {"host": "dogdaycare.pages.dev", "slug": "dogdaycare-pages-dev", "score": 33.47, "description": "Paid access to GET /historical"}, {"host": "gpt.558686.xyz", "slug": "gpt-558686-xyz", "score": 33.44, "description": ""}, {"host": "gpt.558686.xyz", "slug": "gpt-558686-xyz", "score": 33.42, "description": ""}, {"host": "gpt.558686.xyz", "slug": "gpt-558686-xyz", "score": 33.4, "description": ""}, {"host": "402agent.ai", "slug": "402agent-ai", "score": 33.02, "description": "Fetch and extract structured content from a public URL. Useful for: reading articles, summarizing web pages, extracting facts from a source, understan"}, {"host": "api.regressionincoming.fyi", "slug": "api-regressionincoming-fyi", "score": 32.87, "description": ""}, {"host": "dogdaycare.pages.dev", "slug": "dogdaycare-pages-dev", "score": 30.13, "description": "YOu can pick any dog that is at the daycare"}, {"host": "api.zfinia.com", "slug": "api-zfinia-com", "score": 28.51, "description": "Use this when an agent needs to vet a company by its website domain before outreach, onboarding or payment. Returns legal name, LEI, SEC CIK, industry"}], "meta": {"collected_on": "2026-09-29", "top_n": 30, "bottom_n": 15, "scored_listings": 19091}}</script>
+<script>
+(function(){
+  var raw = document.getElementById('selectarank-data').textContent;
+  var data;
+  try { data = JSON.parse(raw); } catch(e){ data = null; }
+  if(!data){ return; }
+
+  var statRow = document.getElementById('stat-row');
+  (data.stats || []).forEach(function(s){
+    var d = document.createElement('div');
+    d.className = 'stat';
+    d.innerHTML = '<div class="n">'+s.n+'</div><div class="l">'+s.label+'</div>';
+    statRow.appendChild(d);
+  });
+
+  var asof = document.getElementById('asof-line');
+  if(data.meta && data.meta.collected_on){
+    asof.textContent = 'Data collected ' + data.meta.collected_on + ' (UTC).';
+  }
+
+  var factsList = document.getElementById('facts-list');
+  (data.facts || []).forEach(function(f){
+    var li = document.createElement('li');
+    li.innerHTML = f;
+    factsList.appendChild(li);
+  });
+
+  function tierClass(score){
+    if(score >= 80) return 't-brightgreen';
+    if(score >= 65) return 't-green';
+    if(score >= 50) return 't-yellow';
+    if(score >= 35) return 't-orange';
+    return 't-red';
+  }
+
+  var body = document.getElementById('rank-body');
+  (data.rows || []).forEach(function(r, i){
+    var tr = document.createElement('tr');
+    var desc = (r.description || '').replace(/</g,'&lt;');
+    tr.innerHTML =
+      '<td class="rank">'+(i+1)+'</td>'+
+      '<td class="score"><span class="badge-pill '+tierClass(r.score)+'">'+r.score.toFixed(0)+'</span></td>'+
+      '<td class="host">'+r.host+'</td>'+
+      '<td><a class="badge-link" href="badges/'+r.slug+'.json">JSON</a></td>'+
+      '<td class="desc"><span class="desc-cell" title="'+desc.replace(/"/g,'&quot;')+'">'+(desc || '<span style=\"opacity:.5\">(no description)</span>')+'</span></td>';
+    body.appendChild(tr);
+  });
+
+  var note = document.getElementById('table-note');
+  if(data.meta){
+    note.textContent = 'Showing the top ' + (data.meta.top_n || '') + ' and bottom ' + (data.meta.bottom_n || '') +
+      ' of ' + (data.meta.scored_listings || '?') + ' scored listings (rows are individual listings, not deduplicated by host).';
+  }
+})();
+</script>
+</body>
+</html>

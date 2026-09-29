@@ -1,0 +1,8 @@
+{
+  "skipped": true,
+  "reason": "OPENROUTER_API_KEY / ANTHROPIC_API_KEY のいずれも環境変数に無いためスキップ",
+  "keys_checked": [
+    "openrouter",
+    "anthropic"
+  ]
+}
